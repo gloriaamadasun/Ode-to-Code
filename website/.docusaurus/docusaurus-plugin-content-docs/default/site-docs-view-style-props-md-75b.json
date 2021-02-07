@@ -1,0 +1,22 @@
+{
+  "unversionedId": "view-style-props",
+  "id": "view-style-props",
+  "isDocsHomePage": false,
+  "title": "View Style Props",
+  "description": "Example",
+  "source": "@site/../docs/view-style-props.md",
+  "slug": "/view-style-props",
+  "permalink": "/docs/next/view-style-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/view-style-props.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "Text Style Props",
+    "permalink": "/docs/next/text-style-props"
+  },
+  "next": {
+    "title": "LayoutEvent Object Type",
+    "permalink": "/docs/next/layoutevent"
+  }
+}

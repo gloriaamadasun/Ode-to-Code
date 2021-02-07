@@ -1,0 +1,22 @@
+{
+  "unversionedId": "react-node",
+  "id": "version-0.63/react-node",
+  "isDocsHomePage": false,
+  "title": "React Node Object Type",
+  "description": "A React Node is one of the following types:",
+  "source": "@site/versioned_docs/version-0.63/react-node.md",
+  "slug": "/react-node",
+  "permalink": "/docs/react-node",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/react-node.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "PressEvent Object Type",
+    "permalink": "/docs/pressevent"
+  },
+  "next": {
+    "title": "Rect Object Type",
+    "permalink": "/docs/rect"
+  }
+}

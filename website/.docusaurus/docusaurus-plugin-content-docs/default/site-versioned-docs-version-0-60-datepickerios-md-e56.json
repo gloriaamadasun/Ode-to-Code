@@ -1,0 +1,22 @@
+{
+  "unversionedId": "datepickerios",
+  "id": "version-0.60/datepickerios",
+  "isDocsHomePage": false,
+  "title": "DatePickerIOS",
+  "description": "Use DatePickerIOS to render a date/time picker (selector) on iOS. This is a controlled component, so you must hook in to the onDateChange callback and update the date prop in order for the component to update, otherwise the user's change will be reverted immediately to reflect props.date as the source of truth.",
+  "source": "@site/versioned_docs/version-0.60/datepickerios.md",
+  "slug": "/datepickerios",
+  "permalink": "/docs/0.60/datepickerios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/datepickerios.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "Button",
+    "permalink": "/docs/0.60/button"
+  },
+  "next": {
+    "title": "DrawerLayoutAndroid",
+    "permalink": "/docs/0.60/drawerlayoutandroid"
+  }
+}

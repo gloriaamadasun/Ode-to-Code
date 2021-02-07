@@ -1,0 +1,22 @@
+{
+  "unversionedId": "text",
+  "id": "version-0.60/text",
+  "isDocsHomePage": false,
+  "title": "Text",
+  "description": "A React component for displaying text.",
+  "source": "@site/versioned_docs/version-0.60/text.md",
+  "slug": "/text",
+  "permalink": "/docs/0.60/text",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/text.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "TabBarIOS.Item",
+    "permalink": "/docs/0.60/tabbarios-item"
+  },
+  "next": {
+    "title": "TextInput",
+    "permalink": "/docs/0.60/textinput"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "button",
+  "id": "button",
+  "isDocsHomePage": false,
+  "title": "Button",
+  "description": "A basic button component that should render nicely on any platform. Supports a minimal level of customization.",
+  "source": "@site/../docs/button.md",
+  "slug": "/button",
+  "permalink": "/docs/next/button",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/button.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "ActivityIndicator",
+    "permalink": "/docs/next/activityindicator"
+  },
+  "next": {
+    "title": "FlatList",
+    "permalink": "/docs/next/flatlist"
+  }
+}

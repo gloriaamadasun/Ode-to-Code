@@ -1,0 +1,13 @@
+{
+  "unversionedId": "_getting-started-macos-android",
+  "id": "_getting-started-macos-android",
+  "isDocsHomePage": false,
+  "title": "_getting-started-macos-android",
+  "description": "Installing dependencies",
+  "source": "@site/../docs/_getting-started-macos-android.md",
+  "slug": "/_getting-started-macos-android",
+  "permalink": "/docs/next/_getting-started-macos-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/_getting-started-macos-android.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

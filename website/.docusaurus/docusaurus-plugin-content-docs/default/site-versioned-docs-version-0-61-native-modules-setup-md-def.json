@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-modules-setup",
+  "id": "version-0.61/native-modules-setup",
+  "isDocsHomePage": false,
+  "title": "Native Modules Setup",
+  "description": "Native modules are usually distributed as npm packages, except that on top of the usual JavaScript they will include some native code per platform. To understand more about npm packages you may find this guide useful.",
+  "source": "@site/versioned_docs/version-0.61/native-modules-setup.md",
+  "slug": "/native-modules-setup",
+  "permalink": "/docs/0.61/native-modules-setup",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/native-modules-setup.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/0.61/troubleshooting"
+  },
+  "next": {
+    "title": "Out-of-Tree Platforms",
+    "permalink": "/docs/0.61/out-of-tree-platforms"
+  }
+}

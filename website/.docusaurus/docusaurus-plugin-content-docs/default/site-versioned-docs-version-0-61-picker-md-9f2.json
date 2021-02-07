@@ -1,0 +1,22 @@
+{
+  "unversionedId": "picker",
+  "id": "version-0.61/picker",
+  "isDocsHomePage": false,
+  "title": "Picker",
+  "description": "Renders the native picker component on Android and iOS. Example:",
+  "source": "@site/versioned_docs/version-0.61/picker.md",
+  "slug": "/picker",
+  "permalink": "/docs/0.61/picker",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/picker.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "Modal",
+    "permalink": "/docs/0.61/modal"
+  },
+  "next": {
+    "title": "🚧 PickerIOS",
+    "permalink": "/docs/0.61/pickerios"
+  }
+}

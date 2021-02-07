@@ -1,0 +1,13 @@
+{
+  "unversionedId": "pushnotificationios",
+  "id": "pushnotificationios",
+  "isDocsHomePage": false,
+  "title": "🚧 PushNotificationIOS",
+  "description": "Deprecated. Use @react-native-community/push-notification-ios instead.",
+  "source": "@site/../docs/pushnotificationios.md",
+  "slug": "/pushnotificationios",
+  "permalink": "/docs/next/pushnotificationios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/pushnotificationios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

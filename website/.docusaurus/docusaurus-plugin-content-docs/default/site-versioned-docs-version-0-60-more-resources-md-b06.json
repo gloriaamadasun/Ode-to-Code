@@ -1,0 +1,22 @@
+{
+  "unversionedId": "more-resources",
+  "id": "version-0.60/more-resources",
+  "isDocsHomePage": false,
+  "title": "More Resources",
+  "description": "If you only read through this website, you should be able to build a pretty cool React Native app. But React Native isn't a product made by one company - it's a community of thousands of developers. So if you're interested in React Native, here's some related stuff you might want to check out.",
+  "source": "@site/versioned_docs/version-0.60/more-resources.md",
+  "slug": "/more-resources",
+  "permalink": "/docs/0.60/more-resources",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/more-resources.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Networking",
+    "permalink": "/docs/0.60/network"
+  },
+  "next": {
+    "title": "Platform Specific Code",
+    "permalink": "/docs/0.60/platform-specific-code"
+  }
+}

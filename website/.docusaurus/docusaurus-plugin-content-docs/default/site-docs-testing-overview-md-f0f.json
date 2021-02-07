@@ -1,0 +1,22 @@
+{
+  "unversionedId": "testing-overview",
+  "id": "testing-overview",
+  "isDocsHomePage": false,
+  "title": "Testing",
+  "description": "This guide introduces React Native developers to the key concepts behind testing, how to write good tests, and what kinds of tests you can incorporate into your workflow.",
+  "source": "@site/../docs/testing-overview.md",
+  "slug": "/testing-overview",
+  "permalink": "/docs/next/testing-overview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/testing-overview.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Symbolicating a stack trace",
+    "permalink": "/docs/next/symbolication"
+  },
+  "next": {
+    "title": "Using Libraries",
+    "permalink": "/docs/next/libraries"
+  }
+}

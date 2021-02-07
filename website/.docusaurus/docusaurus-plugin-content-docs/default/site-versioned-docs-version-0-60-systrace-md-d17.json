@@ -1,0 +1,22 @@
+{
+  "unversionedId": "systrace",
+  "id": "version-0.60/systrace",
+  "isDocsHomePage": false,
+  "title": "Systrace",
+  "description": "Reference",
+  "source": "@site/versioned_docs/version-0.60/systrace.md",
+  "slug": "/systrace",
+  "permalink": "/docs/0.60/systrace",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/systrace.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "StyleSheet",
+    "permalink": "/docs/0.60/stylesheet"
+  },
+  "next": {
+    "title": "Text Style Props",
+    "permalink": "/docs/0.60/text-style-props"
+  }
+}

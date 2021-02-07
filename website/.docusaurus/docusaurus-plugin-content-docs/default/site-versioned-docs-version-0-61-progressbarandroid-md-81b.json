@@ -1,0 +1,22 @@
+{
+  "unversionedId": "progressbarandroid",
+  "id": "version-0.61/progressbarandroid",
+  "isDocsHomePage": false,
+  "title": "🚧 ProgressBarAndroid",
+  "description": "Deprecated. Use @react-native-community/progress-bar-android instead.",
+  "source": "@site/versioned_docs/version-0.61/progressbarandroid.md",
+  "slug": "/progressbarandroid",
+  "permalink": "/docs/0.61/progressbarandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/progressbarandroid.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "🚧 PickerIOS",
+    "permalink": "/docs/0.61/pickerios"
+  },
+  "next": {
+    "title": "🚧 ProgressViewIOS",
+    "permalink": "/docs/0.61/progressviewios"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "unversionedId": "custom-webview-ios",
+  "id": "custom-webview-ios",
+  "isDocsHomePage": false,
+  "title": "Custom WebView",
+  "description": "While the built-in web view has a lot of features, it is not possible to handle every use-case in React Native. You can, however, extend the web view with native code without forking React Native or duplicating all the existing web view code.",
+  "source": "@site/../docs/custom-webview-ios.md",
+  "slug": "/custom-webview-ios",
+  "permalink": "/docs/next/custom-webview-ios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/custom-webview-ios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

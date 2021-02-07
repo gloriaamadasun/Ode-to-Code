@@ -1,0 +1,22 @@
+{
+  "unversionedId": "progressviewios",
+  "id": "version-0.60/progressviewios",
+  "isDocsHomePage": false,
+  "title": "ProgressViewIOS",
+  "description": "Uses ProgressViewIOS to render a UIProgressView on iOS.",
+  "source": "@site/versioned_docs/version-0.60/progressviewios.md",
+  "slug": "/progressviewios",
+  "permalink": "/docs/0.60/progressviewios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/progressviewios.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "ProgressBarAndroid",
+    "permalink": "/docs/0.60/progressbarandroid"
+  },
+  "next": {
+    "title": "RefreshControl",
+    "permalink": "/docs/0.60/refreshcontrol"
+  }
+}

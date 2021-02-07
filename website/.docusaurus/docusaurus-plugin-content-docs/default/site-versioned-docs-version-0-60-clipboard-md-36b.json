@@ -1,0 +1,22 @@
+{
+  "unversionedId": "clipboard",
+  "id": "version-0.60/clipboard",
+  "isDocsHomePage": false,
+  "title": "Clipboard",
+  "description": "Clipboard gives you an interface for setting and getting content from Clipboard on both Android and iOS",
+  "source": "@site/versioned_docs/version-0.60/clipboard.md",
+  "slug": "/clipboard",
+  "permalink": "/docs/0.60/clipboard",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/clipboard.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "BackHandler",
+    "permalink": "/docs/0.60/backhandler"
+  },
+  "next": {
+    "title": "DatePickerAndroid",
+    "permalink": "/docs/0.60/datepickerandroid"
+  }
+}

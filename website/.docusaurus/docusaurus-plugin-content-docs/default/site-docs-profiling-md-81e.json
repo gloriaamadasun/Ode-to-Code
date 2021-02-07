@@ -1,0 +1,22 @@
+{
+  "unversionedId": "profiling",
+  "id": "profiling",
+  "isDocsHomePage": false,
+  "title": "Profiling",
+  "description": "Use the built-in profiler to get detailed information about work done in the JavaScript thread and main thread side-by-side. Access it by selecting Perf Monitor from the Debug menu.",
+  "source": "@site/../docs/profiling.md",
+  "slug": "/profiling",
+  "permalink": "/docs/next/profiling",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/profiling.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "RAM Bundles and Inline Requires",
+    "permalink": "/docs/next/ram-bundles-inline-requires"
+  },
+  "next": {
+    "title": "Profiling with Hermes",
+    "permalink": "/docs/next/profile-hermes"
+  }
+}

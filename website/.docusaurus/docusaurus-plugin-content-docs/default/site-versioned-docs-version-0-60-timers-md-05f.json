@@ -1,0 +1,22 @@
+{
+  "unversionedId": "timers",
+  "id": "version-0.60/timers",
+  "isDocsHomePage": false,
+  "title": "Timers",
+  "description": "Timers are an important part of an application and React Native implements the browser timers.",
+  "source": "@site/versioned_docs/version-0.60/timers.md",
+  "slug": "/timers",
+  "permalink": "/docs/0.60/timers",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/timers.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Optimizing Flatlist Configuration",
+    "permalink": "/docs/0.60/optimizing-flatlist-configuration"
+  },
+  "next": {
+    "title": "Debugging",
+    "permalink": "/docs/0.60/debugging"
+  }
+}

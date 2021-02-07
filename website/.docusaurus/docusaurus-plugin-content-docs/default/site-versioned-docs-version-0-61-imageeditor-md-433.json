@@ -1,0 +1,22 @@
+{
+  "unversionedId": "imageeditor",
+  "id": "version-0.61/imageeditor",
+  "isDocsHomePage": false,
+  "title": "🚧 ImageEditor",
+  "description": "Deprecated. Use @react-native-community/image-editor instead.",
+  "source": "@site/versioned_docs/version-0.61/imageeditor.md",
+  "slug": "/imageeditor",
+  "permalink": "/docs/0.61/imageeditor",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/imageeditor.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "Easing",
+    "permalink": "/docs/0.61/easing"
+  },
+  "next": {
+    "title": "🚧 ImagePickerIOS",
+    "permalink": "/docs/0.61/imagepickerios"
+  }
+}

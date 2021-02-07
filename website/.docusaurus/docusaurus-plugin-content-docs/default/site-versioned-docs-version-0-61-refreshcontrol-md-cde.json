@@ -1,0 +1,22 @@
+{
+  "unversionedId": "refreshcontrol",
+  "id": "version-0.61/refreshcontrol",
+  "isDocsHomePage": false,
+  "title": "RefreshControl",
+  "description": "This component is used inside a ScrollView or ListView to add pull to refresh functionality. When the ScrollView is at scrollY: 0, swiping down triggers an onRefresh event.",
+  "source": "@site/versioned_docs/version-0.61/refreshcontrol.md",
+  "slug": "/refreshcontrol",
+  "permalink": "/docs/0.61/refreshcontrol",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/refreshcontrol.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "🚧 ProgressViewIOS",
+    "permalink": "/docs/0.61/progressviewios"
+  },
+  "next": {
+    "title": "SafeAreaView",
+    "permalink": "/docs/0.61/safeareaview"
+  }
+}

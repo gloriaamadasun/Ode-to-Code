@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/01/07/monthly-release-cadence",
+  "source": "@site/blog/2017-01-07-monthly-release-cadence.md",
+  "description": "Shortly after React Native was introduced, we started releasing every two weeks to help the community adopt new features, while keeping versions stable for production use. At Facebook we had to stabilize the codebase every two weeks for the release of our production iOS apps, so we decided to release the open source versions at the same pace. Now, many of the Facebook apps ship once per week, especially on Android. Because we ship from master weekly, we need to keep it quite stable. So the bi-weekly release cadence doesn't even benefit internal contributors anymore.",
+  "date": "2017-01-07T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "A Monthly Release Cadence: Releasing December and January RC",
+  "readingTime": 1.83,
+  "truncated": false,
+  "prevItem": {
+    "title": "Using Native Driver for Animated",
+    "permalink": "/blog/2017/02/14/using-native-driver-for-animated"
+  },
+  "nextItem": {
+    "title": "Easier Upgrades Thanks to Git",
+    "permalink": "/blog/2016/12/05/easier-upgrades"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchableopacity",
+  "id": "version-0.62/touchableopacity",
+  "isDocsHomePage": false,
+  "title": "TouchableOpacity",
+  "description": "A wrapper for making views respond properly to touches. On press down, the opacity of the wrapped view is decreased, dimming it.",
+  "source": "@site/versioned_docs/version-0.62/touchableopacity.md",
+  "slug": "/touchableopacity",
+  "permalink": "/docs/0.62/touchableopacity",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/touchableopacity.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/components",
+  "previous": {
+    "title": "TouchableHighlight",
+    "permalink": "/docs/0.62/touchablehighlight"
+  },
+  "next": {
+    "title": "TouchableWithoutFeedback",
+    "permalink": "/docs/0.62/touchablewithoutfeedback"
+  }
+}

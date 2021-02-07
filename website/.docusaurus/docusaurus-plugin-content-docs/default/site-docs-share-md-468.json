@@ -1,0 +1,22 @@
+{
+  "unversionedId": "share",
+  "id": "share",
+  "isDocsHomePage": false,
+  "title": "Share",
+  "description": "Example",
+  "source": "@site/../docs/share.md",
+  "slug": "/share",
+  "permalink": "/docs/next/share",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/share.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "PlatformColor",
+    "permalink": "/docs/next/platformcolor"
+  },
+  "next": {
+    "title": "StyleSheet",
+    "permalink": "/docs/next/stylesheet"
+  }
+}

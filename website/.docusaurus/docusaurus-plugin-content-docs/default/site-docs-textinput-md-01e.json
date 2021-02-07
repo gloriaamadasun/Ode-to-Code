@@ -1,0 +1,22 @@
+{
+  "unversionedId": "textinput",
+  "id": "textinput",
+  "isDocsHomePage": false,
+  "title": "TextInput",
+  "description": "A foundational component for inputting text into the app via a keyboard. Props provide configurability for several features, such as auto-correction, auto-capitalization, placeholder text, and different keyboard types, such as a numeric keypad.",
+  "source": "@site/../docs/textinput.md",
+  "slug": "/textinput",
+  "permalink": "/docs/next/textinput",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/textinput.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "Text",
+    "permalink": "/docs/next/text"
+  },
+  "next": {
+    "title": "TouchableHighlight",
+    "permalink": "/docs/next/touchablehighlight"
+  }
+}

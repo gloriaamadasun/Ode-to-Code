@@ -1,0 +1,22 @@
+{
+  "unversionedId": "timers",
+  "id": "version-0.62/timers",
+  "isDocsHomePage": false,
+  "title": "Timers",
+  "description": "Timers are an important part of an application and React Native implements the browser timers.",
+  "source": "@site/versioned_docs/version-0.62/timers.md",
+  "slug": "/timers",
+  "permalink": "/docs/0.62/timers",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/timers.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "JavaScript Environment",
+    "permalink": "/docs/0.62/javascript-environment"
+  },
+  "next": {
+    "title": "Using Hermes",
+    "permalink": "/docs/0.62/hermes"
+  }
+}

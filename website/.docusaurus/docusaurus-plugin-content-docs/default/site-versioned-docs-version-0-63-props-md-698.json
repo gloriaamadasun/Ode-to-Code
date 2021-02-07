@@ -1,0 +1,13 @@
+{
+  "unversionedId": "props",
+  "id": "version-0.63/props",
+  "isDocsHomePage": false,
+  "title": "Props",
+  "description": "Most components can be customized when they are created, with different parameters. These created parameters are called props, short for properties.",
+  "source": "@site/versioned_docs/version-0.63/props.md",
+  "slug": "/props",
+  "permalink": "/docs/props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/props.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

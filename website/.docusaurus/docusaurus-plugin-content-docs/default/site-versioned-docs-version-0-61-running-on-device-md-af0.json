@@ -1,0 +1,22 @@
+{
+  "unversionedId": "running-on-device",
+  "id": "version-0.61/running-on-device",
+  "isDocsHomePage": false,
+  "title": "Running On Device",
+  "description": "It's always a good idea to test your app on an actual device before releasing it to your users. This document will guide you through the necessary steps to run your React Native app on a device and to get it ready for production.",
+  "source": "@site/versioned_docs/version-0.61/running-on-device.md",
+  "slug": "/running-on-device",
+  "permalink": "/docs/0.61/running-on-device",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/running-on-device.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Building For TV Devices",
+    "permalink": "/docs/0.61/building-for-tv"
+  },
+  "next": {
+    "title": "Upgrading to new React Native versions",
+    "permalink": "/docs/0.61/upgrading"
+  }
+}

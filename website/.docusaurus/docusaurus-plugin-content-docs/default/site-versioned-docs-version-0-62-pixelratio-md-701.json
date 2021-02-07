@@ -1,0 +1,22 @@
+{
+  "unversionedId": "pixelratio",
+  "id": "version-0.62/pixelratio",
+  "isDocsHomePage": false,
+  "title": "PixelRatio",
+  "description": "PixelRatio gives you access to the device's pixel density and font scale.",
+  "source": "@site/versioned_docs/version-0.62/pixelratio.md",
+  "slug": "/pixelratio",
+  "permalink": "/docs/0.62/pixelratio",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/pixelratio.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/api",
+  "previous": {
+    "title": "PanResponder",
+    "permalink": "/docs/0.62/panresponder"
+  },
+  "next": {
+    "title": "Share",
+    "permalink": "/docs/0.62/share"
+  }
+}

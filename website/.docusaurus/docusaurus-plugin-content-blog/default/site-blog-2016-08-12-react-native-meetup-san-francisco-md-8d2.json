@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/08/12/react-native-meetup-san-francisco",
+  "source": "@site/blog/2016-08-12-react-native-meetup-san-francisco.md",
+  "description": "Last week I had the opportunity to attend the React Native Meetup at Zynga’s San Francisco office. With around 200 people in attendance, it served as a great place to meet other developers near me that are also interested in React Native.",
+  "date": "2016-08-12T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "events",
+      "permalink": "/blog/tags/events"
+    }
+  ],
+  "title": "San Francisco Meetup Recap",
+  "readingTime": 8.3,
+  "truncated": false,
+  "prevItem": {
+    "title": "Right-to-Left Layout Support For React Native Apps",
+    "permalink": "/blog/2016/08/19/right-to-left-support-for-react-native-apps"
+  },
+  "nextItem": {
+    "title": "Toward Better Documentation",
+    "permalink": "/blog/2016/07/06/toward-better-documentation"
+  }
+}

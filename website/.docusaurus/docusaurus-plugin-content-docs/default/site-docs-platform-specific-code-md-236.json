@@ -1,0 +1,22 @@
+{
+  "unversionedId": "platform-specific-code",
+  "id": "platform-specific-code",
+  "isDocsHomePage": false,
+  "title": "Platform Specific Code",
+  "description": "When building a cross-platform app, you'll want to re-use as much code as possible. Scenarios may arise where it makes sense for the code to be different, for example you may want to implement separate visual components for Android and iOS.",
+  "source": "@site/../docs/platform-specific-code.md",
+  "slug": "/platform-specific-code",
+  "permalink": "/docs/next/platform-specific-code",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/platform-specific-code.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/next/troubleshooting"
+  },
+  "next": {
+    "title": "More Resources",
+    "permalink": "/docs/next/more-resources"
+  }
+}

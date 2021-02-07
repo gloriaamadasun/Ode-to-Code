@@ -1,0 +1,22 @@
+{
+  "unversionedId": "accessibility",
+  "id": "version-0.62/accessibility",
+  "isDocsHomePage": false,
+  "title": "Accessibility",
+  "description": "Both Android and iOS provide APIs for integrating apps with assistive technologies like the bundled screen readers VoiceOver (iOS) and TalkBack (Android). React Native has complimentary APIs that let your app accommodate all users.",
+  "source": "@site/versioned_docs/version-0.62/accessibility.md",
+  "slug": "/accessibility",
+  "permalink": "/docs/0.62/accessibility",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/accessibility.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Gesture Responder System",
+    "permalink": "/docs/0.62/gesture-responder-system"
+  },
+  "next": {
+    "title": "Performance Overview",
+    "permalink": "/docs/0.62/performance"
+  }
+}

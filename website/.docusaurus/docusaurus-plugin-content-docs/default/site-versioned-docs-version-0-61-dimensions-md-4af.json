@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dimensions",
+  "id": "version-0.61/dimensions",
+  "isDocsHomePage": false,
+  "title": "Dimensions",
+  "description": "useWindowDimensions is the preffered API for React components. Unlike Dimensions, it updates as the window's dimensions update. This works nicely with the React paradigm.",
+  "source": "@site/versioned_docs/version-0.61/dimensions.md",
+  "slug": "/dimensions",
+  "permalink": "/docs/0.61/dimensions",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/dimensions.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "🚧 DatePickerAndroid",
+    "permalink": "/docs/0.61/datepickerandroid"
+  },
+  "next": {
+    "title": "Easing",
+    "permalink": "/docs/0.61/easing"
+  }
+}

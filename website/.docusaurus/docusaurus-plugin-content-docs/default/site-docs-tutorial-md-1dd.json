@@ -1,0 +1,13 @@
+{
+  "unversionedId": "tutorial",
+  "id": "tutorial",
+  "isDocsHomePage": false,
+  "title": "Learn the Basics",
+  "description": "React Native is like React, but it uses native components instead of web components as building blocks. So to understand the basic structure of a React Native app, you need to understand some of the basic React concepts, like JSX, components, state, and props. If you already know React, you still need to learn some React-Native-specific stuff, like the native components. This tutorial is aimed at all audiences, whether you have React experience or not.",
+  "source": "@site/../docs/tutorial.md",
+  "slug": "/tutorial",
+  "permalink": "/docs/next/tutorial",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/tutorial.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

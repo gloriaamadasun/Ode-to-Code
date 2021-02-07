@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/02/14/using-native-driver-for-animated",
+  "source": "@site/blog/2017-02-14-using-native-driver-for-animated.md",
+  "description": "For the past year, we've been working on improving performance of animations that use the Animated library. Animations are very important to create a beautiful user experience but can also be hard to do right. We want to make it easy for developers to create performant animations without having to worry about some of their code causing it to lag.",
+  "date": "2017-02-14T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Using Native Driver for Animated",
+  "readingTime": 6.09,
+  "truncated": false,
+  "prevItem": {
+    "title": "idx: The Existential Function",
+    "permalink": "/blog/2017/03/13/idx-the-existential-function"
+  },
+  "nextItem": {
+    "title": "A Monthly Release Cadence: Releasing December and January RC",
+    "permalink": "/blog/2017/01/07/monthly-release-cadence"
+  }
+}

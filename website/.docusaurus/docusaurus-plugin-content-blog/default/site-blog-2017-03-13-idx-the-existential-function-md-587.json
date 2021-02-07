@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/03/13/idx-the-existential-function",
+  "source": "@site/blog/2017-03-13-idx-the-existential-function.md",
+  "description": "At Facebook, we often need to access deeply nested values in data structures fetched with GraphQL. On the way to accessing these deeply nested values, it is common for one or more intermediate fields to be nullable. These intermediate fields may be null for a variety of reasons, from failed privacy checks to the mere fact that null happens to be the most flexible way to represent non-fatal errors.",
+  "date": "2017-03-13T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "idx: The Existential Function",
+  "readingTime": 1.89,
+  "truncated": false,
+  "prevItem": {
+    "title": "Introducing Create React Native App",
+    "permalink": "/blog/2017/03/13/introducing-create-react-native-app"
+  },
+  "nextItem": {
+    "title": "Using Native Driver for Animated",
+    "permalink": "/blog/2017/02/14/using-native-driver-for-animated"
+  }
+}

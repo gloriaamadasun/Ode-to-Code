@@ -1,0 +1,22 @@
+{
+  "unversionedId": "clipboard",
+  "id": "version-0.61/clipboard",
+  "isDocsHomePage": false,
+  "title": "🚧 Clipboard",
+  "description": "Deprecated. Use @react-native-community/clipboard instead.",
+  "source": "@site/versioned_docs/version-0.61/clipboard.md",
+  "slug": "/clipboard",
+  "permalink": "/docs/0.61/clipboard",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/clipboard.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "BackHandler",
+    "permalink": "/docs/0.61/backhandler"
+  },
+  "next": {
+    "title": "🚧 DatePickerAndroid",
+    "permalink": "/docs/0.61/datepickerandroid"
+  }
+}

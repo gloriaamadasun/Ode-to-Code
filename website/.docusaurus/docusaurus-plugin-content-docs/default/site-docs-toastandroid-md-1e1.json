@@ -1,0 +1,22 @@
+{
+  "unversionedId": "toastandroid",
+  "id": "toastandroid",
+  "isDocsHomePage": false,
+  "title": "ToastAndroid",
+  "description": "React Native's ToastAndroid API exposes the Android platform's ToastAndroid module as a JS module. It provides the method show(message, duration) which takes the following parameters:",
+  "source": "@site/../docs/toastandroid.md",
+  "slug": "/toastandroid",
+  "permalink": "/docs/next/toastandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/toastandroid.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "PermissionsAndroid",
+    "permalink": "/docs/next/permissionsandroid"
+  },
+  "next": {
+    "title": "ActionSheetIOS",
+    "permalink": "/docs/next/actionsheetios"
+  }
+}

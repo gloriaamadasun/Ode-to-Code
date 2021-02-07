@@ -1,0 +1,22 @@
+{
+  "unversionedId": "text-style-props",
+  "id": "version-0.62/text-style-props",
+  "isDocsHomePage": false,
+  "title": "Text Style Props",
+  "description": "Example",
+  "source": "@site/versioned_docs/version-0.62/text-style-props.md",
+  "slug": "/text-style-props",
+  "permalink": "/docs/0.62/text-style-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/text-style-props.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/components",
+  "previous": {
+    "title": "Shadow Props",
+    "permalink": "/docs/0.62/shadow-props"
+  },
+  "next": {
+    "title": "View Style Props",
+    "permalink": "/docs/0.62/view-style-props"
+  }
+}

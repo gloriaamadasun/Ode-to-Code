@@ -1,0 +1,22 @@
+{
+  "unversionedId": "keyboardavoidingview",
+  "id": "version-0.61/keyboardavoidingview",
+  "isDocsHomePage": false,
+  "title": "KeyboardAvoidingView",
+  "description": "It is a component to solve the common problem of views that need to move out of the way of the virtual keyboard. It can automatically adjust either its height, position, or bottom padding based on the position of the keyboard.",
+  "source": "@site/versioned_docs/version-0.61/keyboardavoidingview.md",
+  "slug": "/keyboardavoidingview",
+  "permalink": "/docs/0.61/keyboardavoidingview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/keyboardavoidingview.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "InputAccessoryView",
+    "permalink": "/docs/0.61/inputaccessoryview"
+  },
+  "next": {
+    "title": "🚧 MaskedViewIOS",
+    "permalink": "/docs/0.61/maskedviewios"
+  }
+}

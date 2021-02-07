@@ -1,0 +1,22 @@
+{
+  "unversionedId": "imagebackground",
+  "id": "version-0.60/imagebackground",
+  "isDocsHomePage": false,
+  "title": "ImageBackground",
+  "description": "A common feature request from developers familiar with the web is background-image. To handle this use case, you can use the ` component, which has the same props as `, and add whatever children to it you would like to layer on top of it.",
+  "source": "@site/versioned_docs/version-0.60/imagebackground.md",
+  "slug": "/imagebackground",
+  "permalink": "/docs/0.60/imagebackground",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/imagebackground.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "Image",
+    "permalink": "/docs/0.60/image"
+  },
+  "next": {
+    "title": "InputAccessoryView",
+    "permalink": "/docs/0.60/inputaccessoryview"
+  }
+}

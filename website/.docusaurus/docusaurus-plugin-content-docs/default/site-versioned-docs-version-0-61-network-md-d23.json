@@ -1,0 +1,22 @@
+{
+  "unversionedId": "network",
+  "id": "version-0.61/network",
+  "isDocsHomePage": false,
+  "title": "Networking",
+  "description": "Many mobile apps need to load resources from a remote URL. You may want to make a POST request to a REST API, or you may need to fetch a chunk of static content from another server.",
+  "source": "@site/versioned_docs/version-0.61/network.md",
+  "slug": "/network",
+  "permalink": "/docs/0.61/network",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/network.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Using List Views",
+    "permalink": "/docs/0.61/using-a-listview"
+  },
+  "next": {
+    "title": "More Resources",
+    "permalink": "/docs/0.61/more-resources"
+  }
+}

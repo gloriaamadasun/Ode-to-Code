@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/03/13/better-list-views",
+  "source": "@site/blog/2017-03-13-better-list-views.md",
+  "description": "Many of you have started playing with some of our new List components already after our teaser announcement in the community group, but we are officially announcing them today! No more ListViews or DataSources, stale rows, ignored bugs, or excessive memory consumption - with the latest React Native March 2017 release candidate (0.43-rc.1) you can pick from the new suite of components what best fits your use-case, with great perf and feature sets out of the box:",
+  "date": "2017-03-13T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Better List Views in React Native",
+  "readingTime": 5.255,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native Monthly #1",
+    "permalink": "/blog/2017/06/21/react-native-monthly-1"
+  },
+  "nextItem": {
+    "title": "Introducing Create React Native App",
+    "permalink": "/blog/2017/03/13/introducing-create-react-native-app"
+  }
+}

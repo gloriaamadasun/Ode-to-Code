@@ -1,0 +1,22 @@
+{
+  "unversionedId": "upgrading",
+  "id": "upgrading",
+  "isDocsHomePage": false,
+  "title": "Upgrading to new versions",
+  "description": "Upgrading to new versions of React Native will give you access to more APIs, views, developer tools and other goodies. Upgrading requires a small amount of effort, but we try to make it straightforward for you.",
+  "source": "@site/../docs/upgrading.md",
+  "slug": "/upgrading",
+  "permalink": "/docs/next/upgrading",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/upgrading.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using TypeScript",
+    "permalink": "/docs/next/typescript"
+  },
+  "next": {
+    "title": "Style",
+    "permalink": "/docs/next/style"
+  }
+}

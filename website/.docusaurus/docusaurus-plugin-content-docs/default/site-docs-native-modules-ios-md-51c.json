@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-modules-ios",
+  "id": "native-modules-ios",
+  "isDocsHomePage": false,
+  "title": "iOS Native Modules",
+  "description": "Welcome to Native Modules for iOS. Please start by reading the Native Modules Intro for an intro to what native modules are.",
+  "source": "@site/../docs/native-modules-ios.md",
+  "slug": "/native-modules-ios",
+  "permalink": "/docs/next/native-modules-ios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/native-modules-ios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Android Native Modules",
+    "permalink": "/docs/next/native-modules-android"
+  },
+  "next": {
+    "title": "Native Modules NPM Package Setup",
+    "permalink": "/docs/next/native-modules-setup"
+  }
+}

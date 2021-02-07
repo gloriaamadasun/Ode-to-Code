@@ -1,0 +1,22 @@
+{
+  "unversionedId": "gesture-responder-system",
+  "id": "version-0.61/gesture-responder-system",
+  "isDocsHomePage": false,
+  "title": "Gesture Responder System",
+  "description": "The gesture responder system manages the lifecycle of gestures in your app. A touch can go through several phases as the app determines what the user's intention is. For example, the app needs to determine if the touch is scrolling, sliding on a widget, or tapping. This can even change during the duration of a touch. There can also be multiple simultaneous touches.",
+  "source": "@site/versioned_docs/version-0.61/gesture-responder-system.md",
+  "slug": "/gesture-responder-system",
+  "permalink": "/docs/0.61/gesture-responder-system",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/gesture-responder-system.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Performance",
+    "permalink": "/docs/0.61/performance"
+  },
+  "next": {
+    "title": "JavaScript Environment",
+    "permalink": "/docs/0.61/javascript-environment"
+  }
+}

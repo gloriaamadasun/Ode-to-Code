@@ -1,0 +1,22 @@
+{
+  "unversionedId": "statusbarios",
+  "id": "version-0.60/statusbarios",
+  "isDocsHomePage": false,
+  "title": "StatusBarIOS",
+  "description": "Use StatusBar for mutating the status bar.",
+  "source": "@site/versioned_docs/version-0.60/statusbarios.md",
+  "slug": "/statusbarios",
+  "permalink": "/docs/0.60/statusbarios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/statusbarios.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "Share",
+    "permalink": "/docs/0.60/share"
+  },
+  "next": {
+    "title": "StyleSheet",
+    "permalink": "/docs/0.60/stylesheet"
+  }
+}

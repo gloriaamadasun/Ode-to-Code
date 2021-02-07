@@ -1,0 +1,13 @@
+{
+  "unversionedId": "slider",
+  "id": "slider",
+  "isDocsHomePage": false,
+  "title": "🚧 Slider",
+  "description": "Deprecated. Use @react-native-community/slider instead.",
+  "source": "@site/../docs/slider.md",
+  "slug": "/slider",
+  "permalink": "/docs/next/slider",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/slider.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

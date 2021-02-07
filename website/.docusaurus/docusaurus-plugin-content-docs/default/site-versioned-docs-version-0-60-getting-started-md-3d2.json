@@ -1,0 +1,13 @@
+{
+  "unversionedId": "enviroment-setup",
+  "id": "version-0.60/enviroment-setup",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "This page will help you install and build your first React Native app.",
+  "source": "@site/versioned_docs/version-0.60/getting-started.md",
+  "slug": "/enviroment-setup",
+  "permalink": "/docs/0.60/enviroment-setup",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/getting-started.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

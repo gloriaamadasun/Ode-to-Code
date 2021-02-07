@@ -1,0 +1,22 @@
+{
+  "unversionedId": "security",
+  "id": "security",
+  "isDocsHomePage": false,
+  "title": "Security",
+  "description": "Security is often overlooked when building apps. It is true that it is impossible to build software that is completely impenetrable—we’ve yet to invent a completely impenetrable lock (bank vaults do, after all, still get broken into). However, the probability of falling victim to a malicious attack or being exposed for a security vulnerability is inversely proportional to the effort you’re willing to put in to protecting your application against any such eventuality. Although an ordinary padlock is pickable, it is still much harder to get past than a cabinet hook!",
+  "source": "@site/../docs/security.md",
+  "slug": "/security",
+  "permalink": "/docs/next/security",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/security.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Networking",
+    "permalink": "/docs/next/network"
+  },
+  "next": {
+    "title": "Native Modules Intro",
+    "permalink": "/docs/next/native-modules-intro"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2018/03/22/building-input-accessory-view-for-react-native",
+  "source": "@site/blog/2018-03-22-building-input-accessory-view-for-react-native.md",
+  "description": "Motivation",
+  "date": "2018-03-22T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Building <InputAccessoryView> For React Native",
+  "readingTime": 5.875,
+  "truncated": false,
+  "prevItem": {
+    "title": "Built with React Native - The Build.com app",
+    "permalink": "/blog/2018/04/09/build-com-app"
+  },
+  "nextItem": {
+    "title": "Using AWS with React Native",
+    "permalink": "/blog/2018/03/05/AWS-app-sync"
+  }
+}

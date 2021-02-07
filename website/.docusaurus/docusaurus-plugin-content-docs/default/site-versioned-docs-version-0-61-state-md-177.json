@@ -1,0 +1,22 @@
+{
+  "unversionedId": "state",
+  "id": "version-0.61/state",
+  "isDocsHomePage": false,
+  "title": "State",
+  "description": "There are two types of data that control a component: props and state. props are set by the parent and they are fixed throughout the lifetime of a component. For data that is going to change, we have to use state.",
+  "source": "@site/versioned_docs/version-0.61/state.md",
+  "slug": "/state",
+  "permalink": "/docs/0.61/state",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/state.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Props",
+    "permalink": "/docs/0.61/props"
+  },
+  "next": {
+    "title": "Style",
+    "permalink": "/docs/0.61/style"
+  }
+}

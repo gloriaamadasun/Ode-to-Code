@@ -1,0 +1,22 @@
+{
+  "unversionedId": "images",
+  "id": "images",
+  "isDocsHomePage": false,
+  "title": "Images",
+  "description": "Static Image Resources",
+  "source": "@site/../docs/images.md",
+  "slug": "/images",
+  "permalink": "/docs/next/images",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/images.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Layout with Flexbox",
+    "permalink": "/docs/next/flexbox"
+  },
+  "next": {
+    "title": "Color Reference",
+    "permalink": "/docs/next/colors"
+  }
+}

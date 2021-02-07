@@ -1,0 +1,22 @@
+{
+  "unversionedId": "javascript-environment",
+  "id": "version-0.60/javascript-environment",
+  "isDocsHomePage": false,
+  "title": "JavaScript Environment",
+  "description": "JavaScript Runtime",
+  "source": "@site/versioned_docs/version-0.60/javascript-environment.md",
+  "slug": "/javascript-environment",
+  "permalink": "/docs/0.60/javascript-environment",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/javascript-environment.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Gesture Responder System",
+    "permalink": "/docs/0.60/gesture-responder-system"
+  },
+  "next": {
+    "title": "Using TypeScript with React Native",
+    "permalink": "/docs/0.60/typescript"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "stylesheet",
+  "id": "stylesheet",
+  "isDocsHomePage": false,
+  "title": "StyleSheet",
+  "description": "A StyleSheet is an abstraction similar to CSS StyleSheets",
+  "source": "@site/../docs/stylesheet.md",
+  "slug": "/stylesheet",
+  "permalink": "/docs/next/stylesheet",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/stylesheet.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "Share",
+    "permalink": "/docs/next/share"
+  },
+  "next": {
+    "title": "Systrace",
+    "permalink": "/docs/next/systrace"
+  }
+}

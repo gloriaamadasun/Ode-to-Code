@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-modules-android",
+  "id": "version-0.60/native-modules-android",
+  "isDocsHomePage": false,
+  "title": "Native Modules",
+  "description": "Sometimes an app needs access to a platform API that React Native doesn't have a corresponding module for yet. Maybe you want to reuse some existing Java code without having to reimplement it in JavaScript, or write some high performance, multi-threaded code such as for image processing, a database, or any number of advanced extensions.",
+  "source": "@site/versioned_docs/version-0.60/native-modules-android.md",
+  "slug": "/native-modules-android",
+  "permalink": "/docs/0.60/native-modules-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/native-modules-android.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "App Extensions",
+    "permalink": "/docs/0.60/app-extensions"
+  },
+  "next": {
+    "title": "Native UI Components",
+    "permalink": "/docs/0.60/native-components-android"
+  }
+}

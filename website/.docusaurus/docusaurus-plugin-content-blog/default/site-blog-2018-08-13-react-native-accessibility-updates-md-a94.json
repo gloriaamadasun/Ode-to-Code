@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2018/08/13/react-native-accessibility-updates",
+  "source": "@site/blog/2018-08-13-react-native-accessibility-updates.md",
+  "description": "Motivation",
+  "date": "2018-08-13T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Accessibility API Updates",
+  "readingTime": 6.435,
+  "truncated": false,
+  "prevItem": {
+    "title": "Introducing new iOS WebViews",
+    "permalink": "/blog/2018/08/27/wkwebview"
+  },
+  "nextItem": {
+    "title": "Releasing 0.56",
+    "permalink": "/blog/2018/07/04/releasing-react-native-056"
+  }
+}

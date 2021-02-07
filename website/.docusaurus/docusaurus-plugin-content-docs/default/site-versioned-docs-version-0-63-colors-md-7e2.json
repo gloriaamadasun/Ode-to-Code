@@ -1,0 +1,22 @@
+{
+  "unversionedId": "colors",
+  "id": "version-0.63/colors",
+  "isDocsHomePage": false,
+  "title": "Color Reference",
+  "description": "Components in React Native are styled using JavaScript. Color properties usually match how CSS works on the web. General guides on the color usage on each platform could be found below:",
+  "source": "@site/versioned_docs/version-0.63/colors.md",
+  "slug": "/colors",
+  "permalink": "/docs/colors",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/colors.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/docs",
+  "previous": {
+    "title": "Images",
+    "permalink": "/docs/images"
+  },
+  "next": {
+    "title": "Handling Touches",
+    "permalink": "/docs/handling-touches"
+  }
+}

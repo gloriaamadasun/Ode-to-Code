@@ -1,0 +1,13 @@
+{
+  "unversionedId": "timepickerandroid",
+  "id": "timepickerandroid",
+  "isDocsHomePage": false,
+  "title": "🚧 TimePickerAndroid",
+  "description": "Deprecated. Use @react-native-community/datetimepicker instead.",
+  "source": "@site/../docs/timepickerandroid.md",
+  "slug": "/timepickerandroid",
+  "permalink": "/docs/next/timepickerandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/timepickerandroid.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

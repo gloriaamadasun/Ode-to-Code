@@ -1,0 +1,22 @@
+{
+  "unversionedId": "shadow-props",
+  "id": "shadow-props",
+  "isDocsHomePage": false,
+  "title": "Shadow Props",
+  "description": "`SnackPlayer name=Shadow%20Props&supportedPlatforms=ios",
+  "source": "@site/../docs/shadow-props.md",
+  "slug": "/shadow-props",
+  "permalink": "/docs/next/shadow-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/shadow-props.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "Layout Props",
+    "permalink": "/docs/next/layout-props"
+  },
+  "next": {
+    "title": "Text Style Props",
+    "permalink": "/docs/next/text-style-props"
+  }
+}

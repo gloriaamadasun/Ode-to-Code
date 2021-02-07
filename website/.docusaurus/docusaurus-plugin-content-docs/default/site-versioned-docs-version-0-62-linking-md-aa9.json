@@ -1,0 +1,22 @@
+{
+  "unversionedId": "linking",
+  "id": "version-0.62/linking",
+  "isDocsHomePage": false,
+  "title": "Linking",
+  "description": "Projects with Native Code Only",
+  "source": "@site/versioned_docs/version-0.62/linking.md",
+  "slug": "/linking",
+  "permalink": "/docs/0.62/linking",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/linking.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/api",
+  "previous": {
+    "title": "LayoutAnimation",
+    "permalink": "/docs/0.62/layoutanimation"
+  },
+  "next": {
+    "title": "PanResponder",
+    "permalink": "/docs/0.62/panresponder"
+  }
+}

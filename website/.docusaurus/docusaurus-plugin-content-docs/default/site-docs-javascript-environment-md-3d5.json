@@ -1,0 +1,22 @@
+{
+  "unversionedId": "javascript-environment",
+  "id": "javascript-environment",
+  "isDocsHomePage": false,
+  "title": "JavaScript Environment",
+  "description": "JavaScript Runtime",
+  "source": "@site/../docs/javascript-environment.md",
+  "slug": "/javascript-environment",
+  "permalink": "/docs/next/javascript-environment",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/javascript-environment.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Profiling with Hermes",
+    "permalink": "/docs/next/profile-hermes"
+  },
+  "next": {
+    "title": "Timers",
+    "permalink": "/docs/next/timers"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "publishing-to-app-store",
+  "id": "publishing-to-app-store",
+  "isDocsHomePage": false,
+  "title": "Publishing to Apple App Store",
+  "description": "The publishing process is the same as any other native iOS app, with some additional considerations to take into account.",
+  "source": "@site/../docs/publishing-to-app-store.md",
+  "slug": "/publishing-to-app-store",
+  "permalink": "/docs/next/publishing-to-app-store",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/publishing-to-app-store.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "App Extensions",
+    "permalink": "/docs/next/app-extensions"
+  }
+}

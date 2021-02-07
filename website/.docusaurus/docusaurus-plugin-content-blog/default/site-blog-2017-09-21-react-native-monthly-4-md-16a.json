@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/09/21/react-native-monthly-4",
+  "source": "@site/blog/2017-09-21-react-native-monthly-4.md",
+  "description": "The React Native monthly meeting continues! Here are the notes from each team:",
+  "date": "2017-09-21T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "React Native Monthly #4",
+  "readingTime": 2.54,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native Monthly #5",
+    "permalink": "/blog/2017/11/06/react-native-monthly-5"
+  },
+  "nextItem": {
+    "title": "React Native Monthly #3",
+    "permalink": "/blog/2017/08/30/react-native-monthly-3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "alertios",
+  "id": "version-0.61/alertios",
+  "isDocsHomePage": false,
+  "title": "🚧 AlertIOS",
+  "description": "Deprecated. Use Alert instead.",
+  "source": "@site/versioned_docs/version-0.61/alertios.md",
+  "slug": "/alertios",
+  "permalink": "/docs/0.61/alertios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/alertios.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "Alert",
+    "permalink": "/docs/0.61/alert"
+  },
+  "next": {
+    "title": "Animated",
+    "permalink": "/docs/0.61/animated"
+  }
+}

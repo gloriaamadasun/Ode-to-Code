@@ -1,0 +1,22 @@
+{
+  "unversionedId": "tabbarios-item",
+  "id": "version-0.60/tabbarios-item",
+  "isDocsHomePage": false,
+  "title": "TabBarIOS.Item",
+  "description": "Props",
+  "source": "@site/versioned_docs/version-0.60/tabbarios-item.md",
+  "slug": "/tabbarios-item",
+  "permalink": "/docs/0.60/tabbarios-item",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/tabbarios-item.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "TabBarIOS",
+    "permalink": "/docs/0.60/tabbarios"
+  },
+  "next": {
+    "title": "Text",
+    "permalink": "/docs/0.60/text"
+  }
+}

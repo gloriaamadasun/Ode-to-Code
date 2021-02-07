@@ -1,0 +1,22 @@
+{
+  "unversionedId": "checkbox",
+  "id": "version-0.61/checkbox",
+  "isDocsHomePage": false,
+  "title": "🚧 CheckBox",
+  "description": "Deprecated. Use @react-native-community/checkbox instead.",
+  "source": "@site/versioned_docs/version-0.61/checkbox.md",
+  "slug": "/checkbox",
+  "permalink": "/docs/0.61/checkbox",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/checkbox.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "Button",
+    "permalink": "/docs/0.61/button"
+  },
+  "next": {
+    "title": "🚧 DatePickerIOS",
+    "permalink": "/docs/0.61/datepickerios"
+  }
+}

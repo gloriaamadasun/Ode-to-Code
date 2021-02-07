@@ -1,0 +1,13 @@
+{
+  "unversionedId": "viewpagerandroid",
+  "id": "version-0.63/viewpagerandroid",
+  "isDocsHomePage": false,
+  "title": "🚧 ViewPagerAndroid",
+  "description": "Deprecated. Use @react-native-community/viewpager instead.",
+  "source": "@site/versioned_docs/version-0.63/viewpagerandroid.md",
+  "slug": "/viewpagerandroid",
+  "permalink": "/docs/viewpagerandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/viewpagerandroid.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

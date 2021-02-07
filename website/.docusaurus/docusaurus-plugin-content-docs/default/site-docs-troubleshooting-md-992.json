@@ -1,0 +1,22 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "troubleshooting",
+  "isDocsHomePage": false,
+  "title": "Troubleshooting",
+  "description": "These are some common issues you may run into while setting up React Native. If you encounter something that is not listed here, try searching for the issue in GitHub.",
+  "source": "@site/../docs/troubleshooting.md",
+  "slug": "/troubleshooting",
+  "permalink": "/docs/next/troubleshooting",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/troubleshooting.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using List Views",
+    "permalink": "/docs/next/using-a-listview"
+  },
+  "next": {
+    "title": "Platform Specific Code",
+    "permalink": "/docs/next/platform-specific-code"
+  }
+}

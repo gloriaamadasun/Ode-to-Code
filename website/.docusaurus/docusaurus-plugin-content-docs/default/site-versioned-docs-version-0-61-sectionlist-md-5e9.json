@@ -1,0 +1,22 @@
+{
+  "unversionedId": "sectionlist",
+  "id": "version-0.61/sectionlist",
+  "isDocsHomePage": false,
+  "title": "SectionList",
+  "description": "A performant interface for rendering sectioned lists, supporting the most handy features:",
+  "source": "@site/versioned_docs/version-0.61/sectionlist.md",
+  "slug": "/sectionlist",
+  "permalink": "/docs/0.61/sectionlist",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/sectionlist.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "ScrollView",
+    "permalink": "/docs/0.61/scrollview"
+  },
+  "next": {
+    "title": "🚧 SegmentedControlIOS",
+    "permalink": "/docs/0.61/segmentedcontrolios"
+  }
+}

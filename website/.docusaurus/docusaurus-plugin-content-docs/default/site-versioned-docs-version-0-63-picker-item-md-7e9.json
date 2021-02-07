@@ -1,0 +1,13 @@
+{
+  "unversionedId": "picker-item",
+  "id": "version-0.63/picker-item",
+  "isDocsHomePage": false,
+  "title": "Picker.Item",
+  "description": "Individual selectable item in a Picker.",
+  "source": "@site/versioned_docs/version-0.63/picker-item.md",
+  "slug": "/picker-item",
+  "permalink": "/docs/picker-item",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/picker-item.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "getting-started",
+  "id": "version-0.60/getting-started",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "This helpful guide lays out the prerequisites for learning React Native, using these docs, and setting up your environment.",
+  "source": "@site/versioned_docs/version-0.60/introduction.md",
+  "slug": "/getting-started",
+  "permalink": "/docs/0.60/getting-started",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/introduction.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "next": {
+    "title": "Learn the Basics",
+    "permalink": "/docs/0.60/tutorial"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/08/19/right-to-left-support-for-react-native-apps",
+  "source": "@site/blog/2016-08-19-right-to-left-support-for-react-native-apps.md",
+  "description": "After launching an app to the app stores, internationalization is the next step to further your audience reach. Over 20 countries and numerous people around the world use Right-to-Left (RTL) languages. Thus, making your app support RTL for them is necessary.",
+  "date": "2016-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Right-to-Left Layout Support For React Native Apps",
+  "readingTime": 6.63,
+  "truncated": false,
+  "prevItem": {
+    "title": "Expo Talks: Adam on Unraveling Navigation",
+    "permalink": "/blog/2016/09/08/exponent-talks-unraveling-navigation"
+  },
+  "nextItem": {
+    "title": "San Francisco Meetup Recap",
+    "permalink": "/blog/2016/08/12/react-native-meetup-san-francisco"
+  }
+}

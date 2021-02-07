@@ -1,0 +1,22 @@
+{
+  "unversionedId": "symbolication",
+  "id": "symbolication",
+  "isDocsHomePage": false,
+  "title": "Symbolicating a stack trace",
+  "description": "If a React Native app throws an unhandled exception in a release build, the output may be obfuscated and hard to read:",
+  "source": "@site/../docs/symbolication.md",
+  "slug": "/symbolication",
+  "permalink": "/docs/next/symbolication",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/symbolication.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Debugging",
+    "permalink": "/docs/next/debugging"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/docs/next/testing-overview"
+  }
+}

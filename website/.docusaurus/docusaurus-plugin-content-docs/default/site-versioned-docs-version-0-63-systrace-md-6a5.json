@@ -1,0 +1,22 @@
+{
+  "unversionedId": "systrace",
+  "id": "version-0.63/systrace",
+  "isDocsHomePage": false,
+  "title": "Systrace",
+  "description": "Systrace is a standard Android marker-based profiling tool (and is installed when you install the Android platform-tools package). Profiled code blocks are surrounded by start/end markers which are then visualized in a colorful chart format. Both the Android SDK and React Native framework provide standard markers that you can visualize.",
+  "source": "@site/versioned_docs/version-0.63/systrace.md",
+  "slug": "/systrace",
+  "permalink": "/docs/systrace",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/systrace.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "StyleSheet",
+    "permalink": "/docs/stylesheet"
+  },
+  "next": {
+    "title": "Transforms",
+    "permalink": "/docs/transforms"
+  }
+}

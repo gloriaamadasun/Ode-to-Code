@@ -1,0 +1,22 @@
+{
+  "unversionedId": "actionsheetios",
+  "id": "version-0.60/actionsheetios",
+  "isDocsHomePage": false,
+  "title": "ActionSheetIOS",
+  "description": "Reference",
+  "source": "@site/versioned_docs/version-0.60/actionsheetios.md",
+  "slug": "/actionsheetios",
+  "permalink": "/docs/0.60/actionsheetios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/actionsheetios.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "AccessibilityInfo",
+    "permalink": "/docs/0.60/accessibilityinfo"
+  },
+  "next": {
+    "title": "Alert",
+    "permalink": "/docs/0.60/alert"
+  }
+}

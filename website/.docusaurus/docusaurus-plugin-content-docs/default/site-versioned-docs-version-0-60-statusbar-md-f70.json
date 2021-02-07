@@ -1,0 +1,22 @@
+{
+  "unversionedId": "statusbar",
+  "id": "version-0.60/statusbar",
+  "isDocsHomePage": false,
+  "title": "StatusBar",
+  "description": "Component to control the app status bar.",
+  "source": "@site/versioned_docs/version-0.60/statusbar.md",
+  "slug": "/statusbar",
+  "permalink": "/docs/0.60/statusbar",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/statusbar.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "Slider",
+    "permalink": "/docs/0.60/slider"
+  },
+  "next": {
+    "title": "Switch",
+    "permalink": "/docs/0.60/switch"
+  }
+}

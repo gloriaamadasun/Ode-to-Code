@@ -1,0 +1,13 @@
+{
+  "unversionedId": "segmentedcontrolios",
+  "id": "segmentedcontrolios",
+  "isDocsHomePage": false,
+  "title": "🚧 SegmentedControlIOS",
+  "description": "Deprecated. Use @react-native-community/segmented-control instead.",
+  "source": "@site/../docs/segmentedcontrolios.md",
+  "slug": "/segmentedcontrolios",
+  "permalink": "/docs/next/segmentedcontrolios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/segmentedcontrolios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

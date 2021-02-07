@@ -1,0 +1,22 @@
+{
+  "unversionedId": "images",
+  "id": "version-0.61/images",
+  "isDocsHomePage": false,
+  "title": "Images",
+  "description": "Static Image Resources",
+  "source": "@site/versioned_docs/version-0.61/images.md",
+  "slug": "/images",
+  "permalink": "/docs/0.61/images",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/images.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Navigating Between Screens",
+    "permalink": "/docs/0.61/navigation"
+  },
+  "next": {
+    "title": "Animations",
+    "permalink": "/docs/0.61/animations"
+  }
+}

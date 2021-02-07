@@ -1,0 +1,22 @@
+{
+  "unversionedId": "appstate",
+  "id": "version-0.60/appstate",
+  "isDocsHomePage": false,
+  "title": "AppState",
+  "description": "AppState can tell you if the app is in the foreground or background, and notify you when the state changes.",
+  "source": "@site/versioned_docs/version-0.60/appstate.md",
+  "slug": "/appstate",
+  "permalink": "/docs/0.60/appstate",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/appstate.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "AppRegistry",
+    "permalink": "/docs/0.60/appregistry"
+  },
+  "next": {
+    "title": "AsyncStorage",
+    "permalink": "/docs/0.60/asyncstorage"
+  }
+}

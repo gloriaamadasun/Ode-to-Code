@@ -1,0 +1,22 @@
+{
+  "unversionedId": "maskedviewios",
+  "id": "version-0.61/maskedviewios",
+  "isDocsHomePage": false,
+  "title": "🚧 MaskedViewIOS",
+  "description": "Deprecated. Use @react-native-community/masked-view instead.",
+  "source": "@site/versioned_docs/version-0.61/maskedviewios.md",
+  "slug": "/maskedviewios",
+  "permalink": "/docs/0.61/maskedviewios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/maskedviewios.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "KeyboardAvoidingView",
+    "permalink": "/docs/0.61/keyboardavoidingview"
+  },
+  "next": {
+    "title": "Modal",
+    "permalink": "/docs/0.61/modal"
+  }
+}

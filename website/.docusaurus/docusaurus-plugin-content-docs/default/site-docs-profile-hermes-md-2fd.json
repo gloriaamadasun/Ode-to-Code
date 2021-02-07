@@ -1,0 +1,22 @@
+{
+  "unversionedId": "profile-hermes",
+  "id": "profile-hermes",
+  "isDocsHomePage": false,
+  "title": "Profiling with Hermes",
+  "description": "You can visualize JavaScript's performance in a React Native app using Hermes. Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android (you can read more about using it with React Native here. Hermes helps improve app performance and also exposes ways to analyze the performance of the JavaScript that it runs.",
+  "source": "@site/../docs/profile-hermes.md",
+  "slug": "/profile-hermes",
+  "permalink": "/docs/next/profile-hermes",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/profile-hermes.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Profiling",
+    "permalink": "/docs/next/profiling"
+  },
+  "next": {
+    "title": "JavaScript Environment",
+    "permalink": "/docs/next/javascript-environment"
+  }
+}

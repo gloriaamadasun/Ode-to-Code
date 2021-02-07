@@ -1,0 +1,22 @@
+{
+  "unversionedId": "linking-libraries-ios",
+  "id": "linking-libraries-ios",
+  "isDocsHomePage": false,
+  "title": "Linking Libraries",
+  "description": "Not every app uses all the native capabilities, and including the code to support all those features would impact the binary size... But we still want to support adding these features whenever you need them.",
+  "source": "@site/../docs/linking-libraries-ios.md",
+  "slug": "/linking-libraries-ios",
+  "permalink": "/docs/next/linking-libraries-ios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/linking-libraries-ios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Publishing to Google Play Store",
+    "permalink": "/docs/next/signed-apk-android"
+  },
+  "next": {
+    "title": "Running On Simulator",
+    "permalink": "/docs/next/running-on-simulator-ios"
+  }
+}

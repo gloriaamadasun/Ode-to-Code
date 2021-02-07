@@ -1,0 +1,22 @@
+{
+  "unversionedId": "appregistry",
+  "id": "version-0.63/appregistry",
+  "isDocsHomePage": false,
+  "title": "AppRegistry",
+  "description": "Project with Native Code Required",
+  "source": "@site/versioned_docs/version-0.63/appregistry.md",
+  "slug": "/appregistry",
+  "permalink": "/docs/appregistry",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/appregistry.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "Appearance",
+    "permalink": "/docs/appearance"
+  },
+  "next": {
+    "title": "AppState",
+    "permalink": "/docs/appstate"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "upgrading",
+  "id": "version-0.60/upgrading",
+  "isDocsHomePage": false,
+  "title": "Upgrading to new React Native versions",
+  "description": "Upgrading to new versions of React Native will give you access to more APIs, views, developer tools and other goodies. Upgrading requires a small amount of effort, but we try to make it straightforward for you.",
+  "source": "@site/versioned_docs/version-0.60/upgrading.md",
+  "slug": "/upgrading",
+  "permalink": "/docs/0.60/upgrading",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/upgrading.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Running On Device",
+    "permalink": "/docs/0.60/running-on-device"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/0.60/troubleshooting"
+  }
+}

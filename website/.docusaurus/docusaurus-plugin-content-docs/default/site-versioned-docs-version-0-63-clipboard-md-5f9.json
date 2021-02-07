@@ -1,0 +1,13 @@
+{
+  "unversionedId": "clipboard",
+  "id": "version-0.63/clipboard",
+  "isDocsHomePage": false,
+  "title": "🚧 Clipboard",
+  "description": "Deprecated. Use @react-native-community/clipboard instead.",
+  "source": "@site/versioned_docs/version-0.63/clipboard.md",
+  "slug": "/clipboard",
+  "permalink": "/docs/clipboard",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/clipboard.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

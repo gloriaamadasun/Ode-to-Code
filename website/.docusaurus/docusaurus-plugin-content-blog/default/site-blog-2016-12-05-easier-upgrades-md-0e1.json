@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/12/05/easier-upgrades",
+  "source": "@site/blog/2016-12-05-easier-upgrades.md",
+  "description": "Upgrading to new versions of React Native has been difficult. You might have seen something like this before:",
+  "date": "2016-12-05T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "Easier Upgrades Thanks to Git",
+  "readingTime": 3.915,
+  "truncated": false,
+  "prevItem": {
+    "title": "A Monthly Release Cadence: Releasing December and January RC",
+    "permalink": "/blog/2017/01/07/monthly-release-cadence"
+  },
+  "nextItem": {
+    "title": "Introducing Button, Faster Installs with Yarn, and a Public Roadmap",
+    "permalink": "/blog/2016/11/08/introducing-button-yarn-and-a-public-roadmap"
+  }
+}

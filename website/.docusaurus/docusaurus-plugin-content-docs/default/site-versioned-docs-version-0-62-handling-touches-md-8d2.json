@@ -1,0 +1,22 @@
+{
+  "unversionedId": "handling-touches",
+  "id": "version-0.62/handling-touches",
+  "isDocsHomePage": false,
+  "title": "Handling Touches",
+  "description": "Users interact with mobile apps mainly through touch. They can use a combination of gestures, such as tapping on a button, scrolling a list, or zooming on a map. React Native provides components to handle all sorts of common gestures, as well as a comprehensive gesture responder system to allow for more advanced gesture recognition, but the one component you will most likely be interested in is the basic Button.",
+  "source": "@site/versioned_docs/version-0.62/handling-touches.md",
+  "slug": "/handling-touches",
+  "permalink": "/docs/0.62/handling-touches",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/handling-touches.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Color Reference",
+    "permalink": "/docs/0.62/colors"
+  },
+  "next": {
+    "title": "Navigating Between Screens",
+    "permalink": "/docs/0.62/navigation"
+  }
+}

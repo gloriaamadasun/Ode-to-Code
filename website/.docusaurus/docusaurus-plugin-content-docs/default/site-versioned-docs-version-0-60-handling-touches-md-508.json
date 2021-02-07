@@ -1,0 +1,22 @@
+{
+  "unversionedId": "handling-touches",
+  "id": "version-0.60/handling-touches",
+  "isDocsHomePage": false,
+  "title": "Handling Touches",
+  "description": "Users interact with mobile apps mainly through touch. They can use a combination of gestures, such as tapping on a button, scrolling a list, or zooming on a map. React Native provides components to handle all sorts of common gestures, as well as a comprehensive gesture responder system to allow for more advanced gesture recognition, but the one component you will most likely be interested in is the basic Button.",
+  "source": "@site/versioned_docs/version-0.60/handling-touches.md",
+  "slug": "/handling-touches",
+  "permalink": "/docs/0.60/handling-touches",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/handling-touches.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Handling Text Input",
+    "permalink": "/docs/0.60/handling-text-input"
+  },
+  "next": {
+    "title": "Using a ScrollView",
+    "permalink": "/docs/0.60/using-a-scrollview"
+  }
+}

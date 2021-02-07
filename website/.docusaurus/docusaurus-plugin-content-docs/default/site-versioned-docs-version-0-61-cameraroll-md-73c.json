@@ -1,0 +1,13 @@
+{
+  "unversionedId": "cameraroll",
+  "id": "version-0.61/cameraroll",
+  "isDocsHomePage": false,
+  "title": "🚧 CameraRoll",
+  "description": "Deprecated. Use @react-native-community/cameraroll instead.",
+  "source": "@site/versioned_docs/version-0.61/cameraroll.md",
+  "slug": "/cameraroll",
+  "permalink": "/docs/0.61/cameraroll",
+  "editUrl": "https://github.com/facebook/react-native-website/edit/master/website/versioned_docs/version-0.58/cameraroll.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055
+}

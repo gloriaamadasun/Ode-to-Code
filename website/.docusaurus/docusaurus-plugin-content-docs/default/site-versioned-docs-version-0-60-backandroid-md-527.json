@@ -1,0 +1,13 @@
+{
+  "unversionedId": "backandroid",
+  "id": "version-0.60/backandroid",
+  "isDocsHomePage": false,
+  "title": "BackAndroid",
+  "description": "Deprecated. Use BackHandler instead.",
+  "source": "@site/versioned_docs/version-0.60/backandroid.md",
+  "slug": "/backandroid",
+  "permalink": "/docs/0.60/backandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/backandroid.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

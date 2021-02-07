@@ -1,0 +1,22 @@
+{
+  "unversionedId": "appstate",
+  "id": "appstate",
+  "isDocsHomePage": false,
+  "title": "AppState",
+  "description": "AppState can tell you if the app is in the foreground or background, and notify you when the state changes.",
+  "source": "@site/../docs/appstate.md",
+  "slug": "/appstate",
+  "permalink": "/docs/next/appstate",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/appstate.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "AppRegistry",
+    "permalink": "/docs/next/appregistry"
+  },
+  "next": {
+    "title": "DevSettings",
+    "permalink": "/docs/next/devsettings"
+  }
+}

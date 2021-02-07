@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-modules-android",
+  "id": "version-0.63/native-modules-android",
+  "isDocsHomePage": false,
+  "title": "Android Native Modules",
+  "description": "Welcome to Native Modules for Android. Please start by reading the Native Modules Intro for an intro to what native modules are.",
+  "source": "@site/versioned_docs/version-0.63/native-modules-android.md",
+  "slug": "/native-modules-android",
+  "permalink": "/docs/native-modules-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/native-modules-android.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/docs",
+  "previous": {
+    "title": "Native Modules Intro",
+    "permalink": "/docs/native-modules-intro"
+  },
+  "next": {
+    "title": "iOS Native Modules",
+    "permalink": "/docs/native-modules-ios"
+  }
+}

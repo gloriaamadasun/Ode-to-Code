@@ -1,0 +1,22 @@
+{
+  "unversionedId": "environment-setup",
+  "id": "version-0.63/environment-setup",
+  "isDocsHomePage": false,
+  "title": "Setting up the development environment",
+  "description": "This page will help you install and build your first React Native app.",
+  "source": "@site/versioned_docs/version-0.63/getting-started.md",
+  "slug": "/environment-setup",
+  "permalink": "/docs/environment-setup",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/getting-started.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/docs",
+  "previous": {
+    "title": "More Resources",
+    "permalink": "/docs/more-resources"
+  },
+  "next": {
+    "title": "Integration with Existing Apps",
+    "permalink": "/docs/integration-with-existing-apps"
+  }
+}

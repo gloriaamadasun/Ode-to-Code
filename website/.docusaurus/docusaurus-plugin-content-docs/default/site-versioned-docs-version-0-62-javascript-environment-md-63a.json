@@ -1,0 +1,22 @@
+{
+  "unversionedId": "javascript-environment",
+  "id": "version-0.62/javascript-environment",
+  "isDocsHomePage": false,
+  "title": "JavaScript Environment",
+  "description": "JavaScript Runtime",
+  "source": "@site/versioned_docs/version-0.62/javascript-environment.md",
+  "slug": "/javascript-environment",
+  "permalink": "/docs/0.62/javascript-environment",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/javascript-environment.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Profiling",
+    "permalink": "/docs/0.62/profiling"
+  },
+  "next": {
+    "title": "Timers",
+    "permalink": "/docs/0.62/timers"
+  }
+}

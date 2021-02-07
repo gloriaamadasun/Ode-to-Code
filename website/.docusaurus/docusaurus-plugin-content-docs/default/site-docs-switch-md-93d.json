@@ -1,0 +1,22 @@
+{
+  "unversionedId": "switch",
+  "id": "switch",
+  "isDocsHomePage": false,
+  "title": "Switch",
+  "description": "Renders a boolean input.",
+  "source": "@site/../docs/switch.md",
+  "slug": "/switch",
+  "permalink": "/docs/next/switch",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/switch.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "StatusBar",
+    "permalink": "/docs/next/statusbar"
+  },
+  "next": {
+    "title": "Text",
+    "permalink": "/docs/next/text"
+  }
+}

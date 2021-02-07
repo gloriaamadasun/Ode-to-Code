@@ -1,0 +1,22 @@
+{
+  "unversionedId": "optimizing-flatlist-configuration",
+  "id": "optimizing-flatlist-configuration",
+  "isDocsHomePage": false,
+  "title": "Optimizing Flatlist Configuration",
+  "description": "Terms",
+  "source": "@site/../docs/optimizing-flatlist-configuration.md",
+  "slug": "/optimizing-flatlist-configuration",
+  "permalink": "/docs/next/optimizing-flatlist-configuration",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/optimizing-flatlist-configuration.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Performance Overview",
+    "permalink": "/docs/next/performance"
+  },
+  "next": {
+    "title": "RAM Bundles and Inline Requires",
+    "permalink": "/docs/next/ram-bundles-inline-requires"
+  }
+}

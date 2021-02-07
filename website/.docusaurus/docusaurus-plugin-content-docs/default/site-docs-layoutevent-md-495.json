@@ -1,0 +1,22 @@
+{
+  "unversionedId": "layoutevent",
+  "id": "layoutevent",
+  "isDocsHomePage": false,
+  "title": "LayoutEvent Object Type",
+  "description": "LayoutEvent object is returned in the callback as a result of component layout change, for example onLayout in View component.",
+  "source": "@site/../docs/layoutevent.md",
+  "slug": "/layoutevent",
+  "permalink": "/docs/next/layoutevent",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/layoutevent.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "View Style Props",
+    "permalink": "/docs/next/view-style-props"
+  },
+  "next": {
+    "title": "PressEvent Object Type",
+    "permalink": "/docs/next/pressevent"
+  }
+}

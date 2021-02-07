@@ -1,0 +1,22 @@
+{
+  "unversionedId": "panresponder",
+  "id": "version-0.63/panresponder",
+  "isDocsHomePage": false,
+  "title": "PanResponder",
+  "description": "PanResponder reconciles several touches into a single gesture. It makes single-touch gestures resilient to extra touches, and can be used to recognize basic multi-touch gestures.",
+  "source": "@site/versioned_docs/version-0.63/panresponder.md",
+  "slug": "/panresponder",
+  "permalink": "/docs/panresponder",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/panresponder.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "Linking",
+    "permalink": "/docs/linking"
+  },
+  "next": {
+    "title": "PixelRatio",
+    "permalink": "/docs/pixelratio"
+  }
+}

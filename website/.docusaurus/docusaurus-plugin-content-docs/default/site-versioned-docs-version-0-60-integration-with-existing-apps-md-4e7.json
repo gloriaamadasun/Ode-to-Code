@@ -1,0 +1,22 @@
+{
+  "unversionedId": "integration-with-existing-apps",
+  "id": "version-0.60/integration-with-existing-apps",
+  "isDocsHomePage": false,
+  "title": "Integration with Existing Apps",
+  "description": "React Native is great when you are starting a new mobile app from scratch. However, it also works well for adding a single view or user flow to existing native applications. With a few steps, you can add new React Native based features, screens, views, etc.",
+  "source": "@site/versioned_docs/version-0.60/integration-with-existing-apps.md",
+  "slug": "/integration-with-existing-apps",
+  "permalink": "/docs/0.60/integration-with-existing-apps",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/integration-with-existing-apps.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Color Reference",
+    "permalink": "/docs/0.60/colors"
+  },
+  "next": {
+    "title": "Building For TV Devices",
+    "permalink": "/docs/0.60/building-for-tv"
+  }
+}

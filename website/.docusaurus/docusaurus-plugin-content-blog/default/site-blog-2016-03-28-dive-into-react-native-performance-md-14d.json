@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/03/28/dive-into-react-native-performance",
+  "source": "@site/blog/2016-03-28-dive-into-react-native-performance.md",
+  "description": "React Native allows you to build Android and iOS apps in JavaScript using React and Relay's declarative programming model. This leads to more concise, easier-to-understand code; fast iteration without a compile cycle; and easy sharing of code across multiple platforms. You can ship faster and focus on details that really matter, making your app look and feel fantastic. Optimizing performance is a big part of this. Here is the story of how we made React Native app startup twice as fast.",
+  "date": "2016-03-28T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Dive into React Native Performance",
+  "readingTime": 1.085,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native: A year in review",
+    "permalink": "/blog/2016/04/13/react-native-a-year-in-review"
+  },
+  "nextItem": {
+    "title": "Introducing Hot Reloading",
+    "permalink": "/blog/2016/03/24/introducing-hot-reloading"
+  }
+}

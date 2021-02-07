@@ -1,0 +1,22 @@
+{
+  "unversionedId": "pushnotificationios",
+  "id": "version-0.61/pushnotificationios",
+  "isDocsHomePage": false,
+  "title": "🚧 PushNotificationIOS",
+  "description": "Deprecated. Use @react-native-community/push-notification-ios instead.",
+  "source": "@site/versioned_docs/version-0.61/pushnotificationios.md",
+  "slug": "/pushnotificationios",
+  "permalink": "/docs/0.61/pushnotificationios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/pushnotificationios.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "PixelRatio",
+    "permalink": "/docs/0.61/pixelratio"
+  },
+  "next": {
+    "title": "Settings",
+    "permalink": "/docs/0.61/settings"
+  }
+}

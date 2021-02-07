@@ -1,0 +1,22 @@
+{
+  "unversionedId": "scrollview",
+  "id": "version-0.62/scrollview",
+  "isDocsHomePage": false,
+  "title": "ScrollView",
+  "description": "Component that wraps platform ScrollView while providing integration with touch locking \"responder\" system.",
+  "source": "@site/versioned_docs/version-0.62/scrollview.md",
+  "slug": "/scrollview",
+  "permalink": "/docs/0.62/scrollview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/scrollview.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/components",
+  "previous": {
+    "title": "SafeAreaView",
+    "permalink": "/docs/0.62/safeareaview"
+  },
+  "next": {
+    "title": "SectionList",
+    "permalink": "/docs/0.62/sectionlist"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "height-and-width",
+  "id": "version-0.61/height-and-width",
+  "isDocsHomePage": false,
+  "title": "Height and Width",
+  "description": "A component's height and width determine its size on the screen.",
+  "source": "@site/versioned_docs/version-0.61/height-and-width.md",
+  "slug": "/height-and-width",
+  "permalink": "/docs/0.61/height-and-width",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/height-and-width.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Style",
+    "permalink": "/docs/0.61/style"
+  },
+  "next": {
+    "title": "Layout with Flexbox",
+    "permalink": "/docs/0.61/flexbox"
+  }
+}

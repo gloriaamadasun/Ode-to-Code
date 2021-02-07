@@ -1,0 +1,13 @@
+{
+  "unversionedId": "checkbox",
+  "id": "version-0.60/checkbox",
+  "isDocsHomePage": false,
+  "title": "CheckBox",
+  "description": "Renders a boolean input (Android only).",
+  "source": "@site/versioned_docs/version-0.60/checkbox.md",
+  "slug": "/checkbox",
+  "permalink": "/docs/0.60/checkbox",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/checkbox.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

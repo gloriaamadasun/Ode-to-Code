@@ -1,0 +1,22 @@
+{
+  "unversionedId": "easing",
+  "id": "easing",
+  "isDocsHomePage": false,
+  "title": "Easing",
+  "description": "The Easing module implements common easing functions. This module is used by Animated.timing() to convey physically believable motion in animations.",
+  "source": "@site/../docs/easing.md",
+  "slug": "/easing",
+  "permalink": "/docs/next/easing",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/easing.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "Dimensions",
+    "permalink": "/docs/next/dimensions"
+  },
+  "next": {
+    "title": "InteractionManager",
+    "permalink": "/docs/next/interactionmanager"
+  }
+}

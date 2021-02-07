@@ -1,0 +1,22 @@
+{
+  "unversionedId": "appearance",
+  "id": "version-0.63/appearance",
+  "isDocsHomePage": false,
+  "title": "Appearance",
+  "description": "`jsx",
+  "source": "@site/versioned_docs/version-0.63/appearance.md",
+  "slug": "/appearance",
+  "permalink": "/docs/appearance",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/appearance.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "Animated.ValueXY",
+    "permalink": "/docs/animatedvaluexy"
+  },
+  "next": {
+    "title": "AppRegistry",
+    "permalink": "/docs/appregistry"
+  }
+}

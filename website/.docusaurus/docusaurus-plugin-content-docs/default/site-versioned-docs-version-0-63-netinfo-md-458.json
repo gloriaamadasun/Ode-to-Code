@@ -1,0 +1,13 @@
+{
+  "unversionedId": "netinfo",
+  "id": "version-0.63/netinfo",
+  "isDocsHomePage": false,
+  "title": "NetInfo",
+  "description": "Deprecated. Use react-native-community/react-native-netinfo instead.",
+  "source": "@site/versioned_docs/version-0.63/netinfo.md",
+  "slug": "/netinfo",
+  "permalink": "/docs/netinfo",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/netinfo.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

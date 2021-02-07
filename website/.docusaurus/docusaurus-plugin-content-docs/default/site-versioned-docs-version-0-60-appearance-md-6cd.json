@@ -1,0 +1,13 @@
+{
+  "unversionedId": "appearance",
+  "id": "version-0.60/appearance",
+  "isDocsHomePage": false,
+  "title": "Appearance",
+  "description": "`jsx",
+  "source": "@site/versioned_docs/version-0.60/appearance.md",
+  "slug": "/appearance",
+  "permalink": "/docs/0.60/appearance",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/appearance.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

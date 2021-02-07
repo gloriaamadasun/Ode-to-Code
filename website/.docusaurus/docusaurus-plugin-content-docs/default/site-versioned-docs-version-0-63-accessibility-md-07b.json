@@ -1,0 +1,22 @@
+{
+  "unversionedId": "accessibility",
+  "id": "version-0.63/accessibility",
+  "isDocsHomePage": false,
+  "title": "Accessibility",
+  "description": "Create mobile apps accessible to assistive technology with React Native's suite of APIs designed to work with Android and iOS.",
+  "source": "@site/versioned_docs/version-0.63/accessibility.md",
+  "slug": "/accessibility",
+  "permalink": "/docs/accessibility",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/accessibility.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/docs",
+  "previous": {
+    "title": "Gesture Responder System",
+    "permalink": "/docs/gesture-responder-system"
+  },
+  "next": {
+    "title": "Performance Overview",
+    "permalink": "/docs/performance"
+  }
+}

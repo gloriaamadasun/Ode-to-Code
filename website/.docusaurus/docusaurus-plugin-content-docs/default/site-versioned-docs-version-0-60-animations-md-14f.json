@@ -1,0 +1,22 @@
+{
+  "unversionedId": "animations",
+  "id": "version-0.60/animations",
+  "isDocsHomePage": false,
+  "title": "Animations",
+  "description": "Animations are very important to create a great user experience. Stationary objects must overcome inertia as they start moving. Objects in motion have momentum and rarely come to a stop immediately. Animations allow you to convey physically believable motion in your interface.",
+  "source": "@site/versioned_docs/version-0.60/animations.md",
+  "slug": "/animations",
+  "permalink": "/docs/0.60/animations",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/animations.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Images",
+    "permalink": "/docs/0.60/images"
+  },
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/docs/0.60/accessibility"
+  }
+}

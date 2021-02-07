@@ -1,0 +1,22 @@
+{
+  "unversionedId": "pixelratio",
+  "id": "version-0.60/pixelratio",
+  "isDocsHomePage": false,
+  "title": "PixelRatio",
+  "description": "PixelRatio class gives access to the device pixel density.",
+  "source": "@site/versioned_docs/version-0.60/pixelratio.md",
+  "slug": "/pixelratio",
+  "permalink": "/docs/0.60/pixelratio",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/pixelratio.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "PermissionsAndroid",
+    "permalink": "/docs/0.60/permissionsandroid"
+  },
+  "next": {
+    "title": "PushNotificationIOS",
+    "permalink": "/docs/0.60/pushnotificationios"
+  }
+}

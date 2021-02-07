@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchablenativefeedback",
+  "id": "version-0.62/touchablenativefeedback",
+  "isDocsHomePage": false,
+  "title": "TouchableNativeFeedback",
+  "description": "A wrapper for making views respond properly to touches (Android only). On Android this component uses native state drawable to display touch feedback.",
+  "source": "@site/versioned_docs/version-0.62/touchablenativefeedback.md",
+  "slug": "/touchablenativefeedback",
+  "permalink": "/docs/0.62/touchablenativefeedback",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/touchablenativefeedback.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/components",
+  "previous": {
+    "title": "DrawerLayoutAndroid",
+    "permalink": "/docs/0.62/drawerlayoutandroid"
+  },
+  "next": {
+    "title": "InputAccessoryView",
+    "permalink": "/docs/0.62/inputaccessoryview"
+  }
+}

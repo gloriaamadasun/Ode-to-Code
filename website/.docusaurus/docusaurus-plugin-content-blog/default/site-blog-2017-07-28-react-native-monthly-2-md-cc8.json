@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/07/28/react-native-monthly-2",
+  "source": "@site/blog/2017-07-28-react-native-monthly-2.md",
+  "description": "The React Native monthly meeting continues! On this session, we were joined by Infinite Red, great minds behind Chain React, the React Native Conference. As most of the people here were presenting talks at Chain React, we pushed the meeting to a week later. Talks from the conference have been posted online and I encourage you to check them out. So, let's see what our teams are up to.",
+  "date": "2017-07-28T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "React Native Monthly #2",
+  "readingTime": 7.565,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native Performance in Marketplace",
+    "permalink": "/blog/2017/08/07/react-native-performance-in-marketplace"
+  },
+  "nextItem": {
+    "title": "React Native Monthly #1",
+    "permalink": "/blog/2017/06/21/react-native-monthly-1"
+  }
+}

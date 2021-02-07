@@ -1,0 +1,22 @@
+{
+  "unversionedId": "animations",
+  "id": "animations",
+  "isDocsHomePage": false,
+  "title": "Animations",
+  "description": "Animations are very important to create a great user experience. Stationary objects must overcome inertia as they start moving. Objects in motion have momentum and rarely come to a stop immediately. Animations allow you to convey physically believable motion in your interface.",
+  "source": "@site/../docs/animations.md",
+  "slug": "/animations",
+  "permalink": "/docs/next/animations",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/animations.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Navigating Between Screens",
+    "permalink": "/docs/next/navigation"
+  },
+  "next": {
+    "title": "Gesture Responder System",
+    "permalink": "/docs/next/gesture-responder-system"
+  }
+}

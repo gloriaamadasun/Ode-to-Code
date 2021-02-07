@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2018/05/07/using-typescript-with-react-native",
+  "source": "@site/blog/2018-05-07-using-typescript-with-react-native.md",
+  "description": "JavaScript! We all love it. But some of us also love types. Luckily, options exist to add stronger types to JavaScript. My favourite is TypeScript, but React Native supports Flow out of the box. Which you prefer is a matter of preference, they each have their own approach on how to add the magic of types to JavaScript. Today, we're going to look at how to use TypeScript in React Native apps.",
+  "date": "2018-05-07T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Using TypeScript with React Native",
+  "readingTime": 7.365,
+  "truncated": false,
+  "prevItem": {
+    "title": "State of React Native 2018",
+    "permalink": "/blog/2018/06/14/state-of-react-native-2018"
+  },
+  "nextItem": {
+    "title": "Built with React Native - The Build.com app",
+    "permalink": "/blog/2018/04/09/build-com-app"
+  }
+}

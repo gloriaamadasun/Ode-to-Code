@@ -1,0 +1,22 @@
+{
+  "unversionedId": "flatlist",
+  "id": "flatlist",
+  "isDocsHomePage": false,
+  "title": "FlatList",
+  "description": "A performant interface for rendering basic, flat lists, supporting the most handy features:",
+  "source": "@site/../docs/flatlist.md",
+  "slug": "/flatlist",
+  "permalink": "/docs/next/flatlist",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/flatlist.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "Button",
+    "permalink": "/docs/next/button"
+  },
+  "next": {
+    "title": "Image",
+    "permalink": "/docs/next/image"
+  }
+}

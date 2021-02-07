@@ -1,0 +1,13 @@
+{
+  "unversionedId": "maskedviewios",
+  "id": "version-0.62/maskedviewios",
+  "isDocsHomePage": false,
+  "title": "🚧 MaskedViewIOS",
+  "description": "Deprecated. Use @react-native-community/masked-view instead.",
+  "source": "@site/versioned_docs/version-0.62/maskedviewios.md",
+  "slug": "/maskedviewios",
+  "permalink": "/docs/0.62/maskedviewios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/maskedviewios.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

@@ -1,0 +1,13 @@
+{
+  "unversionedId": "publishing-forks",
+  "id": "version-0.63/publishing-forks",
+  "isDocsHomePage": false,
+  "title": "Publish your own version of react native",
+  "description": "TL;DR",
+  "source": "@site/versioned_docs/version-0.63/publishing.md",
+  "slug": "/publishing-forks",
+  "permalink": "/docs/publishing-forks",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/publishing.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

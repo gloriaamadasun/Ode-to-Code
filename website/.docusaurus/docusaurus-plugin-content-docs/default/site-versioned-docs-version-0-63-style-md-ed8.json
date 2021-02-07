@@ -1,0 +1,22 @@
+{
+  "unversionedId": "style",
+  "id": "version-0.63/style",
+  "isDocsHomePage": false,
+  "title": "Style",
+  "description": "With React Native, you style your application using JavaScript. All of the core components accept a prop named style. The style names and values usually match how CSS works on the web, except names are written using camel casing, e.g. backgroundColor rather than background-color.",
+  "source": "@site/versioned_docs/version-0.63/style.md",
+  "slug": "/style",
+  "permalink": "/docs/style",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/style.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/docs",
+  "previous": {
+    "title": "Upgrading to new React Native versions",
+    "permalink": "/docs/upgrading"
+  },
+  "next": {
+    "title": "Height and Width",
+    "permalink": "/docs/height-and-width"
+  }
+}

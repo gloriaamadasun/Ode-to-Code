@@ -1,0 +1,22 @@
+{
+  "unversionedId": "button",
+  "id": "version-0.60/button",
+  "isDocsHomePage": false,
+  "title": "Button",
+  "description": "A basic button component that should render nicely on any platform. Supports a minimal level of customization.",
+  "source": "@site/versioned_docs/version-0.60/button.md",
+  "slug": "/button",
+  "permalink": "/docs/0.60/button",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/button.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "ActivityIndicator",
+    "permalink": "/docs/0.60/activityindicator"
+  },
+  "next": {
+    "title": "DatePickerIOS",
+    "permalink": "/docs/0.60/datepickerios"
+  }
+}

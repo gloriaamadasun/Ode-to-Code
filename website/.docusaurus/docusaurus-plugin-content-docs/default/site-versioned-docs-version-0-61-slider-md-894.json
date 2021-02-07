@@ -1,0 +1,22 @@
+{
+  "unversionedId": "slider",
+  "id": "version-0.61/slider",
+  "isDocsHomePage": false,
+  "title": "🚧 Slider",
+  "description": "Deprecated. Use react-native-community/react-native-slider instead.",
+  "source": "@site/versioned_docs/version-0.61/slider.md",
+  "slug": "/slider",
+  "permalink": "/docs/0.61/slider",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/slider.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "🚧 SegmentedControlIOS",
+    "permalink": "/docs/0.61/segmentedcontrolios"
+  },
+  "next": {
+    "title": "StatusBar",
+    "permalink": "/docs/0.61/statusbar"
+  }
+}
