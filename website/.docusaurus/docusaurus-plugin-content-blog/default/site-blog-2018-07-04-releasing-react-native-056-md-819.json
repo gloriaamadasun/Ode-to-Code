@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2018/07/04/releasing-react-native-056",
+  "source": "@site/blog/2018-07-04-releasing-react-native-056.md",
+  "description": "The long-awaited 0.56 version of React Native is now available 🎉. This blog post highlights some of the changes introduced in this new release. We also want to take the opportunity to explain what has kept us busy since March.",
+  "date": "2018-07-04T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "title": "Releasing 0.56",
+  "readingTime": 4.655,
+  "truncated": false,
+  "prevItem": {
+    "title": "Accessibility API Updates",
+    "permalink": "/blog/2018/08/13/react-native-accessibility-updates"
+  },
+  "nextItem": {
+    "title": "State of React Native 2018",
+    "permalink": "/blog/2018/06/14/state-of-react-native-2018"
+  }
+}

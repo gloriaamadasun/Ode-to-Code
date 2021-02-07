@@ -1,0 +1,22 @@
+{
+  "unversionedId": "hermes",
+  "id": "hermes",
+  "isDocsHomePage": false,
+  "title": "Using Hermes",
+  "description": "Hermes is an open-source JavaScript engine optimized for running React Native apps on Android. For many apps, enabling Hermes will result in improved start-up time, decreased memory usage, and smaller app size. At this time Hermes is an opt-in React Native feature, and this guide explains how to enable it.",
+  "source": "@site/../docs/hermes.md",
+  "slug": "/hermes",
+  "permalink": "/docs/next/hermes",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/hermes.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Timers",
+    "permalink": "/docs/next/timers"
+  },
+  "next": {
+    "title": "Networking",
+    "permalink": "/docs/next/network"
+  }
+}

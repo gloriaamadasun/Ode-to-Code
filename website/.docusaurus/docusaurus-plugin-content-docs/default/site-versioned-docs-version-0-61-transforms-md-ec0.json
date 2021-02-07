@@ -1,0 +1,22 @@
+{
+  "unversionedId": "transforms",
+  "id": "version-0.61/transforms",
+  "isDocsHomePage": false,
+  "title": "Transforms",
+  "description": "Reference",
+  "source": "@site/versioned_docs/version-0.61/transforms.md",
+  "slug": "/transforms",
+  "permalink": "/docs/0.61/transforms",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/transforms.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "ToastAndroid",
+    "permalink": "/docs/0.61/toastandroid"
+  },
+  "next": {
+    "title": "useWindowDimensions",
+    "permalink": "/docs/0.61/usewindowdimensions"
+  }
+}

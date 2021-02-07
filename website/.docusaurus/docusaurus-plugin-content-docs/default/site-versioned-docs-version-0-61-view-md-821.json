@@ -1,0 +1,22 @@
+{
+  "unversionedId": "view",
+  "id": "version-0.61/view",
+  "isDocsHomePage": false,
+  "title": "View",
+  "description": "The most fundamental component for building a UI, View is a container that supports layout with flexbox, style, some touch handling, and accessibility controls. View maps directly to the native view equivalent on whatever platform React Native is running on, whether that is a UIView, `, android.view`, etc.",
+  "source": "@site/versioned_docs/version-0.61/view.md",
+  "slug": "/view",
+  "permalink": "/docs/0.61/view",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/view.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "TouchableWithoutFeedback",
+    "permalink": "/docs/0.61/touchablewithoutfeedback"
+  },
+  "next": {
+    "title": "🚧 ViewPagerAndroid",
+    "permalink": "/docs/0.61/viewpagerandroid"
+  }
+}

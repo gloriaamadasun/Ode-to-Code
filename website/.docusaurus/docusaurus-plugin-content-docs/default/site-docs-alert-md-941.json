@@ -1,0 +1,22 @@
+{
+  "unversionedId": "alert",
+  "id": "alert",
+  "isDocsHomePage": false,
+  "title": "Alert",
+  "description": "Launches an alert dialog with the specified title and message.",
+  "source": "@site/../docs/alert.md",
+  "slug": "/alert",
+  "permalink": "/docs/next/alert",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/alert.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "AccessibilityInfo",
+    "permalink": "/docs/next/accessibilityinfo"
+  },
+  "next": {
+    "title": "Animated",
+    "permalink": "/docs/next/animated"
+  }
+}

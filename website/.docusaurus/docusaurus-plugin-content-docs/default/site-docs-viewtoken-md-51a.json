@@ -1,0 +1,18 @@
+{
+  "unversionedId": "viewtoken",
+  "id": "viewtoken",
+  "isDocsHomePage": false,
+  "title": "ViewToken Object Type",
+  "description": "ViewToken object is returned as one of properties in the onViewableItemsChanged callback, for example in FlatList component. It is exported by ViewabilityHelper.js.",
+  "source": "@site/../docs/viewtoken.md",
+  "slug": "/viewtoken",
+  "permalink": "/docs/next/viewtoken",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/viewtoken.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "Rect Object Type",
+    "permalink": "/docs/next/rect"
+  }
+}

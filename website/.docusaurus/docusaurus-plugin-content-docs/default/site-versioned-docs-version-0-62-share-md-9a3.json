@@ -1,0 +1,22 @@
+{
+  "unversionedId": "share",
+  "id": "version-0.62/share",
+  "isDocsHomePage": false,
+  "title": "Share",
+  "description": "Example",
+  "source": "@site/versioned_docs/version-0.62/share.md",
+  "slug": "/share",
+  "permalink": "/docs/0.62/share",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/share.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/api",
+  "previous": {
+    "title": "PixelRatio",
+    "permalink": "/docs/0.62/pixelratio"
+  },
+  "next": {
+    "title": "StyleSheet",
+    "permalink": "/docs/0.62/stylesheet"
+  }
+}

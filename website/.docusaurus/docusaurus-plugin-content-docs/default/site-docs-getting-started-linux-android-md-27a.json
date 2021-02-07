@@ -1,0 +1,13 @@
+{
+  "unversionedId": "_getting-started-linux-android",
+  "id": "_getting-started-linux-android",
+  "isDocsHomePage": false,
+  "title": "_getting-started-linux-android",
+  "description": "Installing dependencies",
+  "source": "@site/../docs/_getting-started-linux-android.md",
+  "slug": "/_getting-started-linux-android",
+  "permalink": "/docs/next/_getting-started-linux-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/_getting-started-linux-android.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

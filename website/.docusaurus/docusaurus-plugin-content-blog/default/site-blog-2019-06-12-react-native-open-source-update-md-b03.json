@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2019/06/12/react-native-open-source-update",
+  "source": "@site/blog/2019-06-12-react-native-open-source-update.md",
+  "description": "Code & Community Health",
+  "date": "2019-06-12T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "React Native Open Source Update June 2019",
+  "readingTime": 7.16,
+  "truncated": false,
+  "prevItem": {
+    "title": "Announcing React Native 0.60",
+    "permalink": "/blog/2019/07/03/version-60"
+  },
+  "nextItem": {
+    "title": "React Native at F8 and Open Source Podcast",
+    "permalink": "/blog/2019/05/01/react-native-at-f8-and-podcast"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchablenativefeedback",
+  "id": "version-0.63/touchablenativefeedback",
+  "isDocsHomePage": false,
+  "title": "TouchableNativeFeedback",
+  "description": "If you're looking for a more extensive and future-proof way to handle touch-based input, check out the Pressable API.",
+  "source": "@site/versioned_docs/version-0.63/touchablenativefeedback.md",
+  "slug": "/touchablenativefeedback",
+  "permalink": "/docs/touchablenativefeedback",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/touchablenativefeedback.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "DrawerLayoutAndroid",
+    "permalink": "/docs/drawerlayoutandroid"
+  },
+  "next": {
+    "title": "InputAccessoryView",
+    "permalink": "/docs/inputaccessoryview"
+  }
+}

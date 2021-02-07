@@ -1,0 +1,22 @@
+{
+  "unversionedId": "image-style-props",
+  "id": "image-style-props",
+  "isDocsHomePage": false,
+  "title": "Image Style Props",
+  "description": "Examples",
+  "source": "@site/../docs/image-style-props.md",
+  "slug": "/image-style-props",
+  "permalink": "/docs/next/image-style-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/image-style-props.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "SafeAreaView",
+    "permalink": "/docs/next/safeareaview"
+  },
+  "next": {
+    "title": "Layout Props",
+    "permalink": "/docs/next/layout-props"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "settings",
+  "id": "settings",
+  "isDocsHomePage": false,
+  "title": "Settings",
+  "description": "Settings serves as a wrapper for NSUserDefaults, a persistent key-value store available only on iOS.",
+  "source": "@site/../docs/settings.md",
+  "slug": "/settings",
+  "permalink": "/docs/next/settings",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/settings.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "DynamicColorIOS",
+    "permalink": "/docs/next/dynamiccolorios"
+  }
+}

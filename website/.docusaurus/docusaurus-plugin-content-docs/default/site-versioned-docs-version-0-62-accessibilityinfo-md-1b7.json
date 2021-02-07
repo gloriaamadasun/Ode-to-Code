@@ -1,0 +1,18 @@
+{
+  "unversionedId": "accessibilityinfo",
+  "id": "version-0.62/accessibilityinfo",
+  "isDocsHomePage": false,
+  "title": "AccessibilityInfo",
+  "description": "Sometimes it's useful to know whether or not the device has a screen reader that is currently active. The AccessibilityInfo API is designed for this purpose. You can use it to query the current state of the screen reader as well as to register to be notified when the state of the screen reader changes.",
+  "source": "@site/versioned_docs/version-0.62/accessibilityinfo.md",
+  "slug": "/accessibilityinfo",
+  "permalink": "/docs/0.62/accessibilityinfo",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/accessibilityinfo.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/api",
+  "next": {
+    "title": "Alert",
+    "permalink": "/docs/0.62/alert"
+  }
+}

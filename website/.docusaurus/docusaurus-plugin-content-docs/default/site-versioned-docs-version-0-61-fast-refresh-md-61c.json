@@ -1,0 +1,22 @@
+{
+  "unversionedId": "fast-refresh",
+  "id": "version-0.61/fast-refresh",
+  "isDocsHomePage": false,
+  "title": "Fast Refresh",
+  "description": "Fast Refresh is a React Native feature that allows you to get near-instant feedback for changes in your React components. Fast Refresh is enabled by default, and you can toggle \"Enable Fast Refresh\" in the React Native developer menu. With Fast Refresh enabled, most edits should be visible within a second or two.",
+  "source": "@site/versioned_docs/version-0.61/fast-refresh.md",
+  "slug": "/fast-refresh",
+  "permalink": "/docs/0.61/fast-refresh",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/fast-refresh.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "More Resources",
+    "permalink": "/docs/0.61/more-resources"
+  },
+  "next": {
+    "title": "Platform Specific Code",
+    "permalink": "/docs/0.61/platform-specific-code"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "using-a-scrollview",
+  "id": "using-a-scrollview",
+  "isDocsHomePage": false,
+  "title": "Using a ScrollView",
+  "description": "The ScrollView is a generic scrolling container that can contain multiple components and views. The scrollable items can be heterogeneous, and you can scroll both vertically and horizontally (by setting the horizontal property).",
+  "source": "@site/../docs/using-a-scrollview.md",
+  "slug": "/using-a-scrollview",
+  "permalink": "/docs/next/using-a-scrollview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/using-a-scrollview.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Handling Text Input",
+    "permalink": "/docs/next/handling-text-input"
+  },
+  "next": {
+    "title": "Using List Views",
+    "permalink": "/docs/next/using-a-listview"
+  }
+}

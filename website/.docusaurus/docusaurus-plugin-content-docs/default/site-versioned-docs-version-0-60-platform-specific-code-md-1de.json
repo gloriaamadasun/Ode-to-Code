@@ -1,0 +1,22 @@
+{
+  "unversionedId": "platform-specific-code",
+  "id": "version-0.60/platform-specific-code",
+  "isDocsHomePage": false,
+  "title": "Platform Specific Code",
+  "description": "When building a cross-platform app, you'll want to re-use as much code as possible. Scenarios may arise where it makes sense for the code to be different, for example you may want to implement separate visual components for Android and iOS.",
+  "source": "@site/versioned_docs/version-0.60/platform-specific-code.md",
+  "slug": "/platform-specific-code",
+  "permalink": "/docs/0.60/platform-specific-code",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/platform-specific-code.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "More Resources",
+    "permalink": "/docs/0.60/more-resources"
+  },
+  "next": {
+    "title": "Navigating Between Screens",
+    "permalink": "/docs/0.60/navigation"
+  }
+}

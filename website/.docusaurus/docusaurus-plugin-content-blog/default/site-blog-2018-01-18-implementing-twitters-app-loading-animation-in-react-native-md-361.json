@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2018/01/18/implementing-twitters-app-loading-animation-in-react-native",
+  "source": "@site/blog/2018-01-18-implementing-twitters-app-loading-animation-in-react-native.md",
+  "description": "Twitter’s iOS app has a loading animation I quite enjoy.",
+  "date": "2018-01-18T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Implementing Twitter’s App Loading Animation in React Native",
+  "readingTime": 10.895,
+  "truncated": false,
+  "prevItem": {
+    "title": "Using AWS with React Native",
+    "permalink": "/blog/2018/03/05/AWS-app-sync"
+  },
+  "nextItem": {
+    "title": "React Native Monthly #6",
+    "permalink": "/blog/2018/01/09/react-native-monthly-6"
+  }
+}

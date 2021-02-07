@@ -1,0 +1,13 @@
+{
+  "unversionedId": "listview",
+  "id": "version-0.60/listview",
+  "isDocsHomePage": false,
+  "title": "ListView",
+  "description": "DEPRECATED - use one of the new list components, such as FlatList or SectionList for bounded memory use, fewer bugs, better performance, an easier to use API, and more features. Check out this blog post for more details.",
+  "source": "@site/versioned_docs/version-0.60/listview.md",
+  "slug": "/listview",
+  "permalink": "/docs/0.60/listview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/listview.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

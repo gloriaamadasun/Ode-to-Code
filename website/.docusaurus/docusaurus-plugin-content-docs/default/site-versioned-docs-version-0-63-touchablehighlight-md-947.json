@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchablehighlight",
+  "id": "version-0.63/touchablehighlight",
+  "isDocsHomePage": false,
+  "title": "TouchableHighlight",
+  "description": "If you're looking for a more extensive and future-proof way to handle touch-based input, check out the Pressable API.",
+  "source": "@site/versioned_docs/version-0.63/touchablehighlight.md",
+  "slug": "/touchablehighlight",
+  "permalink": "/docs/touchablehighlight",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/touchablehighlight.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "TextInput",
+    "permalink": "/docs/textinput"
+  },
+  "next": {
+    "title": "TouchableOpacity",
+    "permalink": "/docs/touchableopacity"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "unversionedId": "vibrationios",
+  "id": "version-0.62/vibrationios",
+  "isDocsHomePage": false,
+  "title": "VibrationIOS",
+  "description": "NOTE: VibrationIOS is being deprecated. Use Vibration instead.",
+  "source": "@site/versioned_docs/version-0.62/vibrationios.md",
+  "slug": "/vibrationios",
+  "permalink": "/docs/0.62/vibrationios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/vibrationios.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

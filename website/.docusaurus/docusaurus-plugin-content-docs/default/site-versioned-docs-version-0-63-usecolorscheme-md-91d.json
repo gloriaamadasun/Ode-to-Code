@@ -1,0 +1,22 @@
+{
+  "unversionedId": "usecolorscheme",
+  "id": "version-0.63/usecolorscheme",
+  "isDocsHomePage": false,
+  "title": "useColorScheme",
+  "description": "`jsx",
+  "source": "@site/versioned_docs/version-0.63/usecolorscheme.md",
+  "slug": "/usecolorscheme",
+  "permalink": "/docs/usecolorscheme",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/usecolorscheme.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "Vibration",
+    "permalink": "/docs/vibration"
+  },
+  "next": {
+    "title": "useWindowDimensions",
+    "permalink": "/docs/usewindowdimensions"
+  }
+}

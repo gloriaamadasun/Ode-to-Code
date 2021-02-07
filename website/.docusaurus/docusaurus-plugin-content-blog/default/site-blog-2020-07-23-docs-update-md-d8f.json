@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2020/07/23/docs-update",
+  "source": "@site/blog/2020-07-23-docs-update.md",
+  "description": "Last year we conducted user interviews and sent out a survey to learn more about how and when people use the React Native docs. With the data and guidance gleaned from 24 interviews and over 3000 survey responses, we've been able to work to improve React Native's documentation, and we're excited to share that progress today:",
+  "date": "2020-07-23T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "React Native Documentation Update",
+  "readingTime": 2.805,
+  "truncated": true,
+  "nextItem": {
+    "title": "React Native Team Principles",
+    "permalink": "/blog/2020/07/17/react-native-principles"
+  }
+}

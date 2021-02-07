@@ -1,0 +1,13 @@
+{
+  "unversionedId": "imagestore",
+  "id": "version-0.60/imagestore",
+  "isDocsHomePage": false,
+  "title": "ImageStore",
+  "description": "Deprecated. Use expo-file-system or react-native-fs instead.",
+  "source": "@site/versioned_docs/version-0.60/imagestore.md",
+  "slug": "/imagestore",
+  "permalink": "/docs/0.60/imagestore",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/imagestore.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

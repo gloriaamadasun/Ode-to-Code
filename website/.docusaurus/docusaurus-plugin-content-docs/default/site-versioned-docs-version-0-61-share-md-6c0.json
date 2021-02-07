@@ -1,0 +1,22 @@
+{
+  "unversionedId": "share",
+  "id": "version-0.61/share",
+  "isDocsHomePage": false,
+  "title": "Share",
+  "description": "Reference",
+  "source": "@site/versioned_docs/version-0.61/share.md",
+  "slug": "/share",
+  "permalink": "/docs/0.61/share",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/share.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "Shadow Props",
+    "permalink": "/docs/0.61/shadow-props"
+  },
+  "next": {
+    "title": "🚧 StatusBarIOS",
+    "permalink": "/docs/0.61/statusbarios"
+  }
+}

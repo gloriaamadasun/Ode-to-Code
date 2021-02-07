@@ -1,0 +1,22 @@
+{
+  "unversionedId": "improvingux",
+  "id": "version-0.60/improvingux",
+  "isDocsHomePage": false,
+  "title": "Improving User Experience",
+  "description": "Configure text inputs",
+  "source": "@site/versioned_docs/version-0.60/improvingux.md",
+  "slug": "/improvingux",
+  "permalink": "/docs/0.60/improvingux",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/improvingux.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Accessibility",
+    "permalink": "/docs/0.60/accessibility"
+  },
+  "next": {
+    "title": "Optimizing Flatlist Configuration",
+    "permalink": "/docs/0.60/optimizing-flatlist-configuration"
+  }
+}

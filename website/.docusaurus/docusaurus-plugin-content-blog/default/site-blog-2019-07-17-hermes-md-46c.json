@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2019/07/17/hermes",
+  "source": "@site/blog/2019-07-17-hermes.md",
+  "description": "Last week at Chain React we announced Hermes, an open source JavaScript engine we’ve been working on at Facebook. It’s a small and lightweight JavaScript engine optimized for running React Native on Android. Check it out!",
+  "date": "2019-07-17T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "Meet Hermes, a new JavaScript Engine optimized for React Native",
+  "readingTime": 1.125,
+  "truncated": false,
+  "prevItem": {
+    "title": "Announcing React Native 0.61 with Fast Refresh",
+    "permalink": "/blog/2019/09/18/version-0.61"
+  },
+  "nextItem": {
+    "title": "Announcing React Native 0.60",
+    "permalink": "/blog/2019/07/03/version-60"
+  }
+}

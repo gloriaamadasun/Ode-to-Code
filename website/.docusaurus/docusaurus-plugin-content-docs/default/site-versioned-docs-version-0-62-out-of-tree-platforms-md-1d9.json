@@ -1,0 +1,22 @@
+{
+  "unversionedId": "out-of-tree-platforms",
+  "id": "version-0.62/out-of-tree-platforms",
+  "isDocsHomePage": false,
+  "title": "Out-of-Tree Platforms",
+  "description": "React Native is not only for Android and iOS - there are community-supported projects that bring it to other platforms, such as:",
+  "source": "@site/versioned_docs/version-0.62/out-of-tree-platforms.md",
+  "slug": "/out-of-tree-platforms",
+  "permalink": "/docs/0.62/out-of-tree-platforms",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/out-of-tree-platforms.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Building For TV Devices",
+    "permalink": "/docs/0.62/building-for-tv"
+  },
+  "next": {
+    "title": "Running On Device",
+    "permalink": "/docs/0.62/running-on-device"
+  }
+}

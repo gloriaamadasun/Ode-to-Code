@@ -1,0 +1,22 @@
+{
+  "unversionedId": "toolbarandroid",
+  "id": "version-0.60/toolbarandroid",
+  "isDocsHomePage": false,
+  "title": "ToolbarAndroid",
+  "description": "NOTE: Toolbar Android has been deprecated and removed from the package since React Native v0.61.0. Use @react-native-community/toolbar-android instead.",
+  "source": "@site/versioned_docs/version-0.60/toolbarandroid.md",
+  "slug": "/toolbarandroid",
+  "permalink": "/docs/0.60/toolbarandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/toolbarandroid.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "TextInput",
+    "permalink": "/docs/0.60/textinput"
+  },
+  "next": {
+    "title": "TouchableHighlight",
+    "permalink": "/docs/0.60/touchablehighlight"
+  }
+}

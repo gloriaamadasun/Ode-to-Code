@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/10/25/0.36-headless-js-the-keyboard-api-and-more",
+  "source": "@site/blog/2016-10-25-0.36-headless-js-the-keyboard-api-and-more.md",
+  "description": "Today we are releasing React Native 0.36. Read on to learn more about what's new.",
+  "date": "2016-10-25T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "0.36: Headless JS, the Keyboard API, & more",
+  "readingTime": 2.23,
+  "truncated": false,
+  "prevItem": {
+    "title": "Introducing Button, Faster Installs with Yarn, and a Public Roadmap",
+    "permalink": "/blog/2016/11/08/introducing-button-yarn-and-a-public-roadmap"
+  },
+  "nextItem": {
+    "title": "Expo Talks: Adam on Unraveling Navigation",
+    "permalink": "/blog/2016/09/08/exponent-talks-unraveling-navigation"
+  }
+}

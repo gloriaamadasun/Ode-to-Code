@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dimensions",
+  "id": "version-0.60/dimensions",
+  "isDocsHomePage": false,
+  "title": "Dimensions",
+  "description": "`jsx",
+  "source": "@site/versioned_docs/version-0.60/dimensions.md",
+  "slug": "/dimensions",
+  "permalink": "/docs/0.60/dimensions",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/dimensions.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "DatePickerAndroid",
+    "permalink": "/docs/0.60/datepickerandroid"
+  },
+  "next": {
+    "title": "Easing",
+    "permalink": "/docs/0.60/easing"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/03/13/introducing-create-react-native-app",
+  "source": "@site/blog/2017-03-13-introducing-create-react-native-app.md",
+  "description": "Today we’re announcing Create React Native App: a new tool that makes it significantly easier to get started with a React Native project! It’s heavily inspired by the design of Create React App and is the product of a collaboration between Facebook and Expo (formerly Exponent).",
+  "date": "2017-03-13T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Introducing Create React Native App",
+  "readingTime": 1.815,
+  "truncated": false,
+  "prevItem": {
+    "title": "Better List Views in React Native",
+    "permalink": "/blog/2017/03/13/better-list-views"
+  },
+  "nextItem": {
+    "title": "idx: The Existential Function",
+    "permalink": "/blog/2017/03/13/idx-the-existential-function"
+  }
+}

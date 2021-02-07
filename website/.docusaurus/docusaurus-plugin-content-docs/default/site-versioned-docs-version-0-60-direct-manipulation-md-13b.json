@@ -1,0 +1,22 @@
+{
+  "unversionedId": "direct-manipulation",
+  "id": "version-0.60/direct-manipulation",
+  "isDocsHomePage": false,
+  "title": "Direct Manipulation",
+  "description": "It is sometimes necessary to make changes directly to a component without using state/props to trigger a re-render of the entire subtree. When using React in the browser for example, you sometimes need to directly modify a DOM node, and the same is true for views in mobile apps. setNativeProps is the React Native equivalent to setting properties directly on a DOM node.",
+  "source": "@site/versioned_docs/version-0.60/direct-manipulation.md",
+  "slug": "/direct-manipulation",
+  "permalink": "/docs/0.60/direct-manipulation",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/direct-manipulation.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Using TypeScript with React Native",
+    "permalink": "/docs/0.60/typescript"
+  },
+  "next": {
+    "title": "Color Reference",
+    "permalink": "/docs/0.60/colors"
+  }
+}

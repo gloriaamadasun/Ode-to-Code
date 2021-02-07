@@ -1,0 +1,22 @@
+{
+  "unversionedId": "maskedviewios",
+  "id": "version-0.63/maskedviewios",
+  "isDocsHomePage": false,
+  "title": "🚧 MaskedViewIOS",
+  "description": "Deprecated. Use @react-native-masked-view/masked-view instead.",
+  "source": "@site/versioned_docs/version-0.63/maskedviewios.md",
+  "slug": "/maskedviewios",
+  "permalink": "/docs/maskedviewios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/maskedviewios.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "InputAccessoryView",
+    "permalink": "/docs/inputaccessoryview"
+  },
+  "next": {
+    "title": "SafeAreaView",
+    "permalink": "/docs/safeareaview"
+  }
+}

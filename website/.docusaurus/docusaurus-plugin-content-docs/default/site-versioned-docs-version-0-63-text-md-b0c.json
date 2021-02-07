@@ -1,0 +1,22 @@
+{
+  "unversionedId": "text",
+  "id": "version-0.63/text",
+  "isDocsHomePage": false,
+  "title": "Text",
+  "description": "A React component for displaying text.",
+  "source": "@site/versioned_docs/version-0.63/text.md",
+  "slug": "/text",
+  "permalink": "/docs/text",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/text.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "Switch",
+    "permalink": "/docs/switch"
+  },
+  "next": {
+    "title": "TextInput",
+    "permalink": "/docs/textinput"
+  }
+}

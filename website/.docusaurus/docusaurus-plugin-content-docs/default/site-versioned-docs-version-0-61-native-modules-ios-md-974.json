@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-modules-ios",
+  "id": "version-0.61/native-modules-ios",
+  "isDocsHomePage": false,
+  "title": "Native Modules",
+  "description": "Sometimes an app needs to access a platform API and React Native doesn't have a corresponding module yet. Maybe you want to reuse some existing Objective-C, Swift or C++ code without having to reimplement it in JavaScript, or write some high performance, multi-threaded code such as for image processing, a database, or any number of advanced extensions.",
+  "source": "@site/versioned_docs/version-0.61/native-modules-ios.md",
+  "slug": "/native-modules-ios",
+  "permalink": "/docs/0.61/native-modules-ios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/native-modules-ios.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Out-of-Tree Platforms",
+    "permalink": "/docs/0.61/out-of-tree-platforms"
+  },
+  "next": {
+    "title": "Native UI Components",
+    "permalink": "/docs/0.61/native-components-ios"
+  }
+}

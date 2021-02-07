@@ -1,0 +1,22 @@
+{
+  "unversionedId": "view-style-props",
+  "id": "version-0.63/view-style-props",
+  "isDocsHomePage": false,
+  "title": "View Style Props",
+  "description": "Example",
+  "source": "@site/versioned_docs/version-0.63/view-style-props.md",
+  "slug": "/view-style-props",
+  "permalink": "/docs/view-style-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/view-style-props.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "Text Style Props",
+    "permalink": "/docs/text-style-props"
+  },
+  "next": {
+    "title": "PressEvent Object Type",
+    "permalink": "/docs/pressevent"
+  }
+}

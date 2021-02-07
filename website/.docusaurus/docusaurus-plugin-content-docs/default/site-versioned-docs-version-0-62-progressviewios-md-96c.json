@@ -1,0 +1,13 @@
+{
+  "unversionedId": "progressviewios",
+  "id": "version-0.62/progressviewios",
+  "isDocsHomePage": false,
+  "title": "🚧 ProgressViewIOS",
+  "description": "Deprecated. Use @react-native-community/progress-view instead.",
+  "source": "@site/versioned_docs/version-0.62/progressviewios.md",
+  "slug": "/progressviewios",
+  "permalink": "/docs/0.62/progressviewios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/progressviewios.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

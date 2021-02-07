@@ -1,0 +1,22 @@
+{
+  "unversionedId": "actionsheetios",
+  "id": "actionsheetios",
+  "isDocsHomePage": false,
+  "title": "ActionSheetIOS",
+  "description": "Displays native to iOS Action Sheet component.",
+  "source": "@site/../docs/actionsheetios.md",
+  "slug": "/actionsheetios",
+  "permalink": "/docs/next/actionsheetios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/actionsheetios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "ToastAndroid",
+    "permalink": "/docs/next/toastandroid"
+  },
+  "next": {
+    "title": "DynamicColorIOS",
+    "permalink": "/docs/next/dynamiccolorios"
+  }
+}

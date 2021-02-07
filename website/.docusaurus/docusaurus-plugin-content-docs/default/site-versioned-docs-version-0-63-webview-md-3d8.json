@@ -1,0 +1,13 @@
+{
+  "unversionedId": "webview",
+  "id": "version-0.63/webview",
+  "isDocsHomePage": false,
+  "title": "🚧 WebView",
+  "description": "Deprecated. Use react-native-community/react-native-webview instead.",
+  "source": "@site/versioned_docs/version-0.63/webview.md",
+  "slug": "/webview",
+  "permalink": "/docs/webview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/webview.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

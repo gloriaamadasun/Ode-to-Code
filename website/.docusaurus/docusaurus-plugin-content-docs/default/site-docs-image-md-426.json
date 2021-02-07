@@ -1,0 +1,22 @@
+{
+  "unversionedId": "image",
+  "id": "image",
+  "isDocsHomePage": false,
+  "title": "Image",
+  "description": "A React component for displaying different types of images, including network images, static resources, temporary local images, and images from local disk, such as the camera roll.",
+  "source": "@site/../docs/image.md",
+  "slug": "/image",
+  "permalink": "/docs/next/image",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/image.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "FlatList",
+    "permalink": "/docs/next/flatlist"
+  },
+  "next": {
+    "title": "ImageBackground",
+    "permalink": "/docs/next/imagebackground"
+  }
+}

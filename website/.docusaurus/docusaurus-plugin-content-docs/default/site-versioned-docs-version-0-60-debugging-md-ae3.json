@@ -1,0 +1,22 @@
+{
+  "unversionedId": "debugging",
+  "id": "version-0.60/debugging",
+  "isDocsHomePage": false,
+  "title": "Debugging",
+  "description": "Enabling Keyboard Shortcuts",
+  "source": "@site/versioned_docs/version-0.60/debugging.md",
+  "slug": "/debugging",
+  "permalink": "/docs/0.60/debugging",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/debugging.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Timers",
+    "permalink": "/docs/0.60/timers"
+  },
+  "next": {
+    "title": "Performance",
+    "permalink": "/docs/0.60/performance"
+  }
+}

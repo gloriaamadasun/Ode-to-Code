@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/09/18/version-0.61",
+  "source": "@site/blog/2019-09-18-version-0.61.md",
+  "description": "We’re excited to announce React Native 0.61, which includes a new reloading experience we’re calling Fast Refresh.",
+  "date": "2019-09-18T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "title": "Announcing React Native 0.61 with Fast Refresh",
+  "readingTime": 2.78,
+  "truncated": false,
+  "prevItem": {
+    "title": "Meet Doctor, a new React Native command",
+    "permalink": "/blog/2019/11/18/react-native-doctor"
+  },
+  "nextItem": {
+    "title": "Meet Hermes, a new JavaScript Engine optimized for React Native",
+    "permalink": "/blog/2019/07/17/hermes"
+  }
+}

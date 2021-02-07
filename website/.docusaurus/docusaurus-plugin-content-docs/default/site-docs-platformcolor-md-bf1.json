@@ -1,0 +1,22 @@
+{
+  "unversionedId": "platformcolor",
+  "id": "platformcolor",
+  "isDocsHomePage": false,
+  "title": "PlatformColor",
+  "description": "`js",
+  "source": "@site/../docs/platformcolor.md",
+  "slug": "/platformcolor",
+  "permalink": "/docs/next/platformcolor",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/platformcolor.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "Platform",
+    "permalink": "/docs/next/platform"
+  },
+  "next": {
+    "title": "Share",
+    "permalink": "/docs/next/share"
+  }
+}

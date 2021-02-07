@@ -1,0 +1,22 @@
+{
+  "unversionedId": "network",
+  "id": "version-0.62/network",
+  "isDocsHomePage": false,
+  "title": "Networking",
+  "description": "Many mobile apps need to load resources from a remote URL. You may want to make a POST request to a REST API, or you may need to fetch a chunk of static content from another server.",
+  "source": "@site/versioned_docs/version-0.62/network.md",
+  "slug": "/network",
+  "permalink": "/docs/0.62/network",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/network.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Using Hermes",
+    "permalink": "/docs/0.62/hermes"
+  },
+  "next": {
+    "title": "Security",
+    "permalink": "/docs/0.62/security"
+  }
+}

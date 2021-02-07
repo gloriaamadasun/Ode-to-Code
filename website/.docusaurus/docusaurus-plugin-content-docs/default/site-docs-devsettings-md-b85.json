@@ -1,0 +1,22 @@
+{
+  "unversionedId": "devsettings",
+  "id": "devsettings",
+  "isDocsHomePage": false,
+  "title": "DevSettings",
+  "description": "The DevSettings module exposes methods for customizing settings for developers in development.",
+  "source": "@site/../docs/devsettings.md",
+  "slug": "/devsettings",
+  "permalink": "/docs/next/devsettings",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/devsettings.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "AppState",
+    "permalink": "/docs/next/appstate"
+  },
+  "next": {
+    "title": "Dimensions",
+    "permalink": "/docs/next/dimensions"
+  }
+}

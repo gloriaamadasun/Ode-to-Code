@@ -1,0 +1,22 @@
+{
+  "unversionedId": "handling-text-input",
+  "id": "handling-text-input",
+  "isDocsHomePage": false,
+  "title": "Handling Text Input",
+  "description": "TextInput is a Core Component that allows the user to enter text. It has an onChangeText prop that takes a function to be called every time the text changed, and an onSubmitEditing prop that takes a function to be called when the text is submitted.",
+  "source": "@site/../docs/handling-text-input.md",
+  "slug": "/handling-text-input",
+  "permalink": "/docs/next/handling-text-input",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/handling-text-input.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "React Fundamentals",
+    "permalink": "/docs/next/intro-react"
+  },
+  "next": {
+    "title": "Using a ScrollView",
+    "permalink": "/docs/next/using-a-scrollview"
+  }
+}

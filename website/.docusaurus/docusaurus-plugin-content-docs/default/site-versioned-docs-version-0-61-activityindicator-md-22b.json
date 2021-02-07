@@ -1,0 +1,22 @@
+{
+  "unversionedId": "activityindicator",
+  "id": "version-0.61/activityindicator",
+  "isDocsHomePage": false,
+  "title": "ActivityIndicator",
+  "description": "Displays a circular loading indicator.",
+  "source": "@site/versioned_docs/version-0.61/activityindicator.md",
+  "slug": "/activityindicator",
+  "permalink": "/docs/0.61/activityindicator",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/activityindicator.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "Components and APIs",
+    "permalink": "/docs/0.61/components-and-apis"
+  },
+  "next": {
+    "title": "Button",
+    "permalink": "/docs/0.61/button"
+  }
+}

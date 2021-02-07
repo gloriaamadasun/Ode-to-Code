@@ -1,0 +1,13 @@
+{
+  "unversionedId": "datepickerios",
+  "id": "datepickerios",
+  "isDocsHomePage": false,
+  "title": "🚧 DatePickerIOS",
+  "description": "Deprecated. Use @react-native-community/datetimepicker instead.",
+  "source": "@site/../docs/datepickerios.md",
+  "slug": "/datepickerios",
+  "permalink": "/docs/next/datepickerios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/datepickerios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

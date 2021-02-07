@@ -1,0 +1,18 @@
+{
+  "unversionedId": "getting-started",
+  "id": "version-0.62/getting-started",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "This helpful guide lays out the prerequisites for learning React Native, using these docs, and setting up your environment.",
+  "source": "@site/versioned_docs/version-0.62/introduction.md",
+  "slug": "/getting-started",
+  "permalink": "/docs/0.62/getting-started",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/introduction.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "next": {
+    "title": "Core Components and Native Components",
+    "permalink": "/docs/0.62/intro-react-native-components"
+  }
+}

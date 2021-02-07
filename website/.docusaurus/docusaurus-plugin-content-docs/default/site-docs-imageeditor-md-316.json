@@ -1,0 +1,13 @@
+{
+  "unversionedId": "imageeditor",
+  "id": "imageeditor",
+  "isDocsHomePage": false,
+  "title": "🚧 ImageEditor",
+  "description": "Deprecated. Use @react-native-community/image-editor instead.",
+  "source": "@site/../docs/imageeditor.md",
+  "slug": "/imageeditor",
+  "permalink": "/docs/next/imageeditor",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/imageeditor.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

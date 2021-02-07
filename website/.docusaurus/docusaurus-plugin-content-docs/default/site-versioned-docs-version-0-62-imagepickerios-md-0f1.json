@@ -1,0 +1,13 @@
+{
+  "unversionedId": "imagepickerios",
+  "id": "version-0.62/imagepickerios",
+  "isDocsHomePage": false,
+  "title": "🚧 ImagePickerIOS",
+  "description": "Deprecated. Use @react-native-community/image-picker-ios instead.",
+  "source": "@site/versioned_docs/version-0.62/imagepickerios.md",
+  "slug": "/imagepickerios",
+  "permalink": "/docs/0.62/imagepickerios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/imagepickerios.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

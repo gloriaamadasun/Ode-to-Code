@@ -1,0 +1,22 @@
+{
+  "unversionedId": "navigation",
+  "id": "version-0.62/navigation",
+  "isDocsHomePage": false,
+  "title": "Navigating Between Screens",
+  "description": "Mobile apps are rarely made up of a single screen. Managing the presentation of, and transition between, multiple screens is typically handled by what is known as a navigator.",
+  "source": "@site/versioned_docs/version-0.62/navigation.md",
+  "slug": "/navigation",
+  "permalink": "/docs/0.62/navigation",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/navigation.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Handling Touches",
+    "permalink": "/docs/0.62/handling-touches"
+  },
+  "next": {
+    "title": "Animations",
+    "permalink": "/docs/0.62/animations"
+  }
+}

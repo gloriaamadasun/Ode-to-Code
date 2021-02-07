@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2018/04/09/build-com-app",
+  "source": "@site/blog/2018-04-09-build-com-app.md",
+  "description": "Build.com, headquartered in Chico, California, is one of the largest online retailers for home improvement items. The team has had a strong web-centric business for 18 years and began thinking about a mobile App in 2015. Building unique Android and iOS apps wasn’t practical due to our small team and limited native experience. Instead, we decided to take a risk on the very new React Native framework. Our initial commit was on August 12, 2015 using React Native v0.8.0! We were live in both App Stores on October 15, 2016. Over the last two years, we’ve continued to upgrade and expand the app. We are currently on React Native version 0.53.0.",
+  "date": "2018-04-09T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "showcase",
+      "permalink": "/blog/tags/showcase"
+    }
+  ],
+  "title": "Built with React Native - The Build.com app",
+  "readingTime": 4.97,
+  "truncated": false,
+  "prevItem": {
+    "title": "Using TypeScript with React Native",
+    "permalink": "/blog/2018/05/07/using-typescript-with-react-native"
+  },
+  "nextItem": {
+    "title": "Building <InputAccessoryView> For React Native",
+    "permalink": "/blog/2018/03/22/building-input-accessory-view-for-react-native"
+  }
+}

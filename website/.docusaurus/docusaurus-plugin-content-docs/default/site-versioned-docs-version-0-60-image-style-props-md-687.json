@@ -1,0 +1,22 @@
+{
+  "unversionedId": "image-style-props",
+  "id": "version-0.60/image-style-props",
+  "isDocsHomePage": false,
+  "title": "Image Style Props",
+  "description": "Reference",
+  "source": "@site/versioned_docs/version-0.60/image-style-props.md",
+  "slug": "/image-style-props",
+  "permalink": "/docs/0.60/image-style-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/image-style-props.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "ImagePickerIOS",
+    "permalink": "/docs/0.60/imagepickerios"
+  },
+  "next": {
+    "title": "InteractionManager",
+    "permalink": "/docs/0.60/interactionmanager"
+  }
+}

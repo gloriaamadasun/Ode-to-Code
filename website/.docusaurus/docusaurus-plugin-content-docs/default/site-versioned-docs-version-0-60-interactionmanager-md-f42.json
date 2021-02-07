@@ -1,0 +1,22 @@
+{
+  "unversionedId": "interactionmanager",
+  "id": "version-0.60/interactionmanager",
+  "isDocsHomePage": false,
+  "title": "InteractionManager",
+  "description": "InteractionManager allows long-running work to be scheduled after any interactions/animations have completed. In particular, this allows JavaScript animations to run smoothly.",
+  "source": "@site/versioned_docs/version-0.60/interactionmanager.md",
+  "slug": "/interactionmanager",
+  "permalink": "/docs/0.60/interactionmanager",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/interactionmanager.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "Image Style Props",
+    "permalink": "/docs/0.60/image-style-props"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/docs/0.60/keyboard"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "platform",
+  "id": "version-0.63/platform",
+  "isDocsHomePage": false,
+  "title": "Platform",
+  "description": "Example",
+  "source": "@site/versioned_docs/version-0.63/platform.md",
+  "slug": "/platform",
+  "permalink": "/docs/platform",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/platform.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "PixelRatio",
+    "permalink": "/docs/pixelratio"
+  },
+  "next": {
+    "title": "PlatformColor",
+    "permalink": "/docs/platformcolor"
+  }
+}

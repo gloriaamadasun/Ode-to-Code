@@ -1,0 +1,13 @@
+{
+  "unversionedId": "progressbarandroid",
+  "id": "progressbarandroid",
+  "isDocsHomePage": false,
+  "title": "🚧 ProgressBarAndroid",
+  "description": "Deprecated. Use @react-native-community/progress-bar-android instead.",
+  "source": "@site/../docs/progressbarandroid.md",
+  "slug": "/progressbarandroid",
+  "permalink": "/docs/next/progressbarandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/progressbarandroid.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

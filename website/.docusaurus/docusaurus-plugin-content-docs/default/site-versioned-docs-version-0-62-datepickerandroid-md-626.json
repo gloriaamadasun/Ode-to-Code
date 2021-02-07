@@ -1,0 +1,13 @@
+{
+  "unversionedId": "datepickerandroid",
+  "id": "version-0.62/datepickerandroid",
+  "isDocsHomePage": false,
+  "title": "🚧 DatePickerAndroid",
+  "description": "Deprecated. Use @react-native-community/datetimepicker instead.",
+  "source": "@site/versioned_docs/version-0.62/datepickerandroid.md",
+  "slug": "/datepickerandroid",
+  "permalink": "/docs/0.62/datepickerandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/datepickerandroid.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

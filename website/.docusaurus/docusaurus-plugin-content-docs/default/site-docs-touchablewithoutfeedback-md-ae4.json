@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchablewithoutfeedback",
+  "id": "touchablewithoutfeedback",
+  "isDocsHomePage": false,
+  "title": "TouchableWithoutFeedback",
+  "description": "If you're looking for a more extensive and future-proof way to handle touch-based input, check out the Pressable API.",
+  "source": "@site/../docs/touchablewithoutfeedback.md",
+  "slug": "/touchablewithoutfeedback",
+  "permalink": "/docs/next/touchablewithoutfeedback",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/touchablewithoutfeedback.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "TouchableOpacity",
+    "permalink": "/docs/next/touchableopacity"
+  },
+  "next": {
+    "title": "View",
+    "permalink": "/docs/next/view"
+  }
+}

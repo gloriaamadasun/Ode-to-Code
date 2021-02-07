@@ -1,0 +1,13 @@
+{
+  "unversionedId": "animatedvaluexy",
+  "id": "version-0.62/animatedvaluexy",
+  "isDocsHomePage": false,
+  "title": "AnimatedValueXY",
+  "description": "2D Value for driving 2D animations, such as pan gestures. Almost identical API to normal Animated.Value, but multiplexed. Contains two regular Animated.Values under the hood.",
+  "source": "@site/versioned_docs/version-0.62/animatedvaluexy.md",
+  "slug": "/animatedvaluexy",
+  "permalink": "/docs/0.62/animatedvaluexy",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/animatedvaluexy.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

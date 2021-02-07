@@ -1,0 +1,22 @@
+{
+  "unversionedId": "transforms",
+  "id": "version-0.60/transforms",
+  "isDocsHomePage": false,
+  "title": "Transforms",
+  "description": "Reference",
+  "source": "@site/versioned_docs/version-0.60/transforms.md",
+  "slug": "/transforms",
+  "permalink": "/docs/0.60/transforms",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/transforms.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "ToastAndroid",
+    "permalink": "/docs/0.60/toastandroid"
+  },
+  "next": {
+    "title": "Vibration",
+    "permalink": "/docs/0.60/vibration"
+  }
+}

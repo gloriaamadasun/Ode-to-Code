@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2019/11/18/react-native-doctor",
+  "source": "@site/blog/2019-11-18-react-native-doctor.md",
+  "description": "After over 20 pull requests from 6 contributors in the React Native Community, we're excited to launch react-native doctor, a new command to help you out with getting started, troubleshooting and automatically fixing errors with your development environment. The doctor command is heavily inspired by Expo and Homebrew's own doctor command with a pinch of UI inspired by Jest.",
+  "date": "2019-11-18T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "Meet Doctor, a new React Native command",
+  "readingTime": 1.75,
+  "truncated": true,
+  "prevItem": {
+    "title": "Announcing React Native 0.62 with Flipper",
+    "permalink": "/blog/2020/03/26/version-0.62"
+  },
+  "nextItem": {
+    "title": "Announcing React Native 0.61 with Fast Refresh",
+    "permalink": "/blog/2019/09/18/version-0.61"
+  }
+}

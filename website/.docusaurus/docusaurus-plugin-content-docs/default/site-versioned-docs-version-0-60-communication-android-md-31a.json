@@ -1,0 +1,13 @@
+{
+  "unversionedId": "communication-android",
+  "id": "version-0.60/communication-android",
+  "isDocsHomePage": false,
+  "title": "Communication between native and React Native",
+  "description": "In Integrating with Existing Apps guide and Native UI Components guide we learn how to embed React Native in a native component and vice versa. When we mix native and React Native components, we'll eventually find a need to communicate between these two worlds. Some ways to achieve that have been already mentioned in other guides. This article summarizes available techniques.",
+  "source": "@site/versioned_docs/version-0.60/communication-android.md",
+  "slug": "/communication-android",
+  "permalink": "/docs/0.60/communication-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/communication-android.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "integration-with-android-fragment",
+  "id": "integration-with-android-fragment",
+  "isDocsHomePage": false,
+  "title": "Integration with an Android Fragment",
+  "description": "The guide for Integration with Existing Apps details how to integrate a full-screen React Native app into an existing Android app as an Activity. To use React Native components within Fragments in an existing app requires some additional setup. The benefit of this is that it allows for a native app to integrate React Native components alongside native fragments in an Activity.",
+  "source": "@site/../docs/integration-with-android-fragment.md",
+  "slug": "/integration-with-android-fragment",
+  "permalink": "/docs/next/integration-with-android-fragment",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/integration-with-android-fragment.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Integration with Existing Apps",
+    "permalink": "/docs/next/integration-with-existing-apps"
+  },
+  "next": {
+    "title": "Building For TV Devices",
+    "permalink": "/docs/next/building-for-tv"
+  }
+}

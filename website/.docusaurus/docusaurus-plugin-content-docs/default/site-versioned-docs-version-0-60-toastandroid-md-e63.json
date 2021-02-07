@@ -1,0 +1,22 @@
+{
+  "unversionedId": "toastandroid",
+  "id": "version-0.60/toastandroid",
+  "isDocsHomePage": false,
+  "title": "ToastAndroid",
+  "description": "This exposes the native ToastAndroid module as a JS module. This has a function 'show' which takes the following parameters:",
+  "source": "@site/versioned_docs/version-0.60/toastandroid.md",
+  "slug": "/toastandroid",
+  "permalink": "/docs/0.60/toastandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/toastandroid.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "TimePickerAndroid",
+    "permalink": "/docs/0.60/timepickerandroid"
+  },
+  "next": {
+    "title": "Transforms",
+    "permalink": "/docs/0.60/transforms"
+  }
+}

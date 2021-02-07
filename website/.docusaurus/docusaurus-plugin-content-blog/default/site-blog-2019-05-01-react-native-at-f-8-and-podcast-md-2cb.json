@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2019/05/01/react-native-at-f8-and-podcast",
+  "source": "@site/blog/2019-05-01-react-native-at-f8-and-podcast.md",
+  "description": "This week, Eli White gave a talk at F8 2019 about React Native in Facebook's Android and iOS applications. We are excited to share what we've been up to for the past two years and what we're doing next.",
+  "date": "2019-05-01T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "React Native at F8 and Open Source Podcast",
+  "readingTime": 2.075,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native Open Source Update June 2019",
+    "permalink": "/blog/2019/06/12/react-native-open-source-update"
+  },
+  "nextItem": {
+    "title": "Releasing React Native 0.59",
+    "permalink": "/blog/2019/03/12/releasing-react-native-059"
+  }
+}

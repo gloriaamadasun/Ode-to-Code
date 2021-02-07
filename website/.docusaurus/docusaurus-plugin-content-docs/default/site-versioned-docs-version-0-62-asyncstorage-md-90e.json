@@ -1,0 +1,13 @@
+{
+  "unversionedId": "asyncstorage",
+  "id": "version-0.62/asyncstorage",
+  "isDocsHomePage": false,
+  "title": "🚧 AsyncStorage",
+  "description": "Deprecated. Use @react-native-community/async-storage instead.",
+  "source": "@site/versioned_docs/version-0.62/asyncstorage.md",
+  "slug": "/asyncstorage",
+  "permalink": "/docs/0.62/asyncstorage",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/asyncstorage.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "image-style-props",
+  "id": "version-0.62/image-style-props",
+  "isDocsHomePage": false,
+  "title": "Image Style Props",
+  "description": "Examples",
+  "source": "@site/versioned_docs/version-0.62/image-style-props.md",
+  "slug": "/image-style-props",
+  "permalink": "/docs/0.62/image-style-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/image-style-props.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/components",
+  "previous": {
+    "title": "InputAccessoryView",
+    "permalink": "/docs/0.62/inputaccessoryview"
+  },
+  "next": {
+    "title": "Layout Props",
+    "permalink": "/docs/0.62/layout-props"
+  }
+}

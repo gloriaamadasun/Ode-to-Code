@@ -1,0 +1,22 @@
+{
+  "unversionedId": "timepickerandroid",
+  "id": "version-0.60/timepickerandroid",
+  "isDocsHomePage": false,
+  "title": "TimePickerAndroid",
+  "description": "Opens the standard Android time picker dialog.",
+  "source": "@site/versioned_docs/version-0.60/timepickerandroid.md",
+  "slug": "/timepickerandroid",
+  "permalink": "/docs/0.60/timepickerandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/timepickerandroid.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "Text Style Props",
+    "permalink": "/docs/0.60/text-style-props"
+  },
+  "next": {
+    "title": "ToastAndroid",
+    "permalink": "/docs/0.60/toastandroid"
+  }
+}

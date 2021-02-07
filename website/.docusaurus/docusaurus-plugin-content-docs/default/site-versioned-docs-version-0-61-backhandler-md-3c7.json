@@ -1,0 +1,22 @@
+{
+  "unversionedId": "backhandler",
+  "id": "version-0.61/backhandler",
+  "isDocsHomePage": false,
+  "title": "BackHandler",
+  "description": "Detect hardware button presses for back navigation.",
+  "source": "@site/versioned_docs/version-0.61/backhandler.md",
+  "slug": "/backhandler",
+  "permalink": "/docs/0.61/backhandler",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/backhandler.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "🚧 AsyncStorage",
+    "permalink": "/docs/0.61/asyncstorage"
+  },
+  "next": {
+    "title": "🚧 Clipboard",
+    "permalink": "/docs/0.61/clipboard"
+  }
+}

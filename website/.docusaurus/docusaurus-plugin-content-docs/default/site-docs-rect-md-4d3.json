@@ -1,0 +1,22 @@
+{
+  "unversionedId": "rect",
+  "id": "rect",
+  "isDocsHomePage": false,
+  "title": "Rect Object Type",
+  "description": "Rect accepts numeric pixel values to describe how far to extend a rectangular area. These values are added to the original area's size to expand it.",
+  "source": "@site/../docs/rect.md",
+  "slug": "/rect",
+  "permalink": "/docs/next/rect",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/rect.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "React Node Object Type",
+    "permalink": "/docs/next/react-node"
+  },
+  "next": {
+    "title": "ViewToken Object Type",
+    "permalink": "/docs/next/viewtoken"
+  }
+}

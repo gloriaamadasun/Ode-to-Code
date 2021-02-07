@@ -1,0 +1,13 @@
+{
+  "unversionedId": "usewindowdimensions",
+  "id": "version-0.60/usewindowdimensions",
+  "isDocsHomePage": false,
+  "title": "useWindowDimensions",
+  "description": "`jsx",
+  "source": "@site/versioned_docs/version-0.60/usewindowdimensions.md",
+  "slug": "/usewindowdimensions",
+  "permalink": "/docs/0.60/usewindowdimensions",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/usewindowdimensions.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

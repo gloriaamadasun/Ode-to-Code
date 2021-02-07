@@ -1,0 +1,22 @@
+{
+  "unversionedId": "permissionsandroid",
+  "id": "version-0.61/permissionsandroid",
+  "isDocsHomePage": false,
+  "title": "PermissionsAndroid",
+  "description": "Project with Native Code Required",
+  "source": "@site/versioned_docs/version-0.61/permissionsandroid.md",
+  "slug": "/permissionsandroid",
+  "permalink": "/docs/0.61/permissionsandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/permissionsandroid.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "PanResponder",
+    "permalink": "/docs/0.61/panresponder"
+  },
+  "next": {
+    "title": "PixelRatio",
+    "permalink": "/docs/0.61/pixelratio"
+  }
+}

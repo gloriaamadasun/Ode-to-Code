@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/03/26/version-0.62",
+  "source": "@site/blog/2020-03-26-version-0.62.md",
+  "description": "Today we’re releasing React Native version 0.62 which includes support for Flipper by default.",
+  "date": "2020-03-26T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "title": "Announcing React Native 0.62 with Flipper",
+  "readingTime": 4.255,
+  "truncated": false,
+  "prevItem": {
+    "title": "Announcing React Native 0.63 with LogBox",
+    "permalink": "/blog/2020/07/06/version-0.63"
+  },
+  "nextItem": {
+    "title": "Meet Doctor, a new React Native command",
+    "permalink": "/blog/2019/11/18/react-native-doctor"
+  }
+}

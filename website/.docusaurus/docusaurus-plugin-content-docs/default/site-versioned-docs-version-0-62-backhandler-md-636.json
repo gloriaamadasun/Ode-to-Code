@@ -1,0 +1,22 @@
+{
+  "unversionedId": "backhandler",
+  "id": "version-0.62/backhandler",
+  "isDocsHomePage": false,
+  "title": "BackHandler",
+  "description": "The Backhandler API detects hardware button presses for back navigation, lets you register event listeners for the system's back action, and lets you control how your application responds. It is Android-only.",
+  "source": "@site/versioned_docs/version-0.62/backhandler.md",
+  "slug": "/backhandler",
+  "permalink": "/docs/0.62/backhandler",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/backhandler.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/api",
+  "previous": {
+    "title": "useWindowDimensions",
+    "permalink": "/docs/0.62/usewindowdimensions"
+  },
+  "next": {
+    "title": "PermissionsAndroid",
+    "permalink": "/docs/0.62/permissionsandroid"
+  }
+}

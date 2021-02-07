@@ -1,0 +1,22 @@
+{
+  "unversionedId": "dynamiccolorios",
+  "id": "dynamiccolorios",
+  "isDocsHomePage": false,
+  "title": "DynamicColorIOS",
+  "description": "The DynamicColorIOS function is a platform color type specific to iOS.",
+  "source": "@site/../docs/dynamiccolorios.md",
+  "slug": "/dynamiccolorios",
+  "permalink": "/docs/next/dynamiccolorios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/dynamiccolorios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "ActionSheetIOS",
+    "permalink": "/docs/next/actionsheetios"
+  },
+  "next": {
+    "title": "Settings",
+    "permalink": "/docs/next/settings"
+  }
+}

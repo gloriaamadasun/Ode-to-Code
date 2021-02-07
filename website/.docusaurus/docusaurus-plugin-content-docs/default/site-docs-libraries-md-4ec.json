@@ -1,0 +1,22 @@
+{
+  "unversionedId": "libraries",
+  "id": "libraries",
+  "isDocsHomePage": false,
+  "title": "Using Libraries",
+  "description": "This guide introduces React Native developers to finding, installing, and using third-party libraries in their apps.",
+  "source": "@site/../docs/libraries.md",
+  "slug": "/libraries",
+  "permalink": "/docs/next/libraries",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/libraries.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/docs/next/testing-overview"
+  },
+  "next": {
+    "title": "Using TypeScript",
+    "permalink": "/docs/next/typescript"
+  }
+}

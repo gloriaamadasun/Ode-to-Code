@@ -1,0 +1,13 @@
+{
+  "unversionedId": "usecolorscheme",
+  "id": "version-0.61/usecolorscheme",
+  "isDocsHomePage": false,
+  "title": "useColorScheme",
+  "description": "`jsx",
+  "source": "@site/versioned_docs/version-0.61/usecolorscheme.md",
+  "slug": "/usecolorscheme",
+  "permalink": "/docs/0.61/usecolorscheme",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/usecolorscheme.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055
+}

@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2019/03/01/react-native-open-source-update",
+  "source": "@site/blog/2019-03-01-react-native-open-source-update.md",
+  "description": "We announced our React Native Open Source roadmap in Q4 2018 after deciding to invest more in the React Native open source community.",
+  "date": "2019-03-01T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "React Native Open Source Update March 2019",
+  "readingTime": 4.695,
+  "truncated": false,
+  "prevItem": {
+    "title": "Releasing React Native 0.59",
+    "permalink": "/blog/2019/03/12/releasing-react-native-059"
+  },
+  "nextItem": {
+    "title": "The State of the React Native Community in 2018",
+    "permalink": "/blog/2019/01/07/state-of-react-native-community"
+  }
+}

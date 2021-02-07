@@ -1,0 +1,22 @@
+{
+  "unversionedId": "usewindowdimensions",
+  "id": "version-0.63/usewindowdimensions",
+  "isDocsHomePage": false,
+  "title": "useWindowDimensions",
+  "description": "`jsx",
+  "source": "@site/versioned_docs/version-0.63/usewindowdimensions.md",
+  "slug": "/usewindowdimensions",
+  "permalink": "/docs/usewindowdimensions",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/usewindowdimensions.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "useColorScheme",
+    "permalink": "/docs/usecolorscheme"
+  },
+  "next": {
+    "title": "BackHandler",
+    "permalink": "/docs/backhandler"
+  }
+}

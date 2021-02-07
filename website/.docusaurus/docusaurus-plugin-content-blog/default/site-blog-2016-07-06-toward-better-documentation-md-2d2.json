@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/07/06/toward-better-documentation",
+  "source": "@site/blog/2016-07-06-toward-better-documentation.md",
+  "description": "Part of having a great developer experience is having great documentation. A lot goes into creating good docs - the ideal documentation is concise, helpful, accurate, complete, and delightful. Recently we've been working hard to make the docs better based on your feedback, and we wanted to share some of the improvements we've made.",
+  "date": "2016-07-06T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "Toward Better Documentation",
+  "readingTime": 4,
+  "truncated": false,
+  "prevItem": {
+    "title": "San Francisco Meetup Recap",
+    "permalink": "/blog/2016/08/12/react-native-meetup-san-francisco"
+  },
+  "nextItem": {
+    "title": "React Native: A year in review",
+    "permalink": "/blog/2016/04/13/react-native-a-year-in-review"
+  }
+}

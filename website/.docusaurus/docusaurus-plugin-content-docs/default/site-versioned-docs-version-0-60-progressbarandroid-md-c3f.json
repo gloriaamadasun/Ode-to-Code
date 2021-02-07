@@ -1,0 +1,22 @@
+{
+  "unversionedId": "progressbarandroid",
+  "id": "version-0.60/progressbarandroid",
+  "isDocsHomePage": false,
+  "title": "ProgressBarAndroid",
+  "description": "Android-only React component used to indicate that the app is loading or there is some activity in the app.",
+  "source": "@site/versioned_docs/version-0.60/progressbarandroid.md",
+  "slug": "/progressbarandroid",
+  "permalink": "/docs/0.60/progressbarandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/progressbarandroid.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "PickerIOS",
+    "permalink": "/docs/0.60/pickerios"
+  },
+  "next": {
+    "title": "ProgressViewIOS",
+    "permalink": "/docs/0.60/progressviewios"
+  }
+}

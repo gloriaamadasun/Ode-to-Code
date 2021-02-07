@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2015/11/23/making-react-native-apps-accessible",
+  "source": "@site/blog/2015-11-23-making-react-native-apps-accessible.md",
+  "description": "With the recent launch of React on web and React Native on mobile, we've provided a new front-end framework for developers to build products. One key aspect of building a robust product is ensuring that anyone can use it, including people who have vision loss or other disabilities. The Accessibility API for React and React Native enables you to make any React-powered experience usable by someone who may use assistive technology, like a screen reader for the blind and visually impaired.",
+  "date": "2015-11-23T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Making React Native apps accessible",
+  "readingTime": 1.08,
+  "truncated": false,
+  "prevItem": {
+    "title": "Introducing Hot Reloading",
+    "permalink": "/blog/2016/03/24/introducing-hot-reloading"
+  },
+  "nextItem": {
+    "title": "React Native for Android: How we built the first cross-platform React Native app",
+    "permalink": "/blog/2015/09/14/react-native-for-android"
+  }
+}

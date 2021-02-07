@@ -1,0 +1,13 @@
+{
+  "unversionedId": "toolbarandroid",
+  "id": "version-0.63/toolbarandroid",
+  "isDocsHomePage": false,
+  "title": "ToolbarAndroid",
+  "description": "NOTE: Toolbar Android has been deprecated and removed from the package since React Native v0.61.0. Use @react-native-community/toolbar-android instead.",
+  "source": "@site/versioned_docs/version-0.63/toolbarandroid.md",
+  "slug": "/toolbarandroid",
+  "permalink": "/docs/toolbarandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/toolbarandroid.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

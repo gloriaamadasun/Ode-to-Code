@@ -1,0 +1,22 @@
+{
+  "unversionedId": "layout-props",
+  "id": "version-0.63/layout-props",
+  "isDocsHomePage": false,
+  "title": "Layout Props",
+  "description": "More detailed examples about those properties can be found on the Layout with Flexbox page.",
+  "source": "@site/versioned_docs/version-0.63/layout-props.md",
+  "slug": "/layout-props",
+  "permalink": "/docs/layout-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/layout-props.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "Image Style Props",
+    "permalink": "/docs/image-style-props"
+  },
+  "next": {
+    "title": "Shadow Props",
+    "permalink": "/docs/shadow-props"
+  }
+}

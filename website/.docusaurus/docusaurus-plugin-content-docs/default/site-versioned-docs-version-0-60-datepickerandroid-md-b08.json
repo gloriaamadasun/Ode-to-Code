@@ -1,0 +1,22 @@
+{
+  "unversionedId": "datepickerandroid",
+  "id": "version-0.60/datepickerandroid",
+  "isDocsHomePage": false,
+  "title": "DatePickerAndroid",
+  "description": "Opens the standard Android date picker dialog.",
+  "source": "@site/versioned_docs/version-0.60/datepickerandroid.md",
+  "slug": "/datepickerandroid",
+  "permalink": "/docs/0.60/datepickerandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/datepickerandroid.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "Clipboard",
+    "permalink": "/docs/0.60/clipboard"
+  },
+  "next": {
+    "title": "Dimensions",
+    "permalink": "/docs/0.60/dimensions"
+  }
+}

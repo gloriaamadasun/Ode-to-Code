@@ -1,0 +1,13 @@
+{
+  "unversionedId": "checkbox",
+  "id": "version-0.62/checkbox",
+  "isDocsHomePage": false,
+  "title": "🚧 CheckBox",
+  "description": "Deprecated. Use @react-native-community/checkbox instead.",
+  "source": "@site/versioned_docs/version-0.62/checkbox.md",
+  "slug": "/checkbox",
+  "permalink": "/docs/0.62/checkbox",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/checkbox.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

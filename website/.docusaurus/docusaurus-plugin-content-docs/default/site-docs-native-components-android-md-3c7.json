@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-components-android",
+  "id": "native-components-android",
+  "isDocsHomePage": false,
+  "title": "Android Native UI Components",
+  "description": "There are tons of native UI widgets out there ready to be used in the latest apps - some of them are part of the platform, others are available as third-party libraries, and still more might be in use in your very own portfolio. React Native has several of the most critical platform components already wrapped, like ScrollView and TextInput, but not all of them, and certainly not ones you might have written yourself for a previous app. Fortunately, we can wrap up these existing components for seamless integration with your React Native application.",
+  "source": "@site/../docs/native-components-android.md",
+  "slug": "/native-components-android",
+  "permalink": "/docs/next/native-components-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/native-components-android.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Native Modules NPM Package Setup",
+    "permalink": "/docs/next/native-modules-setup"
+  },
+  "next": {
+    "title": "iOS Native UI Components",
+    "permalink": "/docs/next/native-components-ios"
+  }
+}

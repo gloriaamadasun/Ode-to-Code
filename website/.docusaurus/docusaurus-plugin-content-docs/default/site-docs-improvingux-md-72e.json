@@ -1,0 +1,13 @@
+{
+  "unversionedId": "improvingux",
+  "id": "improvingux",
+  "isDocsHomePage": false,
+  "title": "Improving User Experience",
+  "description": "Configure text inputs",
+  "source": "@site/../docs/improvingux.md",
+  "slug": "/improvingux",
+  "permalink": "/docs/next/improvingux",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/improvingux.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

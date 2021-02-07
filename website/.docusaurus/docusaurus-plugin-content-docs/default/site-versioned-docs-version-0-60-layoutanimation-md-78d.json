@@ -1,0 +1,22 @@
+{
+  "unversionedId": "layoutanimation",
+  "id": "version-0.60/layoutanimation",
+  "isDocsHomePage": false,
+  "title": "LayoutAnimation",
+  "description": "Automatically animates views to their new positions when the next layout happens.",
+  "source": "@site/versioned_docs/version-0.60/layoutanimation.md",
+  "slug": "/layoutanimation",
+  "permalink": "/docs/0.60/layoutanimation",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/layoutanimation.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "Layout Props",
+    "permalink": "/docs/0.60/layout-props"
+  },
+  "next": {
+    "title": "Linking",
+    "permalink": "/docs/0.60/linking"
+  }
+}

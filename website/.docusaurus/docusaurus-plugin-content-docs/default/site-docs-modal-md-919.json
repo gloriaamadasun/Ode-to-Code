@@ -1,0 +1,22 @@
+{
+  "unversionedId": "modal",
+  "id": "modal",
+  "isDocsHomePage": false,
+  "title": "Modal",
+  "description": "The Modal component is a basic way to present content above an enclosing view.",
+  "source": "@site/../docs/modal.md",
+  "slug": "/modal",
+  "permalink": "/docs/next/modal",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/modal.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "KeyboardAvoidingView",
+    "permalink": "/docs/next/keyboardavoidingview"
+  },
+  "next": {
+    "title": "Pressable",
+    "permalink": "/docs/next/pressable"
+  }
+}

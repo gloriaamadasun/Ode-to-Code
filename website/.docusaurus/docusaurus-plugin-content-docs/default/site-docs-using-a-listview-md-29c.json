@@ -1,0 +1,22 @@
+{
+  "unversionedId": "using-a-listview",
+  "id": "using-a-listview",
+  "isDocsHomePage": false,
+  "title": "Using List Views",
+  "description": "React Native provides a suite of components for presenting lists of data. Generally, you'll want to use either FlatList or SectionList.",
+  "source": "@site/../docs/using-a-listview.md",
+  "slug": "/using-a-listview",
+  "permalink": "/docs/next/using-a-listview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/using-a-listview.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using a ScrollView",
+    "permalink": "/docs/next/using-a-scrollview"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/next/troubleshooting"
+  }
+}

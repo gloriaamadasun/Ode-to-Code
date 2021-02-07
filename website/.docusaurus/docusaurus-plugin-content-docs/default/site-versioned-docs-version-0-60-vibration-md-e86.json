@@ -1,0 +1,22 @@
+{
+  "unversionedId": "vibration",
+  "id": "version-0.60/vibration",
+  "isDocsHomePage": false,
+  "title": "Vibration",
+  "description": "The Vibration API is exposed at Vibration.vibrate(). The vibration is synchronous so this method will return immediately.",
+  "source": "@site/versioned_docs/version-0.60/vibration.md",
+  "slug": "/vibration",
+  "permalink": "/docs/0.60/vibration",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/vibration.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "Transforms",
+    "permalink": "/docs/0.60/transforms"
+  },
+  "next": {
+    "title": "View Style Props",
+    "permalink": "/docs/0.60/view-style-props"
+  }
+}

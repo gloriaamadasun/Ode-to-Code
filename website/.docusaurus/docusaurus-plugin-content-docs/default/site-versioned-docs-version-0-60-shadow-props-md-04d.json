@@ -1,0 +1,22 @@
+{
+  "unversionedId": "shadow-props",
+  "id": "version-0.60/shadow-props",
+  "isDocsHomePage": false,
+  "title": "Shadow Props",
+  "description": "Reference",
+  "source": "@site/versioned_docs/version-0.60/shadow-props.md",
+  "slug": "/shadow-props",
+  "permalink": "/docs/0.60/shadow-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/shadow-props.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/docs/0.60/settings"
+  },
+  "next": {
+    "title": "Share",
+    "permalink": "/docs/0.60/share"
+  }
+}

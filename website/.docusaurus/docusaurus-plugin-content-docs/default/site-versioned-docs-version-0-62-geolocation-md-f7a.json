@@ -1,0 +1,13 @@
+{
+  "unversionedId": "geolocation",
+  "id": "version-0.62/geolocation",
+  "isDocsHomePage": false,
+  "title": "🚧 Geolocation",
+  "description": "Deprecated. Use @react-native-community/geolocation instead.",
+  "source": "@site/versioned_docs/version-0.62/geolocation.md",
+  "slug": "/geolocation",
+  "permalink": "/docs/0.62/geolocation",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/geolocation.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055
+}

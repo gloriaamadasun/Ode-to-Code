@@ -1,0 +1,22 @@
+{
+  "unversionedId": "animatedvalue",
+  "id": "animatedvalue",
+  "isDocsHomePage": false,
+  "title": "Animated.Value",
+  "description": "Standard value for driving animations. One Animated.Value can drive multiple properties in a synchronized fashion, but can only be driven by one mechanism at a time. Using a new mechanism (e.g. starting a new animation, or calling setValue) will stop any previous ones.",
+  "source": "@site/../docs/animatedvalue.md",
+  "slug": "/animatedvalue",
+  "permalink": "/docs/next/animatedvalue",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/animatedvalue.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "Animated",
+    "permalink": "/docs/next/animated"
+  },
+  "next": {
+    "title": "Animated.ValueXY",
+    "permalink": "/docs/next/animatedvaluexy"
+  }
+}

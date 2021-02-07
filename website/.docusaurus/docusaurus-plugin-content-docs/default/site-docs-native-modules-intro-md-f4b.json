@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-modules-intro",
+  "id": "native-modules-intro",
+  "isDocsHomePage": false,
+  "title": "Native Modules Intro",
+  "description": "Sometimes a React Native app needs to access a native platform API that is not available by default in JavaScript, for example the native APIs to access Apple or Android pay. Maybe you want to reuse some existing Objective-C, Swift, Java or C++ libraries without having to reimplement it in JavaScript, or write some high performance, multi-threaded code for things like image processing.",
+  "source": "@site/../docs/native-modules-intro.md",
+  "slug": "/native-modules-intro",
+  "permalink": "/docs/next/native-modules-intro",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/native-modules-intro.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Security",
+    "permalink": "/docs/next/security"
+  },
+  "next": {
+    "title": "Android Native Modules",
+    "permalink": "/docs/next/native-modules-android"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "permissionsandroid",
+  "id": "version-0.63/permissionsandroid",
+  "isDocsHomePage": false,
+  "title": "PermissionsAndroid",
+  "description": "Project with Native Code Required",
+  "source": "@site/versioned_docs/version-0.63/permissionsandroid.md",
+  "slug": "/permissionsandroid",
+  "permalink": "/docs/permissionsandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/permissionsandroid.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/api",
+  "previous": {
+    "title": "BackHandler",
+    "permalink": "/docs/backhandler"
+  },
+  "next": {
+    "title": "ToastAndroid",
+    "permalink": "/docs/toastandroid"
+  }
+}

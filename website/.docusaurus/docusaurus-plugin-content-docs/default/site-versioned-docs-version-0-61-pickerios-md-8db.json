@@ -1,0 +1,22 @@
+{
+  "unversionedId": "pickerios",
+  "id": "version-0.61/pickerios",
+  "isDocsHomePage": false,
+  "title": "🚧 PickerIOS",
+  "description": "Deprecated. Use @react-native-community/picker instead.",
+  "source": "@site/versioned_docs/version-0.61/pickerios.md",
+  "slug": "/pickerios",
+  "permalink": "/docs/0.61/pickerios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/pickerios.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "Picker",
+    "permalink": "/docs/0.61/picker"
+  },
+  "next": {
+    "title": "🚧 ProgressBarAndroid",
+    "permalink": "/docs/0.61/progressbarandroid"
+  }
+}

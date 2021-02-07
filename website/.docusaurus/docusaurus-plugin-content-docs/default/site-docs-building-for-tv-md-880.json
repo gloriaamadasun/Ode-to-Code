@@ -1,0 +1,22 @@
+{
+  "unversionedId": "building-for-tv",
+  "id": "building-for-tv",
+  "isDocsHomePage": false,
+  "title": "Building For TV Devices",
+  "description": "TV devices support has been implemented with the intention of making existing React Native applications work on Apple TV and Android TV, with few or no changes needed in the JavaScript code for the applications.",
+  "source": "@site/../docs/building-for-tv.md",
+  "slug": "/building-for-tv",
+  "permalink": "/docs/next/building-for-tv",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/building-for-tv.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Integration with an Android Fragment",
+    "permalink": "/docs/next/integration-with-android-fragment"
+  },
+  "next": {
+    "title": "Out-of-Tree Platforms",
+    "permalink": "/docs/next/out-of-tree-platforms"
+  }
+}

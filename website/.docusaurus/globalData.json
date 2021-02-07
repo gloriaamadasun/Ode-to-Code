@@ -1,0 +1,3885 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/docs/next",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "_getting-started-linux-android",
+              "path": "/docs/next/_getting-started-linux-android"
+            },
+            {
+              "id": "_getting-started-macos-android",
+              "path": "/docs/next/_getting-started-macos-android"
+            },
+            {
+              "id": "_getting-started-macos-ios",
+              "path": "/docs/next/_getting-started-macos-ios"
+            },
+            {
+              "id": "_getting-started-windows-android",
+              "path": "/docs/next/_getting-started-windows-android"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-java",
+              "path": "/docs/next/_integration-with-exisiting-apps-java"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-objc",
+              "path": "/docs/next/_integration-with-exisiting-apps-objc"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-swift",
+              "path": "/docs/next/_integration-with-exisiting-apps-swift"
+            },
+            {
+              "id": "accessibility",
+              "path": "/docs/next/accessibility",
+              "sidebar": "docs"
+            },
+            {
+              "id": "accessibilityinfo",
+              "path": "/docs/next/accessibilityinfo",
+              "sidebar": "api"
+            },
+            {
+              "id": "actionsheetios",
+              "path": "/docs/next/actionsheetios",
+              "sidebar": "api"
+            },
+            {
+              "id": "activityindicator",
+              "path": "/docs/next/activityindicator",
+              "sidebar": "components"
+            },
+            {
+              "id": "alert",
+              "path": "/docs/next/alert",
+              "sidebar": "api"
+            },
+            {
+              "id": "alertios",
+              "path": "/docs/next/alertios"
+            },
+            {
+              "id": "animated",
+              "path": "/docs/next/animated",
+              "sidebar": "api"
+            },
+            {
+              "id": "animatedvalue",
+              "path": "/docs/next/animatedvalue",
+              "sidebar": "api"
+            },
+            {
+              "id": "animatedvaluexy",
+              "path": "/docs/next/animatedvaluexy",
+              "sidebar": "api"
+            },
+            {
+              "id": "animations",
+              "path": "/docs/next/animations",
+              "sidebar": "docs"
+            },
+            {
+              "id": "app-extensions",
+              "path": "/docs/next/app-extensions",
+              "sidebar": "docs"
+            },
+            {
+              "id": "appearance",
+              "path": "/docs/next/appearance",
+              "sidebar": "api"
+            },
+            {
+              "id": "appregistry",
+              "path": "/docs/next/appregistry",
+              "sidebar": "api"
+            },
+            {
+              "id": "appstate",
+              "path": "/docs/next/appstate",
+              "sidebar": "api"
+            },
+            {
+              "id": "asyncstorage",
+              "path": "/docs/next/asyncstorage"
+            },
+            {
+              "id": "backhandler",
+              "path": "/docs/next/backhandler",
+              "sidebar": "api"
+            },
+            {
+              "id": "building-for-tv",
+              "path": "/docs/next/building-for-tv",
+              "sidebar": "docs"
+            },
+            {
+              "id": "button",
+              "path": "/docs/next/button",
+              "sidebar": "components"
+            },
+            {
+              "id": "checkbox",
+              "path": "/docs/next/checkbox"
+            },
+            {
+              "id": "clipboard",
+              "path": "/docs/next/clipboard"
+            },
+            {
+              "id": "colors",
+              "path": "/docs/next/colors",
+              "sidebar": "docs"
+            },
+            {
+              "id": "communication-android",
+              "path": "/docs/next/communication-android"
+            },
+            {
+              "id": "communication-ios",
+              "path": "/docs/next/communication-ios",
+              "sidebar": "docs"
+            },
+            {
+              "id": "components-and-apis",
+              "path": "/docs/next/components-and-apis",
+              "sidebar": "components"
+            },
+            {
+              "id": "custom-webview-android",
+              "path": "/docs/next/custom-webview-android"
+            },
+            {
+              "id": "custom-webview-ios",
+              "path": "/docs/next/custom-webview-ios"
+            },
+            {
+              "id": "datepickerandroid",
+              "path": "/docs/next/datepickerandroid"
+            },
+            {
+              "id": "datepickerios",
+              "path": "/docs/next/datepickerios"
+            },
+            {
+              "id": "debugging",
+              "path": "/docs/next/debugging",
+              "sidebar": "docs"
+            },
+            {
+              "id": "devsettings",
+              "path": "/docs/next/devsettings",
+              "sidebar": "api"
+            },
+            {
+              "id": "dimensions",
+              "path": "/docs/next/dimensions",
+              "sidebar": "api"
+            },
+            {
+              "id": "direct-manipulation",
+              "path": "/docs/next/direct-manipulation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "drawerlayoutandroid",
+              "path": "/docs/next/drawerlayoutandroid",
+              "sidebar": "components"
+            },
+            {
+              "id": "dynamiccolorios",
+              "path": "/docs/next/dynamiccolorios",
+              "sidebar": "api"
+            },
+            {
+              "id": "easing",
+              "path": "/docs/next/easing",
+              "sidebar": "api"
+            },
+            {
+              "id": "environment-setup",
+              "path": "/docs/next/environment-setup",
+              "sidebar": "docs"
+            },
+            {
+              "id": "fast-refresh",
+              "path": "/docs/next/fast-refresh",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flatlist",
+              "path": "/docs/next/flatlist",
+              "sidebar": "components"
+            },
+            {
+              "id": "flexbox",
+              "path": "/docs/next/flexbox",
+              "sidebar": "docs"
+            },
+            {
+              "id": "gesture-responder-system",
+              "path": "/docs/next/gesture-responder-system",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/next/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "handling-text-input",
+              "path": "/docs/next/handling-text-input",
+              "sidebar": "docs"
+            },
+            {
+              "id": "handling-touches",
+              "path": "/docs/next/handling-touches",
+              "sidebar": "docs"
+            },
+            {
+              "id": "headless-js-android",
+              "path": "/docs/next/headless-js-android",
+              "sidebar": "docs"
+            },
+            {
+              "id": "height-and-width",
+              "path": "/docs/next/height-and-width",
+              "sidebar": "docs"
+            },
+            {
+              "id": "hermes",
+              "path": "/docs/next/hermes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "image",
+              "path": "/docs/next/image",
+              "sidebar": "components"
+            },
+            {
+              "id": "image-style-props",
+              "path": "/docs/next/image-style-props",
+              "sidebar": "components"
+            },
+            {
+              "id": "imagebackground",
+              "path": "/docs/next/imagebackground",
+              "sidebar": "components"
+            },
+            {
+              "id": "imageeditor",
+              "path": "/docs/next/imageeditor"
+            },
+            {
+              "id": "imagepickerios",
+              "path": "/docs/next/imagepickerios"
+            },
+            {
+              "id": "images",
+              "path": "/docs/next/images",
+              "sidebar": "docs"
+            },
+            {
+              "id": "improvingux",
+              "path": "/docs/next/improvingux"
+            },
+            {
+              "id": "inputaccessoryview",
+              "path": "/docs/next/inputaccessoryview",
+              "sidebar": "components"
+            },
+            {
+              "id": "integration-with-android-fragment",
+              "path": "/docs/next/integration-with-android-fragment",
+              "sidebar": "docs"
+            },
+            {
+              "id": "integration-with-existing-apps",
+              "path": "/docs/next/integration-with-existing-apps",
+              "sidebar": "docs"
+            },
+            {
+              "id": "interactionmanager",
+              "path": "/docs/next/interactionmanager",
+              "sidebar": "api"
+            },
+            {
+              "id": "intro-react",
+              "path": "/docs/next/intro-react",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro-react-native-components",
+              "path": "/docs/next/intro-react-native-components",
+              "sidebar": "docs"
+            },
+            {
+              "id": "javascript-environment",
+              "path": "/docs/next/javascript-environment",
+              "sidebar": "docs"
+            },
+            {
+              "id": "keyboard",
+              "path": "/docs/next/keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "keyboardavoidingview",
+              "path": "/docs/next/keyboardavoidingview",
+              "sidebar": "components"
+            },
+            {
+              "id": "layout-props",
+              "path": "/docs/next/layout-props",
+              "sidebar": "components"
+            },
+            {
+              "id": "layoutanimation",
+              "path": "/docs/next/layoutanimation",
+              "sidebar": "api"
+            },
+            {
+              "id": "layoutevent",
+              "path": "/docs/next/layoutevent",
+              "sidebar": "components"
+            },
+            {
+              "id": "libraries",
+              "path": "/docs/next/libraries",
+              "sidebar": "docs"
+            },
+            {
+              "id": "linking",
+              "path": "/docs/next/linking",
+              "sidebar": "api"
+            },
+            {
+              "id": "linking-libraries-ios",
+              "path": "/docs/next/linking-libraries-ios",
+              "sidebar": "docs"
+            },
+            {
+              "id": "modal",
+              "path": "/docs/next/modal",
+              "sidebar": "components"
+            },
+            {
+              "id": "more-resources",
+              "path": "/docs/next/more-resources",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-components-android",
+              "path": "/docs/next/native-components-android",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-components-ios",
+              "path": "/docs/next/native-components-ios",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-android",
+              "path": "/docs/next/native-modules-android",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-intro",
+              "path": "/docs/next/native-modules-intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-ios",
+              "path": "/docs/next/native-modules-ios",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-setup",
+              "path": "/docs/next/native-modules-setup",
+              "sidebar": "docs"
+            },
+            {
+              "id": "navigation",
+              "path": "/docs/next/navigation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "network",
+              "path": "/docs/next/network",
+              "sidebar": "docs"
+            },
+            {
+              "id": "optimizing-flatlist-configuration",
+              "path": "/docs/next/optimizing-flatlist-configuration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "out-of-tree-platforms",
+              "path": "/docs/next/out-of-tree-platforms",
+              "sidebar": "docs"
+            },
+            {
+              "id": "panresponder",
+              "path": "/docs/next/panresponder",
+              "sidebar": "api"
+            },
+            {
+              "id": "performance",
+              "path": "/docs/next/performance",
+              "sidebar": "docs"
+            },
+            {
+              "id": "permissionsandroid",
+              "path": "/docs/next/permissionsandroid",
+              "sidebar": "api"
+            },
+            {
+              "id": "picker",
+              "path": "/docs/next/picker"
+            },
+            {
+              "id": "picker-item",
+              "path": "/docs/next/picker-item"
+            },
+            {
+              "id": "picker-style-props",
+              "path": "/docs/next/picker-style-props"
+            },
+            {
+              "id": "pickerios",
+              "path": "/docs/next/pickerios"
+            },
+            {
+              "id": "pixelratio",
+              "path": "/docs/next/pixelratio",
+              "sidebar": "api"
+            },
+            {
+              "id": "platform",
+              "path": "/docs/next/platform",
+              "sidebar": "api"
+            },
+            {
+              "id": "platform-specific-code",
+              "path": "/docs/next/platform-specific-code",
+              "sidebar": "docs"
+            },
+            {
+              "id": "platformcolor",
+              "path": "/docs/next/platformcolor",
+              "sidebar": "api"
+            },
+            {
+              "id": "pressable",
+              "path": "/docs/next/pressable",
+              "sidebar": "components"
+            },
+            {
+              "id": "pressevent",
+              "path": "/docs/next/pressevent",
+              "sidebar": "components"
+            },
+            {
+              "id": "profile-hermes",
+              "path": "/docs/next/profile-hermes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "profiling",
+              "path": "/docs/next/profiling",
+              "sidebar": "docs"
+            },
+            {
+              "id": "progressbarandroid",
+              "path": "/docs/next/progressbarandroid"
+            },
+            {
+              "id": "progressviewios",
+              "path": "/docs/next/progressviewios"
+            },
+            {
+              "id": "props",
+              "path": "/docs/next/props"
+            },
+            {
+              "id": "publishing-to-app-store",
+              "path": "/docs/next/publishing-to-app-store",
+              "sidebar": "docs"
+            },
+            {
+              "id": "pushnotificationios",
+              "path": "/docs/next/pushnotificationios"
+            },
+            {
+              "id": "ram-bundles-inline-requires",
+              "path": "/docs/next/ram-bundles-inline-requires",
+              "sidebar": "docs"
+            },
+            {
+              "id": "react-node",
+              "path": "/docs/next/react-node",
+              "sidebar": "components"
+            },
+            {
+              "id": "rect",
+              "path": "/docs/next/rect",
+              "sidebar": "components"
+            },
+            {
+              "id": "refreshcontrol",
+              "path": "/docs/next/refreshcontrol",
+              "sidebar": "components"
+            },
+            {
+              "id": "running-on-device",
+              "path": "/docs/next/running-on-device",
+              "sidebar": "docs"
+            },
+            {
+              "id": "running-on-simulator-ios",
+              "path": "/docs/next/running-on-simulator-ios",
+              "sidebar": "docs"
+            },
+            {
+              "id": "safeareaview",
+              "path": "/docs/next/safeareaview",
+              "sidebar": "components"
+            },
+            {
+              "id": "scrollview",
+              "path": "/docs/next/scrollview",
+              "sidebar": "components"
+            },
+            {
+              "id": "sectionlist",
+              "path": "/docs/next/sectionlist",
+              "sidebar": "components"
+            },
+            {
+              "id": "security",
+              "path": "/docs/next/security",
+              "sidebar": "docs"
+            },
+            {
+              "id": "segmentedcontrolios",
+              "path": "/docs/next/segmentedcontrolios"
+            },
+            {
+              "id": "settings",
+              "path": "/docs/next/settings",
+              "sidebar": "api"
+            },
+            {
+              "id": "shadow-props",
+              "path": "/docs/next/shadow-props",
+              "sidebar": "components"
+            },
+            {
+              "id": "share",
+              "path": "/docs/next/share",
+              "sidebar": "api"
+            },
+            {
+              "id": "signed-apk-android",
+              "path": "/docs/next/signed-apk-android",
+              "sidebar": "docs"
+            },
+            {
+              "id": "slider",
+              "path": "/docs/next/slider"
+            },
+            {
+              "id": "state",
+              "path": "/docs/next/state"
+            },
+            {
+              "id": "statusbar",
+              "path": "/docs/next/statusbar",
+              "sidebar": "components"
+            },
+            {
+              "id": "statusbarios",
+              "path": "/docs/next/statusbarios"
+            },
+            {
+              "id": "style",
+              "path": "/docs/next/style",
+              "sidebar": "docs"
+            },
+            {
+              "id": "stylesheet",
+              "path": "/docs/next/stylesheet",
+              "sidebar": "api"
+            },
+            {
+              "id": "switch",
+              "path": "/docs/next/switch",
+              "sidebar": "components"
+            },
+            {
+              "id": "symbolication",
+              "path": "/docs/next/symbolication",
+              "sidebar": "docs"
+            },
+            {
+              "id": "systrace",
+              "path": "/docs/next/systrace",
+              "sidebar": "api"
+            },
+            {
+              "id": "testing-overview",
+              "path": "/docs/next/testing-overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "text",
+              "path": "/docs/next/text",
+              "sidebar": "components"
+            },
+            {
+              "id": "text-style-props",
+              "path": "/docs/next/text-style-props",
+              "sidebar": "components"
+            },
+            {
+              "id": "textinput",
+              "path": "/docs/next/textinput",
+              "sidebar": "components"
+            },
+            {
+              "id": "timepickerandroid",
+              "path": "/docs/next/timepickerandroid"
+            },
+            {
+              "id": "timers",
+              "path": "/docs/next/timers",
+              "sidebar": "docs"
+            },
+            {
+              "id": "toastandroid",
+              "path": "/docs/next/toastandroid",
+              "sidebar": "api"
+            },
+            {
+              "id": "touchablehighlight",
+              "path": "/docs/next/touchablehighlight",
+              "sidebar": "components"
+            },
+            {
+              "id": "touchablenativefeedback",
+              "path": "/docs/next/touchablenativefeedback",
+              "sidebar": "components"
+            },
+            {
+              "id": "touchableopacity",
+              "path": "/docs/next/touchableopacity",
+              "sidebar": "components"
+            },
+            {
+              "id": "touchablewithoutfeedback",
+              "path": "/docs/next/touchablewithoutfeedback",
+              "sidebar": "components"
+            },
+            {
+              "id": "transforms",
+              "path": "/docs/next/transforms",
+              "sidebar": "api"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/next/troubleshooting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "tutorial",
+              "path": "/docs/next/tutorial"
+            },
+            {
+              "id": "typescript",
+              "path": "/docs/next/typescript",
+              "sidebar": "docs"
+            },
+            {
+              "id": "upgrading",
+              "path": "/docs/next/upgrading",
+              "sidebar": "docs"
+            },
+            {
+              "id": "usecolorscheme",
+              "path": "/docs/next/usecolorscheme",
+              "sidebar": "api"
+            },
+            {
+              "id": "usewindowdimensions",
+              "path": "/docs/next/usewindowdimensions",
+              "sidebar": "api"
+            },
+            {
+              "id": "using-a-listview",
+              "path": "/docs/next/using-a-listview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "using-a-scrollview",
+              "path": "/docs/next/using-a-scrollview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "vibration",
+              "path": "/docs/next/vibration",
+              "sidebar": "api"
+            },
+            {
+              "id": "view",
+              "path": "/docs/next/view",
+              "sidebar": "components"
+            },
+            {
+              "id": "view-style-props",
+              "path": "/docs/next/view-style-props",
+              "sidebar": "components"
+            },
+            {
+              "id": "viewpagerandroid",
+              "path": "/docs/next/viewpagerandroid"
+            },
+            {
+              "id": "viewtoken",
+              "path": "/docs/next/viewtoken",
+              "sidebar": "components"
+            },
+            {
+              "id": "virtualizedlist",
+              "path": "/docs/next/virtualizedlist",
+              "sidebar": "components"
+            }
+          ]
+        },
+        {
+          "name": "0.63",
+          "label": "0.63",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "_getting-started-linux-android",
+              "path": "/docs/_getting-started-linux-android"
+            },
+            {
+              "id": "_getting-started-macos-android",
+              "path": "/docs/_getting-started-macos-android"
+            },
+            {
+              "id": "_getting-started-macos-ios",
+              "path": "/docs/_getting-started-macos-ios"
+            },
+            {
+              "id": "_getting-started-windows-android",
+              "path": "/docs/_getting-started-windows-android"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-java",
+              "path": "/docs/_integration-with-exisiting-apps-java"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-objc",
+              "path": "/docs/_integration-with-exisiting-apps-objc"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-swift",
+              "path": "/docs/_integration-with-exisiting-apps-swift"
+            },
+            {
+              "id": "accessibility",
+              "path": "/docs/accessibility",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "accessibilityinfo",
+              "path": "/docs/accessibilityinfo",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "actionsheetios",
+              "path": "/docs/actionsheetios",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "activityindicator",
+              "path": "/docs/activityindicator",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "alert",
+              "path": "/docs/alert",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "alertios",
+              "path": "/docs/alertios"
+            },
+            {
+              "id": "animated",
+              "path": "/docs/animated",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "animatedvalue",
+              "path": "/docs/animatedvalue",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "animatedvaluexy",
+              "path": "/docs/animatedvaluexy",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "animations",
+              "path": "/docs/animations",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "app-extensions",
+              "path": "/docs/app-extensions",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "appearance",
+              "path": "/docs/appearance",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "appregistry",
+              "path": "/docs/appregistry",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "appstate",
+              "path": "/docs/appstate",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "asyncstorage",
+              "path": "/docs/asyncstorage"
+            },
+            {
+              "id": "backandroid",
+              "path": "/docs/backandroid"
+            },
+            {
+              "id": "backhandler",
+              "path": "/docs/backhandler",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "building-for-tv",
+              "path": "/docs/building-for-tv",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "button",
+              "path": "/docs/button",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "cameraroll",
+              "path": "/docs/cameraroll"
+            },
+            {
+              "id": "checkbox",
+              "path": "/docs/checkbox"
+            },
+            {
+              "id": "clipboard",
+              "path": "/docs/clipboard"
+            },
+            {
+              "id": "colors",
+              "path": "/docs/colors",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "communication-android",
+              "path": "/docs/communication-android"
+            },
+            {
+              "id": "communication-ios",
+              "path": "/docs/communication-ios",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "components-and-apis",
+              "path": "/docs/components-and-apis",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "custom-webview-android",
+              "path": "/docs/custom-webview-android"
+            },
+            {
+              "id": "custom-webview-ios",
+              "path": "/docs/custom-webview-ios"
+            },
+            {
+              "id": "datepickerandroid",
+              "path": "/docs/datepickerandroid"
+            },
+            {
+              "id": "datepickerios",
+              "path": "/docs/datepickerios"
+            },
+            {
+              "id": "debugging",
+              "path": "/docs/debugging",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "devsettings",
+              "path": "/docs/devsettings",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "dimensions",
+              "path": "/docs/dimensions",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "direct-manipulation",
+              "path": "/docs/direct-manipulation",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "drawerlayoutandroid",
+              "path": "/docs/drawerlayoutandroid",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "dynamiccolorios",
+              "path": "/docs/dynamiccolorios",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "easing",
+              "path": "/docs/easing",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "environment-setup",
+              "path": "/docs/environment-setup",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "fast-refresh",
+              "path": "/docs/fast-refresh",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "flatlist",
+              "path": "/docs/flatlist",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "flexbox",
+              "path": "/docs/flexbox",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "geolocation",
+              "path": "/docs/geolocation"
+            },
+            {
+              "id": "gesture-responder-system",
+              "path": "/docs/gesture-responder-system",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "handling-text-input",
+              "path": "/docs/handling-text-input",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "handling-touches",
+              "path": "/docs/handling-touches",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "headless-js-android",
+              "path": "/docs/headless-js-android",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "height-and-width",
+              "path": "/docs/height-and-width",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "hermes",
+              "path": "/docs/hermes",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "image",
+              "path": "/docs/image",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "image-style-props",
+              "path": "/docs/image-style-props",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "imagebackground",
+              "path": "/docs/imagebackground",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "imageeditor",
+              "path": "/docs/imageeditor"
+            },
+            {
+              "id": "imagepickerios",
+              "path": "/docs/imagepickerios"
+            },
+            {
+              "id": "images",
+              "path": "/docs/images",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "imagestore",
+              "path": "/docs/imagestore"
+            },
+            {
+              "id": "improvingux",
+              "path": "/docs/improvingux"
+            },
+            {
+              "id": "inputaccessoryview",
+              "path": "/docs/inputaccessoryview",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "integration-with-existing-apps",
+              "path": "/docs/integration-with-existing-apps",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "interactionmanager",
+              "path": "/docs/interactionmanager",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "intro-react",
+              "path": "/docs/intro-react",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "intro-react-native-components",
+              "path": "/docs/intro-react-native-components",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "javascript-environment",
+              "path": "/docs/javascript-environment",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "keyboard",
+              "path": "/docs/keyboard",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "keyboardavoidingview",
+              "path": "/docs/keyboardavoidingview",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "layout-props",
+              "path": "/docs/layout-props",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "layoutanimation",
+              "path": "/docs/layoutanimation",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "libraries",
+              "path": "/docs/libraries",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "linking",
+              "path": "/docs/linking",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "linking-libraries-ios",
+              "path": "/docs/linking-libraries-ios",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "listview",
+              "path": "/docs/listview"
+            },
+            {
+              "id": "listviewdatasource",
+              "path": "/docs/listviewdatasource"
+            },
+            {
+              "id": "maskedviewios",
+              "path": "/docs/maskedviewios",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "modal",
+              "path": "/docs/modal",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "more-resources",
+              "path": "/docs/more-resources",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "native-components-android",
+              "path": "/docs/native-components-android",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "native-components-ios",
+              "path": "/docs/native-components-ios",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "native-modules-android",
+              "path": "/docs/native-modules-android",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "native-modules-intro",
+              "path": "/docs/native-modules-intro",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "native-modules-ios",
+              "path": "/docs/native-modules-ios",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "native-modules-setup",
+              "path": "/docs/native-modules-setup",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "navigation",
+              "path": "/docs/navigation",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "netinfo",
+              "path": "/docs/netinfo"
+            },
+            {
+              "id": "network",
+              "path": "/docs/network",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "optimizing-flatlist-configuration",
+              "path": "/docs/optimizing-flatlist-configuration",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "out-of-tree-platforms",
+              "path": "/docs/out-of-tree-platforms",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "panresponder",
+              "path": "/docs/panresponder",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "performance",
+              "path": "/docs/performance",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "permissionsandroid",
+              "path": "/docs/permissionsandroid",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "picker",
+              "path": "/docs/picker"
+            },
+            {
+              "id": "picker-item",
+              "path": "/docs/picker-item"
+            },
+            {
+              "id": "picker-style-props",
+              "path": "/docs/picker-style-props"
+            },
+            {
+              "id": "pickerios",
+              "path": "/docs/pickerios"
+            },
+            {
+              "id": "pixelratio",
+              "path": "/docs/pixelratio",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "platform",
+              "path": "/docs/platform",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "platform-specific-code",
+              "path": "/docs/platform-specific-code",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "platformcolor",
+              "path": "/docs/platformcolor",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "pressable",
+              "path": "/docs/pressable",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "pressevent",
+              "path": "/docs/pressevent",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "profiling",
+              "path": "/docs/profiling",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "progressbarandroid",
+              "path": "/docs/progressbarandroid"
+            },
+            {
+              "id": "progressviewios",
+              "path": "/docs/progressviewios"
+            },
+            {
+              "id": "props",
+              "path": "/docs/props"
+            },
+            {
+              "id": "publishing-forks",
+              "path": "/docs/publishing-forks"
+            },
+            {
+              "id": "publishing-to-app-store",
+              "path": "/docs/publishing-to-app-store"
+            },
+            {
+              "id": "pushnotificationios",
+              "path": "/docs/pushnotificationios"
+            },
+            {
+              "id": "ram-bundles-inline-requires",
+              "path": "/docs/ram-bundles-inline-requires",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "react-node",
+              "path": "/docs/react-node",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "rect",
+              "path": "/docs/rect",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "refreshcontrol",
+              "path": "/docs/refreshcontrol",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "removing-default-permissions",
+              "path": "/docs/removing-default-permissions",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "running-on-device",
+              "path": "/docs/running-on-device",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "running-on-simulator-ios",
+              "path": "/docs/running-on-simulator-ios",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "safeareaview",
+              "path": "/docs/safeareaview",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "scrollview",
+              "path": "/docs/scrollview",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "sectionlist",
+              "path": "/docs/sectionlist",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "security",
+              "path": "/docs/security",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "segmentedcontrolios",
+              "path": "/docs/segmentedcontrolios"
+            },
+            {
+              "id": "settings",
+              "path": "/docs/settings",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "shadow-props",
+              "path": "/docs/shadow-props",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "share",
+              "path": "/docs/share",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "signed-apk-android",
+              "path": "/docs/signed-apk-android",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "slider",
+              "path": "/docs/slider"
+            },
+            {
+              "id": "snapshotviewios",
+              "path": "/docs/snapshotviewios"
+            },
+            {
+              "id": "state",
+              "path": "/docs/state"
+            },
+            {
+              "id": "statusbar",
+              "path": "/docs/statusbar",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "statusbarios",
+              "path": "/docs/statusbarios"
+            },
+            {
+              "id": "style",
+              "path": "/docs/style",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "stylesheet",
+              "path": "/docs/stylesheet",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "switch",
+              "path": "/docs/switch",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "symbolication",
+              "path": "/docs/symbolication"
+            },
+            {
+              "id": "systrace",
+              "path": "/docs/systrace",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "tabbarios",
+              "path": "/docs/tabbarios"
+            },
+            {
+              "id": "tabbarios-item",
+              "path": "/docs/tabbarios-item"
+            },
+            {
+              "id": "testing-overview",
+              "path": "/docs/testing-overview",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "text",
+              "path": "/docs/text",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "text-style-props",
+              "path": "/docs/text-style-props",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "textinput",
+              "path": "/docs/textinput",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "timepickerandroid",
+              "path": "/docs/timepickerandroid"
+            },
+            {
+              "id": "timers",
+              "path": "/docs/timers",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "toastandroid",
+              "path": "/docs/toastandroid",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "toolbarandroid",
+              "path": "/docs/toolbarandroid"
+            },
+            {
+              "id": "touchablehighlight",
+              "path": "/docs/touchablehighlight",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "touchablenativefeedback",
+              "path": "/docs/touchablenativefeedback",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "touchableopacity",
+              "path": "/docs/touchableopacity",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "touchablewithoutfeedback",
+              "path": "/docs/touchablewithoutfeedback",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "transforms",
+              "path": "/docs/transforms",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/troubleshooting",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "tutorial",
+              "path": "/docs/tutorial"
+            },
+            {
+              "id": "typescript",
+              "path": "/docs/typescript",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "upgrading",
+              "path": "/docs/upgrading",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "usecolorscheme",
+              "path": "/docs/usecolorscheme",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "usewindowdimensions",
+              "path": "/docs/usewindowdimensions",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "using-a-listview",
+              "path": "/docs/using-a-listview",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "using-a-scrollview",
+              "path": "/docs/using-a-scrollview",
+              "sidebar": "version-0.63/docs"
+            },
+            {
+              "id": "vibration",
+              "path": "/docs/vibration",
+              "sidebar": "version-0.63/api"
+            },
+            {
+              "id": "vibrationios",
+              "path": "/docs/vibrationios"
+            },
+            {
+              "id": "view",
+              "path": "/docs/view",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "view-style-props",
+              "path": "/docs/view-style-props",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "viewpagerandroid",
+              "path": "/docs/viewpagerandroid"
+            },
+            {
+              "id": "virtualizedlist",
+              "path": "/docs/virtualizedlist",
+              "sidebar": "version-0.63/components"
+            },
+            {
+              "id": "webview",
+              "path": "/docs/webview"
+            }
+          ]
+        },
+        {
+          "name": "0.62",
+          "label": "0.62",
+          "isLast": false,
+          "path": "/docs/0.62",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "_getting-started-linux-android",
+              "path": "/docs/0.62/_getting-started-linux-android"
+            },
+            {
+              "id": "_getting-started-macos-android",
+              "path": "/docs/0.62/_getting-started-macos-android"
+            },
+            {
+              "id": "_getting-started-macos-ios",
+              "path": "/docs/0.62/_getting-started-macos-ios"
+            },
+            {
+              "id": "_getting-started-windows-android",
+              "path": "/docs/0.62/_getting-started-windows-android"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-java",
+              "path": "/docs/0.62/_integration-with-exisiting-apps-java"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-objc",
+              "path": "/docs/0.62/_integration-with-exisiting-apps-objc"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-swift",
+              "path": "/docs/0.62/_integration-with-exisiting-apps-swift"
+            },
+            {
+              "id": "accessibility",
+              "path": "/docs/0.62/accessibility",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "accessibilityinfo",
+              "path": "/docs/0.62/accessibilityinfo",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "actionsheetios",
+              "path": "/docs/0.62/actionsheetios",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "activityindicator",
+              "path": "/docs/0.62/activityindicator",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "alert",
+              "path": "/docs/0.62/alert",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "alertios",
+              "path": "/docs/0.62/alertios"
+            },
+            {
+              "id": "animated",
+              "path": "/docs/0.62/animated",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "animatedvalue",
+              "path": "/docs/0.62/animatedvalue"
+            },
+            {
+              "id": "animatedvaluexy",
+              "path": "/docs/0.62/animatedvaluexy"
+            },
+            {
+              "id": "animations",
+              "path": "/docs/0.62/animations",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "app-extensions",
+              "path": "/docs/0.62/app-extensions",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "appearance",
+              "path": "/docs/0.62/appearance",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "appregistry",
+              "path": "/docs/0.62/appregistry",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "appstate",
+              "path": "/docs/0.62/appstate",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "asyncstorage",
+              "path": "/docs/0.62/asyncstorage"
+            },
+            {
+              "id": "backandroid",
+              "path": "/docs/0.62/backandroid"
+            },
+            {
+              "id": "backhandler",
+              "path": "/docs/0.62/backhandler",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "building-for-tv",
+              "path": "/docs/0.62/building-for-tv",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "button",
+              "path": "/docs/0.62/button",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "cameraroll",
+              "path": "/docs/0.62/cameraroll"
+            },
+            {
+              "id": "checkbox",
+              "path": "/docs/0.62/checkbox"
+            },
+            {
+              "id": "clipboard",
+              "path": "/docs/0.62/clipboard"
+            },
+            {
+              "id": "colors",
+              "path": "/docs/0.62/colors",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "communication-android",
+              "path": "/docs/0.62/communication-android"
+            },
+            {
+              "id": "communication-ios",
+              "path": "/docs/0.62/communication-ios",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "components-and-apis",
+              "path": "/docs/0.62/components-and-apis",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "custom-webview-android",
+              "path": "/docs/0.62/custom-webview-android"
+            },
+            {
+              "id": "custom-webview-ios",
+              "path": "/docs/0.62/custom-webview-ios"
+            },
+            {
+              "id": "datepickerandroid",
+              "path": "/docs/0.62/datepickerandroid"
+            },
+            {
+              "id": "datepickerios",
+              "path": "/docs/0.62/datepickerios"
+            },
+            {
+              "id": "debugging",
+              "path": "/docs/0.62/debugging",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "devsettings",
+              "path": "/docs/0.62/devsettings",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "dimensions",
+              "path": "/docs/0.62/dimensions",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "direct-manipulation",
+              "path": "/docs/0.62/direct-manipulation",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "drawerlayoutandroid",
+              "path": "/docs/0.62/drawerlayoutandroid",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "easing",
+              "path": "/docs/0.62/easing",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "environment-setup",
+              "path": "/docs/0.62/environment-setup",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "fast-refresh",
+              "path": "/docs/0.62/fast-refresh",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "flatlist",
+              "path": "/docs/0.62/flatlist",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "flexbox",
+              "path": "/docs/0.62/flexbox",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "geolocation",
+              "path": "/docs/0.62/geolocation"
+            },
+            {
+              "id": "gesture-responder-system",
+              "path": "/docs/0.62/gesture-responder-system",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/0.62/getting-started",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "handling-text-input",
+              "path": "/docs/0.62/handling-text-input",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "handling-touches",
+              "path": "/docs/0.62/handling-touches",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "headless-js-android",
+              "path": "/docs/0.62/headless-js-android",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "height-and-width",
+              "path": "/docs/0.62/height-and-width",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "hermes",
+              "path": "/docs/0.62/hermes",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "image",
+              "path": "/docs/0.62/image",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "image-style-props",
+              "path": "/docs/0.62/image-style-props",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "imagebackground",
+              "path": "/docs/0.62/imagebackground",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "imageeditor",
+              "path": "/docs/0.62/imageeditor"
+            },
+            {
+              "id": "imagepickerios",
+              "path": "/docs/0.62/imagepickerios"
+            },
+            {
+              "id": "images",
+              "path": "/docs/0.62/images",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "imagestore",
+              "path": "/docs/0.62/imagestore"
+            },
+            {
+              "id": "improvingux",
+              "path": "/docs/0.62/improvingux"
+            },
+            {
+              "id": "inputaccessoryview",
+              "path": "/docs/0.62/inputaccessoryview",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "integration-with-existing-apps",
+              "path": "/docs/0.62/integration-with-existing-apps",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "interactionmanager",
+              "path": "/docs/0.62/interactionmanager",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "intro-react",
+              "path": "/docs/0.62/intro-react",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "intro-react-native-components",
+              "path": "/docs/0.62/intro-react-native-components",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "javascript-environment",
+              "path": "/docs/0.62/javascript-environment",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "keyboard",
+              "path": "/docs/0.62/keyboard",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "keyboardavoidingview",
+              "path": "/docs/0.62/keyboardavoidingview",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "layout-props",
+              "path": "/docs/0.62/layout-props",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "layoutanimation",
+              "path": "/docs/0.62/layoutanimation",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "libraries",
+              "path": "/docs/0.62/libraries",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "linking",
+              "path": "/docs/0.62/linking",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "linking-libraries-ios",
+              "path": "/docs/0.62/linking-libraries-ios",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "listview",
+              "path": "/docs/0.62/listview"
+            },
+            {
+              "id": "listviewdatasource",
+              "path": "/docs/0.62/listviewdatasource"
+            },
+            {
+              "id": "maskedviewios",
+              "path": "/docs/0.62/maskedviewios"
+            },
+            {
+              "id": "modal",
+              "path": "/docs/0.62/modal",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "more-resources",
+              "path": "/docs/0.62/more-resources",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "native-components-android",
+              "path": "/docs/0.62/native-components-android",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "native-components-ios",
+              "path": "/docs/0.62/native-components-ios",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "native-modules-android",
+              "path": "/docs/0.62/native-modules-android",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "native-modules-ios",
+              "path": "/docs/0.62/native-modules-ios",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "native-modules-setup",
+              "path": "/docs/0.62/native-modules-setup",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "navigation",
+              "path": "/docs/0.62/navigation",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "netinfo",
+              "path": "/docs/0.62/netinfo"
+            },
+            {
+              "id": "network",
+              "path": "/docs/0.62/network",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "optimizing-flatlist-configuration",
+              "path": "/docs/0.62/optimizing-flatlist-configuration",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "out-of-tree-platforms",
+              "path": "/docs/0.62/out-of-tree-platforms",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "panresponder",
+              "path": "/docs/0.62/panresponder",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "performance",
+              "path": "/docs/0.62/performance",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "permissionsandroid",
+              "path": "/docs/0.62/permissionsandroid",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "picker",
+              "path": "/docs/0.62/picker"
+            },
+            {
+              "id": "picker-item",
+              "path": "/docs/0.62/picker-item"
+            },
+            {
+              "id": "picker-style-props",
+              "path": "/docs/0.62/picker-style-props"
+            },
+            {
+              "id": "pickerios",
+              "path": "/docs/0.62/pickerios"
+            },
+            {
+              "id": "pixelratio",
+              "path": "/docs/0.62/pixelratio",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "platform-specific-code",
+              "path": "/docs/0.62/platform-specific-code",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "profiling",
+              "path": "/docs/0.62/profiling",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "progressbarandroid",
+              "path": "/docs/0.62/progressbarandroid"
+            },
+            {
+              "id": "progressviewios",
+              "path": "/docs/0.62/progressviewios"
+            },
+            {
+              "id": "props",
+              "path": "/docs/0.62/props"
+            },
+            {
+              "id": "publishing-forks",
+              "path": "/docs/0.62/publishing-forks"
+            },
+            {
+              "id": "publishing-to-app-store",
+              "path": "/docs/0.62/publishing-to-app-store"
+            },
+            {
+              "id": "pushnotificationios",
+              "path": "/docs/0.62/pushnotificationios"
+            },
+            {
+              "id": "ram-bundles-inline-requires",
+              "path": "/docs/0.62/ram-bundles-inline-requires",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "react-node",
+              "path": "/docs/0.62/react-node"
+            },
+            {
+              "id": "refreshcontrol",
+              "path": "/docs/0.62/refreshcontrol",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "removing-default-permissions",
+              "path": "/docs/0.62/removing-default-permissions",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "running-on-device",
+              "path": "/docs/0.62/running-on-device",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "running-on-simulator-ios",
+              "path": "/docs/0.62/running-on-simulator-ios",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "safeareaview",
+              "path": "/docs/0.62/safeareaview",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "scrollview",
+              "path": "/docs/0.62/scrollview",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "sectionlist",
+              "path": "/docs/0.62/sectionlist",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "security",
+              "path": "/docs/0.62/security",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "segmentedcontrolios",
+              "path": "/docs/0.62/segmentedcontrolios"
+            },
+            {
+              "id": "settings",
+              "path": "/docs/0.62/settings",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "shadow-props",
+              "path": "/docs/0.62/shadow-props",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "share",
+              "path": "/docs/0.62/share",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "signed-apk-android",
+              "path": "/docs/0.62/signed-apk-android",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "slider",
+              "path": "/docs/0.62/slider"
+            },
+            {
+              "id": "snapshotviewios",
+              "path": "/docs/0.62/snapshotviewios"
+            },
+            {
+              "id": "state",
+              "path": "/docs/0.62/state"
+            },
+            {
+              "id": "statusbar",
+              "path": "/docs/0.62/statusbar",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "statusbarios",
+              "path": "/docs/0.62/statusbarios"
+            },
+            {
+              "id": "style",
+              "path": "/docs/0.62/style",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "stylesheet",
+              "path": "/docs/0.62/stylesheet",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "switch",
+              "path": "/docs/0.62/switch",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "symbolication",
+              "path": "/docs/0.62/symbolication"
+            },
+            {
+              "id": "systrace",
+              "path": "/docs/0.62/systrace",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "tabbarios",
+              "path": "/docs/0.62/tabbarios"
+            },
+            {
+              "id": "tabbarios-item",
+              "path": "/docs/0.62/tabbarios-item"
+            },
+            {
+              "id": "testing-overview",
+              "path": "/docs/0.62/testing-overview",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "text",
+              "path": "/docs/0.62/text",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "text-style-props",
+              "path": "/docs/0.62/text-style-props",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "textinput",
+              "path": "/docs/0.62/textinput",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "timepickerandroid",
+              "path": "/docs/0.62/timepickerandroid"
+            },
+            {
+              "id": "timers",
+              "path": "/docs/0.62/timers",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "toastandroid",
+              "path": "/docs/0.62/toastandroid",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "toolbarandroid",
+              "path": "/docs/0.62/toolbarandroid"
+            },
+            {
+              "id": "touchablehighlight",
+              "path": "/docs/0.62/touchablehighlight",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "touchablenativefeedback",
+              "path": "/docs/0.62/touchablenativefeedback",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "touchableopacity",
+              "path": "/docs/0.62/touchableopacity",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "touchablewithoutfeedback",
+              "path": "/docs/0.62/touchablewithoutfeedback",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "transforms",
+              "path": "/docs/0.62/transforms",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/0.62/troubleshooting",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "tutorial",
+              "path": "/docs/0.62/tutorial"
+            },
+            {
+              "id": "typescript",
+              "path": "/docs/0.62/typescript",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "upgrading",
+              "path": "/docs/0.62/upgrading",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "usecolorscheme",
+              "path": "/docs/0.62/usecolorscheme",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "usewindowdimensions",
+              "path": "/docs/0.62/usewindowdimensions",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "using-a-listview",
+              "path": "/docs/0.62/using-a-listview",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "using-a-scrollview",
+              "path": "/docs/0.62/using-a-scrollview",
+              "sidebar": "version-0.62/docs"
+            },
+            {
+              "id": "vibration",
+              "path": "/docs/0.62/vibration",
+              "sidebar": "version-0.62/api"
+            },
+            {
+              "id": "vibrationios",
+              "path": "/docs/0.62/vibrationios"
+            },
+            {
+              "id": "view",
+              "path": "/docs/0.62/view",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "view-style-props",
+              "path": "/docs/0.62/view-style-props",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "viewpagerandroid",
+              "path": "/docs/0.62/viewpagerandroid"
+            },
+            {
+              "id": "virtualizedlist",
+              "path": "/docs/0.62/virtualizedlist",
+              "sidebar": "version-0.62/components"
+            },
+            {
+              "id": "webview",
+              "path": "/docs/0.62/webview"
+            }
+          ]
+        },
+        {
+          "name": "0.61",
+          "label": "0.61",
+          "isLast": false,
+          "path": "/docs/0.61",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "_getting-started-linux-android",
+              "path": "/docs/0.61/_getting-started-linux-android"
+            },
+            {
+              "id": "_getting-started-macos-android",
+              "path": "/docs/0.61/_getting-started-macos-android"
+            },
+            {
+              "id": "_getting-started-macos-ios",
+              "path": "/docs/0.61/_getting-started-macos-ios"
+            },
+            {
+              "id": "_getting-started-windows-android",
+              "path": "/docs/0.61/_getting-started-windows-android"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-java",
+              "path": "/docs/0.61/_integration-with-exisiting-apps-java"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-objc",
+              "path": "/docs/0.61/_integration-with-exisiting-apps-objc"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-swift",
+              "path": "/docs/0.61/_integration-with-exisiting-apps-swift"
+            },
+            {
+              "id": "accessibility",
+              "path": "/docs/0.61/accessibility",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "accessibilityinfo",
+              "path": "/docs/0.61/accessibilityinfo",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "actionsheetios",
+              "path": "/docs/0.61/actionsheetios",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "activityindicator",
+              "path": "/docs/0.61/activityindicator",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "alert",
+              "path": "/docs/0.61/alert",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "alertios",
+              "path": "/docs/0.61/alertios",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "animated",
+              "path": "/docs/0.61/animated",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "animatedvalue",
+              "path": "/docs/0.61/animatedvalue"
+            },
+            {
+              "id": "animatedvaluexy",
+              "path": "/docs/0.61/animatedvaluexy"
+            },
+            {
+              "id": "animations",
+              "path": "/docs/0.61/animations",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "app-extensions",
+              "path": "/docs/0.61/app-extensions",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "appearance",
+              "path": "/docs/0.61/appearance"
+            },
+            {
+              "id": "appregistry",
+              "path": "/docs/0.61/appregistry",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "appstate",
+              "path": "/docs/0.61/appstate",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "asyncstorage",
+              "path": "/docs/0.61/asyncstorage",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "backandroid",
+              "path": "/docs/0.61/backandroid"
+            },
+            {
+              "id": "backhandler",
+              "path": "/docs/0.61/backhandler",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "building-for-tv",
+              "path": "/docs/0.61/building-for-tv",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "button",
+              "path": "/docs/0.61/button",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "cameraroll",
+              "path": "/docs/0.61/cameraroll"
+            },
+            {
+              "id": "checkbox",
+              "path": "/docs/0.61/checkbox",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "clipboard",
+              "path": "/docs/0.61/clipboard",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "colors",
+              "path": "/docs/0.61/colors",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "communication-android",
+              "path": "/docs/0.61/communication-android"
+            },
+            {
+              "id": "communication-ios",
+              "path": "/docs/0.61/communication-ios",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "components-and-apis",
+              "path": "/docs/0.61/components-and-apis",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "custom-webview-android",
+              "path": "/docs/0.61/custom-webview-android"
+            },
+            {
+              "id": "custom-webview-ios",
+              "path": "/docs/0.61/custom-webview-ios"
+            },
+            {
+              "id": "datepickerandroid",
+              "path": "/docs/0.61/datepickerandroid",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "datepickerios",
+              "path": "/docs/0.61/datepickerios",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "debugging",
+              "path": "/docs/0.61/debugging",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "devsettings",
+              "path": "/docs/0.61/devsettings"
+            },
+            {
+              "id": "dimensions",
+              "path": "/docs/0.61/dimensions",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "direct-manipulation",
+              "path": "/docs/0.61/direct-manipulation",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "drawerlayoutandroid",
+              "path": "/docs/0.61/drawerlayoutandroid",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "easing",
+              "path": "/docs/0.61/easing",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "enviroment-setup",
+              "path": "/docs/0.61/enviroment-setup"
+            },
+            {
+              "id": "fast-refresh",
+              "path": "/docs/0.61/fast-refresh",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "flatlist",
+              "path": "/docs/0.61/flatlist",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "flexbox",
+              "path": "/docs/0.61/flexbox",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "geolocation",
+              "path": "/docs/0.61/geolocation"
+            },
+            {
+              "id": "gesture-responder-system",
+              "path": "/docs/0.61/gesture-responder-system",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/0.61/getting-started",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "handling-text-input",
+              "path": "/docs/0.61/handling-text-input",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "handling-touches",
+              "path": "/docs/0.61/handling-touches",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "headless-js-android",
+              "path": "/docs/0.61/headless-js-android",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "height-and-width",
+              "path": "/docs/0.61/height-and-width",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "hermes",
+              "path": "/docs/0.61/hermes",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "image",
+              "path": "/docs/0.61/image",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "image-style-props",
+              "path": "/docs/0.61/image-style-props",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "imagebackground",
+              "path": "/docs/0.61/imagebackground",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "imageeditor",
+              "path": "/docs/0.61/imageeditor",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "imagepickerios",
+              "path": "/docs/0.61/imagepickerios",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "images",
+              "path": "/docs/0.61/images",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "imagestore",
+              "path": "/docs/0.61/imagestore"
+            },
+            {
+              "id": "improvingux",
+              "path": "/docs/0.61/improvingux",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "inputaccessoryview",
+              "path": "/docs/0.61/inputaccessoryview",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "integration-with-existing-apps",
+              "path": "/docs/0.61/integration-with-existing-apps",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "interactionmanager",
+              "path": "/docs/0.61/interactionmanager",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "intro-react",
+              "path": "/docs/0.61/intro-react"
+            },
+            {
+              "id": "intro-react-native-components",
+              "path": "/docs/0.61/intro-react-native-components"
+            },
+            {
+              "id": "javascript-environment",
+              "path": "/docs/0.61/javascript-environment",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "keyboard",
+              "path": "/docs/0.61/keyboard",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "keyboardavoidingview",
+              "path": "/docs/0.61/keyboardavoidingview",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "layout-props",
+              "path": "/docs/0.61/layout-props",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "layoutanimation",
+              "path": "/docs/0.61/layoutanimation",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "libraries",
+              "path": "/docs/0.61/libraries"
+            },
+            {
+              "id": "linking",
+              "path": "/docs/0.61/linking",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "linking-libraries-ios",
+              "path": "/docs/0.61/linking-libraries-ios",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "listview",
+              "path": "/docs/0.61/listview"
+            },
+            {
+              "id": "listviewdatasource",
+              "path": "/docs/0.61/listviewdatasource"
+            },
+            {
+              "id": "maskedviewios",
+              "path": "/docs/0.61/maskedviewios",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "modal",
+              "path": "/docs/0.61/modal",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "more-resources",
+              "path": "/docs/0.61/more-resources",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "native-components-android",
+              "path": "/docs/0.61/native-components-android",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "native-components-ios",
+              "path": "/docs/0.61/native-components-ios",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "native-modules-android",
+              "path": "/docs/0.61/native-modules-android",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "native-modules-ios",
+              "path": "/docs/0.61/native-modules-ios",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "native-modules-setup",
+              "path": "/docs/0.61/native-modules-setup",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "navigation",
+              "path": "/docs/0.61/navigation",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "netinfo",
+              "path": "/docs/0.61/netinfo"
+            },
+            {
+              "id": "network",
+              "path": "/docs/0.61/network",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "optimizing-flatlist-configuration",
+              "path": "/docs/0.61/optimizing-flatlist-configuration",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "out-of-tree-platforms",
+              "path": "/docs/0.61/out-of-tree-platforms",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "panresponder",
+              "path": "/docs/0.61/panresponder",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "performance",
+              "path": "/docs/0.61/performance",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "permissionsandroid",
+              "path": "/docs/0.61/permissionsandroid",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "picker",
+              "path": "/docs/0.61/picker",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "picker-item",
+              "path": "/docs/0.61/picker-item"
+            },
+            {
+              "id": "picker-style-props",
+              "path": "/docs/0.61/picker-style-props"
+            },
+            {
+              "id": "pickerios",
+              "path": "/docs/0.61/pickerios",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "pixelratio",
+              "path": "/docs/0.61/pixelratio",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "platform-specific-code",
+              "path": "/docs/0.61/platform-specific-code",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "profiling",
+              "path": "/docs/0.61/profiling"
+            },
+            {
+              "id": "progressbarandroid",
+              "path": "/docs/0.61/progressbarandroid",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "progressviewios",
+              "path": "/docs/0.61/progressviewios",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "props",
+              "path": "/docs/0.61/props",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "publishing-forks",
+              "path": "/docs/0.61/publishing-forks"
+            },
+            {
+              "id": "publishing-to-app-store",
+              "path": "/docs/0.61/publishing-to-app-store"
+            },
+            {
+              "id": "pushnotificationios",
+              "path": "/docs/0.61/pushnotificationios",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "ram-bundles-inline-requires",
+              "path": "/docs/0.61/ram-bundles-inline-requires"
+            },
+            {
+              "id": "react-node",
+              "path": "/docs/0.61/react-node"
+            },
+            {
+              "id": "refreshcontrol",
+              "path": "/docs/0.61/refreshcontrol",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "removing-default-permissions",
+              "path": "/docs/0.61/removing-default-permissions",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "running-on-device",
+              "path": "/docs/0.61/running-on-device",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "running-on-simulator-ios",
+              "path": "/docs/0.61/running-on-simulator-ios",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "safeareaview",
+              "path": "/docs/0.61/safeareaview",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "scrollview",
+              "path": "/docs/0.61/scrollview",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "sectionlist",
+              "path": "/docs/0.61/sectionlist",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "segmentedcontrolios",
+              "path": "/docs/0.61/segmentedcontrolios",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "settings",
+              "path": "/docs/0.61/settings",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "shadow-props",
+              "path": "/docs/0.61/shadow-props",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "share",
+              "path": "/docs/0.61/share",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "signed-apk-android",
+              "path": "/docs/0.61/signed-apk-android",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "slider",
+              "path": "/docs/0.61/slider",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "snapshotviewios",
+              "path": "/docs/0.61/snapshotviewios"
+            },
+            {
+              "id": "state",
+              "path": "/docs/0.61/state",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "statusbar",
+              "path": "/docs/0.61/statusbar",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "statusbarios",
+              "path": "/docs/0.61/statusbarios",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "style",
+              "path": "/docs/0.61/style",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "stylesheet",
+              "path": "/docs/0.61/stylesheet",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "switch",
+              "path": "/docs/0.61/switch",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "symbolication",
+              "path": "/docs/0.61/symbolication"
+            },
+            {
+              "id": "systrace",
+              "path": "/docs/0.61/systrace",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "tabbarios",
+              "path": "/docs/0.61/tabbarios",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "tabbarios-item",
+              "path": "/docs/0.61/tabbarios-item",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "testing-overview",
+              "path": "/docs/0.61/testing-overview"
+            },
+            {
+              "id": "text",
+              "path": "/docs/0.61/text",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "text-style-props",
+              "path": "/docs/0.61/text-style-props",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "textinput",
+              "path": "/docs/0.61/textinput",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "timepickerandroid",
+              "path": "/docs/0.61/timepickerandroid",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "timers",
+              "path": "/docs/0.61/timers",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "toastandroid",
+              "path": "/docs/0.61/toastandroid",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "toolbarandroid",
+              "path": "/docs/0.61/toolbarandroid",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "touchablehighlight",
+              "path": "/docs/0.61/touchablehighlight",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "touchablenativefeedback",
+              "path": "/docs/0.61/touchablenativefeedback",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "touchableopacity",
+              "path": "/docs/0.61/touchableopacity",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "touchablewithoutfeedback",
+              "path": "/docs/0.61/touchablewithoutfeedback",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "transforms",
+              "path": "/docs/0.61/transforms",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/0.61/troubleshooting",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "tutorial",
+              "path": "/docs/0.61/tutorial",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "typescript",
+              "path": "/docs/0.61/typescript",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "upgrading",
+              "path": "/docs/0.61/upgrading",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "usecolorscheme",
+              "path": "/docs/0.61/usecolorscheme"
+            },
+            {
+              "id": "usewindowdimensions",
+              "path": "/docs/0.61/usewindowdimensions",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "using-a-listview",
+              "path": "/docs/0.61/using-a-listview",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "using-a-scrollview",
+              "path": "/docs/0.61/using-a-scrollview",
+              "sidebar": "version-0.61/docs"
+            },
+            {
+              "id": "vibration",
+              "path": "/docs/0.61/vibration",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "vibrationios",
+              "path": "/docs/0.61/vibrationios"
+            },
+            {
+              "id": "view",
+              "path": "/docs/0.61/view",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "view-style-props",
+              "path": "/docs/0.61/view-style-props",
+              "sidebar": "version-0.61/api"
+            },
+            {
+              "id": "viewpagerandroid",
+              "path": "/docs/0.61/viewpagerandroid",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "virtualizedlist",
+              "path": "/docs/0.61/virtualizedlist",
+              "sidebar": "version-0.61/components"
+            },
+            {
+              "id": "webview",
+              "path": "/docs/0.61/webview"
+            }
+          ]
+        },
+        {
+          "name": "0.60",
+          "label": "0.60",
+          "isLast": false,
+          "path": "/docs/0.60",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "_getting-started-linux-android",
+              "path": "/docs/0.60/_getting-started-linux-android"
+            },
+            {
+              "id": "_getting-started-macos-android",
+              "path": "/docs/0.60/_getting-started-macos-android"
+            },
+            {
+              "id": "_getting-started-macos-ios",
+              "path": "/docs/0.60/_getting-started-macos-ios"
+            },
+            {
+              "id": "_getting-started-windows-android",
+              "path": "/docs/0.60/_getting-started-windows-android"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-java",
+              "path": "/docs/0.60/_integration-with-exisiting-apps-java"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-objc",
+              "path": "/docs/0.60/_integration-with-exisiting-apps-objc"
+            },
+            {
+              "id": "_integration-with-exisiting-apps-swift",
+              "path": "/docs/0.60/_integration-with-exisiting-apps-swift"
+            },
+            {
+              "id": "accessibility",
+              "path": "/docs/0.60/accessibility",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "accessibilityinfo",
+              "path": "/docs/0.60/accessibilityinfo",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "actionsheetios",
+              "path": "/docs/0.60/actionsheetios",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "activityindicator",
+              "path": "/docs/0.60/activityindicator",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "alert",
+              "path": "/docs/0.60/alert",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "alertios",
+              "path": "/docs/0.60/alertios",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "animated",
+              "path": "/docs/0.60/animated",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "animatedvalue",
+              "path": "/docs/0.60/animatedvalue"
+            },
+            {
+              "id": "animatedvaluexy",
+              "path": "/docs/0.60/animatedvaluexy"
+            },
+            {
+              "id": "animations",
+              "path": "/docs/0.60/animations",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "app-extensions",
+              "path": "/docs/0.60/app-extensions",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "appearance",
+              "path": "/docs/0.60/appearance"
+            },
+            {
+              "id": "appregistry",
+              "path": "/docs/0.60/appregistry",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "appstate",
+              "path": "/docs/0.60/appstate",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "asyncstorage",
+              "path": "/docs/0.60/asyncstorage",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "backandroid",
+              "path": "/docs/0.60/backandroid"
+            },
+            {
+              "id": "backhandler",
+              "path": "/docs/0.60/backhandler",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "building-for-tv",
+              "path": "/docs/0.60/building-for-tv",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "button",
+              "path": "/docs/0.60/button",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "cameraroll",
+              "path": "/docs/0.60/cameraroll"
+            },
+            {
+              "id": "checkbox",
+              "path": "/docs/0.60/checkbox"
+            },
+            {
+              "id": "clipboard",
+              "path": "/docs/0.60/clipboard",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "colors",
+              "path": "/docs/0.60/colors",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "communication-android",
+              "path": "/docs/0.60/communication-android"
+            },
+            {
+              "id": "communication-ios",
+              "path": "/docs/0.60/communication-ios",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "components-and-apis",
+              "path": "/docs/0.60/components-and-apis",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "custom-webview-android",
+              "path": "/docs/0.60/custom-webview-android"
+            },
+            {
+              "id": "custom-webview-ios",
+              "path": "/docs/0.60/custom-webview-ios"
+            },
+            {
+              "id": "datepickerandroid",
+              "path": "/docs/0.60/datepickerandroid",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "datepickerios",
+              "path": "/docs/0.60/datepickerios",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "debugging",
+              "path": "/docs/0.60/debugging",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "devsettings",
+              "path": "/docs/0.60/devsettings"
+            },
+            {
+              "id": "dimensions",
+              "path": "/docs/0.60/dimensions",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "direct-manipulation",
+              "path": "/docs/0.60/direct-manipulation",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "drawerlayoutandroid",
+              "path": "/docs/0.60/drawerlayoutandroid",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "easing",
+              "path": "/docs/0.60/easing",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "enviroment-setup",
+              "path": "/docs/0.60/enviroment-setup"
+            },
+            {
+              "id": "fast-refresh",
+              "path": "/docs/0.60/fast-refresh"
+            },
+            {
+              "id": "flatlist",
+              "path": "/docs/0.60/flatlist",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "flexbox",
+              "path": "/docs/0.60/flexbox",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "geolocation",
+              "path": "/docs/0.60/geolocation"
+            },
+            {
+              "id": "gesture-responder-system",
+              "path": "/docs/0.60/gesture-responder-system",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/0.60/getting-started",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "handling-text-input",
+              "path": "/docs/0.60/handling-text-input",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "handling-touches",
+              "path": "/docs/0.60/handling-touches",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "headless-js-android",
+              "path": "/docs/0.60/headless-js-android",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "height-and-width",
+              "path": "/docs/0.60/height-and-width",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "hermes",
+              "path": "/docs/0.60/hermes",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "image",
+              "path": "/docs/0.60/image",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "image-style-props",
+              "path": "/docs/0.60/image-style-props",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "imagebackground",
+              "path": "/docs/0.60/imagebackground",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "imageeditor",
+              "path": "/docs/0.60/imageeditor",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "imagepickerios",
+              "path": "/docs/0.60/imagepickerios",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "images",
+              "path": "/docs/0.60/images",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "imagestore",
+              "path": "/docs/0.60/imagestore"
+            },
+            {
+              "id": "improvingux",
+              "path": "/docs/0.60/improvingux",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "inputaccessoryview",
+              "path": "/docs/0.60/inputaccessoryview",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "integration-with-existing-apps",
+              "path": "/docs/0.60/integration-with-existing-apps",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "interactionmanager",
+              "path": "/docs/0.60/interactionmanager",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "intro-react",
+              "path": "/docs/0.60/intro-react"
+            },
+            {
+              "id": "intro-react-native-components",
+              "path": "/docs/0.60/intro-react-native-components"
+            },
+            {
+              "id": "javascript-environment",
+              "path": "/docs/0.60/javascript-environment",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "keyboard",
+              "path": "/docs/0.60/keyboard",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "keyboardavoidingview",
+              "path": "/docs/0.60/keyboardavoidingview",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "layout-props",
+              "path": "/docs/0.60/layout-props",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "layoutanimation",
+              "path": "/docs/0.60/layoutanimation",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "libraries",
+              "path": "/docs/0.60/libraries"
+            },
+            {
+              "id": "linking",
+              "path": "/docs/0.60/linking",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "linking-libraries-ios",
+              "path": "/docs/0.60/linking-libraries-ios",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "listview",
+              "path": "/docs/0.60/listview"
+            },
+            {
+              "id": "listviewdatasource",
+              "path": "/docs/0.60/listviewdatasource"
+            },
+            {
+              "id": "maskedviewios",
+              "path": "/docs/0.60/maskedviewios",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "modal",
+              "path": "/docs/0.60/modal",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "more-resources",
+              "path": "/docs/0.60/more-resources",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "native-components-android",
+              "path": "/docs/0.60/native-components-android",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "native-components-ios",
+              "path": "/docs/0.60/native-components-ios",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "native-modules-android",
+              "path": "/docs/0.60/native-modules-android",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "native-modules-ios",
+              "path": "/docs/0.60/native-modules-ios",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "native-modules-setup",
+              "path": "/docs/0.60/native-modules-setup",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "navigation",
+              "path": "/docs/0.60/navigation",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "netinfo",
+              "path": "/docs/0.60/netinfo"
+            },
+            {
+              "id": "network",
+              "path": "/docs/0.60/network",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "optimizing-flatlist-configuration",
+              "path": "/docs/0.60/optimizing-flatlist-configuration",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "out-of-tree-platforms",
+              "path": "/docs/0.60/out-of-tree-platforms",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "panresponder",
+              "path": "/docs/0.60/panresponder",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "performance",
+              "path": "/docs/0.60/performance",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "permissionsandroid",
+              "path": "/docs/0.60/permissionsandroid",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "picker",
+              "path": "/docs/0.60/picker",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "picker-item",
+              "path": "/docs/0.60/picker-item"
+            },
+            {
+              "id": "picker-style-props",
+              "path": "/docs/0.60/picker-style-props"
+            },
+            {
+              "id": "pickerios",
+              "path": "/docs/0.60/pickerios",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "pixelratio",
+              "path": "/docs/0.60/pixelratio",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "platform-specific-code",
+              "path": "/docs/0.60/platform-specific-code",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "profiling",
+              "path": "/docs/0.60/profiling"
+            },
+            {
+              "id": "progressbarandroid",
+              "path": "/docs/0.60/progressbarandroid",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "progressviewios",
+              "path": "/docs/0.60/progressviewios",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "props",
+              "path": "/docs/0.60/props"
+            },
+            {
+              "id": "publishing-forks",
+              "path": "/docs/0.60/publishing-forks"
+            },
+            {
+              "id": "publishing-to-app-store",
+              "path": "/docs/0.60/publishing-to-app-store"
+            },
+            {
+              "id": "pushnotificationios",
+              "path": "/docs/0.60/pushnotificationios",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "ram-bundles-inline-requires",
+              "path": "/docs/0.60/ram-bundles-inline-requires"
+            },
+            {
+              "id": "react-node",
+              "path": "/docs/0.60/react-node"
+            },
+            {
+              "id": "refreshcontrol",
+              "path": "/docs/0.60/refreshcontrol",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "removing-default-permissions",
+              "path": "/docs/0.60/removing-default-permissions",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "running-on-device",
+              "path": "/docs/0.60/running-on-device",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "running-on-simulator-ios",
+              "path": "/docs/0.60/running-on-simulator-ios",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "safeareaview",
+              "path": "/docs/0.60/safeareaview",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "scrollview",
+              "path": "/docs/0.60/scrollview",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "sectionlist",
+              "path": "/docs/0.60/sectionlist",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "segmentedcontrolios",
+              "path": "/docs/0.60/segmentedcontrolios",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "settings",
+              "path": "/docs/0.60/settings",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "shadow-props",
+              "path": "/docs/0.60/shadow-props",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "share",
+              "path": "/docs/0.60/share",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "signed-apk-android",
+              "path": "/docs/0.60/signed-apk-android",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "slider",
+              "path": "/docs/0.60/slider",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "snapshotviewios",
+              "path": "/docs/0.60/snapshotviewios"
+            },
+            {
+              "id": "state",
+              "path": "/docs/0.60/state"
+            },
+            {
+              "id": "statusbar",
+              "path": "/docs/0.60/statusbar",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "statusbarios",
+              "path": "/docs/0.60/statusbarios",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "style",
+              "path": "/docs/0.60/style",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "stylesheet",
+              "path": "/docs/0.60/stylesheet",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "switch",
+              "path": "/docs/0.60/switch",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "symbolication",
+              "path": "/docs/0.60/symbolication"
+            },
+            {
+              "id": "systrace",
+              "path": "/docs/0.60/systrace",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "tabbarios",
+              "path": "/docs/0.60/tabbarios",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "tabbarios-item",
+              "path": "/docs/0.60/tabbarios-item",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "testing-overview",
+              "path": "/docs/0.60/testing-overview"
+            },
+            {
+              "id": "text",
+              "path": "/docs/0.60/text",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "text-style-props",
+              "path": "/docs/0.60/text-style-props",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "textinput",
+              "path": "/docs/0.60/textinput",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "timepickerandroid",
+              "path": "/docs/0.60/timepickerandroid",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "timers",
+              "path": "/docs/0.60/timers",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "toastandroid",
+              "path": "/docs/0.60/toastandroid",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "toolbarandroid",
+              "path": "/docs/0.60/toolbarandroid",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "touchablehighlight",
+              "path": "/docs/0.60/touchablehighlight",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "touchablenativefeedback",
+              "path": "/docs/0.60/touchablenativefeedback",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "touchableopacity",
+              "path": "/docs/0.60/touchableopacity",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "touchablewithoutfeedback",
+              "path": "/docs/0.60/touchablewithoutfeedback",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "transforms",
+              "path": "/docs/0.60/transforms",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/docs/0.60/troubleshooting",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "tutorial",
+              "path": "/docs/0.60/tutorial",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "typescript",
+              "path": "/docs/0.60/typescript",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "upgrading",
+              "path": "/docs/0.60/upgrading",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "usecolorscheme",
+              "path": "/docs/0.60/usecolorscheme"
+            },
+            {
+              "id": "usewindowdimensions",
+              "path": "/docs/0.60/usewindowdimensions"
+            },
+            {
+              "id": "using-a-listview",
+              "path": "/docs/0.60/using-a-listview",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "using-a-scrollview",
+              "path": "/docs/0.60/using-a-scrollview",
+              "sidebar": "version-0.60/docs"
+            },
+            {
+              "id": "vibration",
+              "path": "/docs/0.60/vibration",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "vibrationios",
+              "path": "/docs/0.60/vibrationios"
+            },
+            {
+              "id": "view",
+              "path": "/docs/0.60/view",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "view-style-props",
+              "path": "/docs/0.60/view-style-props",
+              "sidebar": "version-0.60/api"
+            },
+            {
+              "id": "viewpagerandroid",
+              "path": "/docs/0.60/viewpagerandroid",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "virtualizedlist",
+              "path": "/docs/0.60/virtualizedlist",
+              "sidebar": "version-0.60/components"
+            },
+            {
+              "id": "webview",
+              "path": "/docs/0.60/webview"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

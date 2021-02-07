@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/03/12/releasing-react-native-059",
+  "source": "@site/blog/2019-03-12-releasing-react-native-059.md",
+  "description": "Welcome to the 0.59 release of React Native! This is another big release with 644 commits by 88 contributors. Contributions also come in other forms, so thank you for maintaining issues, fostering communities, and teaching people about React Native. This month brings a number of highly anticipated changes, and we hope you enjoy them.",
+  "date": "2019-03-12T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "title": "Releasing React Native 0.59",
+  "readingTime": 5.115,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native at F8 and Open Source Podcast",
+    "permalink": "/blog/2019/05/01/react-native-at-f8-and-podcast"
+  },
+  "nextItem": {
+    "title": "React Native Open Source Update March 2019",
+    "permalink": "/blog/2019/03/01/react-native-open-source-update"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "alert",
+  "id": "version-0.60/alert",
+  "isDocsHomePage": false,
+  "title": "Alert",
+  "description": "Launches an alert dialog with the specified title and message.",
+  "source": "@site/versioned_docs/version-0.60/alert.md",
+  "slug": "/alert",
+  "permalink": "/docs/0.60/alert",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/alert.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "ActionSheetIOS",
+    "permalink": "/docs/0.60/actionsheetios"
+  },
+  "next": {
+    "title": "AlertIOS",
+    "permalink": "/docs/0.60/alertios"
+  }
+}

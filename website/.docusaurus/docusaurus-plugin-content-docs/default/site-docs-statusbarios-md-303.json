@@ -1,0 +1,13 @@
+{
+  "unversionedId": "statusbarios",
+  "id": "statusbarios",
+  "isDocsHomePage": false,
+  "title": "🚧 StatusBarIOS",
+  "description": "Deprecated. Use StatusBar for mutating the status bar.",
+  "source": "@site/../docs/statusbarios.md",
+  "slug": "/statusbarios",
+  "permalink": "/docs/next/statusbarios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/statusbarios.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

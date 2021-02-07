@@ -1,0 +1,22 @@
+{
+  "unversionedId": "linking",
+  "id": "linking",
+  "isDocsHomePage": false,
+  "title": "Linking",
+  "description": "Projects with Native Code Only",
+  "source": "@site/../docs/linking.md",
+  "slug": "/linking",
+  "permalink": "/docs/next/linking",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/linking.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "LayoutAnimation",
+    "permalink": "/docs/next/layoutanimation"
+  },
+  "next": {
+    "title": "PanResponder",
+    "permalink": "/docs/next/panresponder"
+  }
+}

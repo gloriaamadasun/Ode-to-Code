@@ -1,0 +1,22 @@
+{
+  "unversionedId": "running-on-simulator-ios",
+  "id": "version-0.60/running-on-simulator-ios",
+  "isDocsHomePage": false,
+  "title": "Running On Simulator",
+  "description": "Starting the simulator",
+  "source": "@site/versioned_docs/version-0.60/running-on-simulator-ios.md",
+  "slug": "/running-on-simulator-ios",
+  "permalink": "/docs/0.60/running-on-simulator-ios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/running-on-simulator-ios.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "Linking Libraries",
+    "permalink": "/docs/0.60/linking-libraries-ios"
+  },
+  "next": {
+    "title": "Communication between native and React Native",
+    "permalink": "/docs/0.60/communication-ios"
+  }
+}

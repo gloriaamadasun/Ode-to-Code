@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/03/24/introducing-hot-reloading",
+  "source": "@site/blog/2016-03-24-introducing-hot-reloading.md",
+  "description": "React Native's goal is to give you the best possible developer experience. A big part of it is the time it takes between you save a file and be able to see the changes. Our goal is to get this feedback loop to be under 1 second, even as your app grows.",
+  "date": "2016-03-24T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Introducing Hot Reloading",
+  "readingTime": 8.575,
+  "truncated": false,
+  "prevItem": {
+    "title": "Dive into React Native Performance",
+    "permalink": "/blog/2016/03/28/dive-into-react-native-performance"
+  },
+  "nextItem": {
+    "title": "Making React Native apps accessible",
+    "permalink": "/blog/2015/11/23/making-react-native-apps-accessible"
+  }
+}

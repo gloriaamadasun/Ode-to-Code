@@ -1,0 +1,13 @@
+{
+  "unversionedId": "devsettings",
+  "id": "version-0.60/devsettings",
+  "isDocsHomePage": false,
+  "title": "DevSettings",
+  "description": "The DevSettings module exposes methods for customizing settings for developers in development.",
+  "source": "@site/versioned_docs/version-0.60/devsettings.md",
+  "slug": "/devsettings",
+  "permalink": "/docs/0.60/devsettings",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/devsettings.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

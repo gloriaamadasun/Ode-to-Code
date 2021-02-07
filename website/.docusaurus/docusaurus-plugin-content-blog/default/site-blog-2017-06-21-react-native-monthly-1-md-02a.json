@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/06/21/react-native-monthly-1",
+  "source": "@site/blog/2017-06-21-react-native-monthly-1.md",
+  "description": "At Shoutem, we've been fortunate enough to work with React Native from its very beginnings. We decided we wanted to be part of the amazing community from day one. Soon enough, we realized it's almost impossible to keep up with the pace the community was growing and improving. That's why we decided to organize a monthly meeting where all major React Native contributors can briefly present what their efforts and plans are.",
+  "date": "2017-06-21T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "React Native Monthly #1",
+  "readingTime": 5.215,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native Monthly #2",
+    "permalink": "/blog/2017/07/28/react-native-monthly-2"
+  },
+  "nextItem": {
+    "title": "Better List Views in React Native",
+    "permalink": "/blog/2017/03/13/better-list-views"
+  }
+}

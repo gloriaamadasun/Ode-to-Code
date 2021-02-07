@@ -1,0 +1,22 @@
+{
+  "unversionedId": "modal",
+  "id": "version-0.61/modal",
+  "isDocsHomePage": false,
+  "title": "Modal",
+  "description": "The Modal component is a basic way to present content above an enclosing view.",
+  "source": "@site/versioned_docs/version-0.61/modal.md",
+  "slug": "/modal",
+  "permalink": "/docs/0.61/modal",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/modal.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/components",
+  "previous": {
+    "title": "🚧 MaskedViewIOS",
+    "permalink": "/docs/0.61/maskedviewios"
+  },
+  "next": {
+    "title": "Picker",
+    "permalink": "/docs/0.61/picker"
+  }
+}

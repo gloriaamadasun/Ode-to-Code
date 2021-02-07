@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2017/08/07/react-native-performance-in-marketplace",
+  "source": "@site/blog/2017-08-07-react-native-performance-in-marketplace.md",
+  "description": "React Native is used in multiple places across multiple apps in the Facebook family including a top level tab in the main Facebook apps. Our focus for this post is a highly visible product, Marketplace. It is available in a dozen or so countries and enables users to discover products and services provided by other users.",
+  "date": "2017-08-07T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "React Native Performance in Marketplace",
+  "readingTime": 4.86,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native Monthly #3",
+    "permalink": "/blog/2017/08/30/react-native-monthly-3"
+  },
+  "nextItem": {
+    "title": "React Native Monthly #2",
+    "permalink": "/blog/2017/07/28/react-native-monthly-2"
+  }
+}

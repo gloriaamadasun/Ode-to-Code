@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2015/09/14/react-native-for-android",
+  "source": "@site/blog/2015-09-14-react-native-for-android.md",
+  "description": "Earlier this year, we introduced React Native for iOS. React Native brings what developers are used to from React on the web — declarative self-contained UI components and fast development cycles — to the mobile platform, while retaining the speed, fidelity, and feel of native applications. Today, we're happy to release React Native for Android.",
+  "date": "2015-09-14T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "React Native for Android: How we built the first cross-platform React Native app",
+  "readingTime": 0.895,
+  "truncated": false,
+  "prevItem": {
+    "title": "Making React Native apps accessible",
+    "permalink": "/blog/2015/11/23/making-react-native-apps-accessible"
+  },
+  "nextItem": {
+    "title": "React Native: Bringing modern web techniques to mobile",
+    "permalink": "/blog/2015/03/26/react-native-bringing-modern-web-techniques-to-mobile"
+  }
+}

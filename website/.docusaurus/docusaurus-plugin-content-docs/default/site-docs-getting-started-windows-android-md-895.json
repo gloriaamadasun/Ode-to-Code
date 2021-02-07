@@ -1,0 +1,13 @@
+{
+  "unversionedId": "_getting-started-windows-android",
+  "id": "_getting-started-windows-android",
+  "isDocsHomePage": false,
+  "title": "_getting-started-windows-android",
+  "description": "Installing dependencies",
+  "source": "@site/../docs/_getting-started-windows-android.md",
+  "slug": "/_getting-started-windows-android",
+  "permalink": "/docs/next/_getting-started-windows-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/_getting-started-windows-android.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055
+}

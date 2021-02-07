@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2016/11/08/introducing-button-yarn-and-a-public-roadmap",
+  "source": "@site/blog/2016-11-08-introducing-button-yarn-and-a-public-roadmap.md",
+  "description": "We have heard from many people that there is so much work happening with React Native, it can be tough to keep track of what's going on. To help communicate what work is in progress, we are now publishing a roadmap for React Native. At a high level, this work can be broken down into three priorities:",
+  "date": "2016-11-08T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "Introducing Button, Faster Installs with Yarn, and a Public Roadmap",
+  "readingTime": 2.53,
+  "truncated": false,
+  "prevItem": {
+    "title": "Easier Upgrades Thanks to Git",
+    "permalink": "/blog/2016/12/05/easier-upgrades"
+  },
+  "nextItem": {
+    "title": "0.36: Headless JS, the Keyboard API, & more",
+    "permalink": "/blog/2016/10/25/0.36-headless-js-the-keyboard-api-and-more"
+  }
+}

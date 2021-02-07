@@ -1,0 +1,22 @@
+{
+  "unversionedId": "animated",
+  "id": "version-0.61/animated",
+  "isDocsHomePage": false,
+  "title": "Animated",
+  "description": "The Animated library is designed to make animations fluid, powerful, and painless to build and maintain. Animated focuses on declarative relationships between inputs and outputs, with configurable transforms in between, and start/stop methods to control time-based animation execution.",
+  "source": "@site/versioned_docs/version-0.61/animated.md",
+  "slug": "/animated",
+  "permalink": "/docs/0.61/animated",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/animated.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "🚧 AlertIOS",
+    "permalink": "/docs/0.61/alertios"
+  },
+  "next": {
+    "title": "AppRegistry",
+    "permalink": "/docs/0.61/appregistry"
+  }
+}

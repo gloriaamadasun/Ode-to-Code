@@ -1,0 +1,22 @@
+{
+  "unversionedId": "safeareaview",
+  "id": "version-0.63/safeareaview",
+  "isDocsHomePage": false,
+  "title": "SafeAreaView",
+  "description": "The purpose of SafeAreaView is to render content within the safe area boundaries of a device. It is currently only applicable to iOS devices with iOS version 11 or later.",
+  "source": "@site/versioned_docs/version-0.63/safeareaview.md",
+  "slug": "/safeareaview",
+  "permalink": "/docs/safeareaview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/safeareaview.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "🚧 MaskedViewIOS",
+    "permalink": "/docs/maskedviewios"
+  },
+  "next": {
+    "title": "Image Style Props",
+    "permalink": "/docs/image-style-props"
+  }
+}

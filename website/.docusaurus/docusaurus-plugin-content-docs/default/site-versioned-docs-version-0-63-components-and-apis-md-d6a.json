@@ -1,0 +1,18 @@
+{
+  "unversionedId": "components-and-apis",
+  "id": "version-0.63/components-and-apis",
+  "isDocsHomePage": false,
+  "title": "Core Components and APIs",
+  "description": "React Native provides a number of built-in Core Components ready for you to use in your app. You can find them all in the left sidebar (or menu above, if you are on a narrow screen). If you're not sure where to get started, take a look at the following categories:",
+  "source": "@site/versioned_docs/version-0.63/components-and-apis.md",
+  "slug": "/components-and-apis",
+  "permalink": "/docs/components-and-apis",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/components-and-apis.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "next": {
+    "title": "ActivityIndicator",
+    "permalink": "/docs/activityindicator"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "typescript",
+  "id": "version-0.60/typescript",
+  "isDocsHomePage": false,
+  "title": "Using TypeScript with React Native",
+  "description": "TypeScript is a language which extends JavaScript by adding type definitions, much like Flow. While React Native is built in Flow, it supports both TypeScript and Flow by default.",
+  "source": "@site/versioned_docs/version-0.60/typescript.md",
+  "slug": "/typescript",
+  "permalink": "/docs/0.60/typescript",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/typescript.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/docs",
+  "previous": {
+    "title": "JavaScript Environment",
+    "permalink": "/docs/0.60/javascript-environment"
+  },
+  "next": {
+    "title": "Direct Manipulation",
+    "permalink": "/docs/0.60/direct-manipulation"
+  }
+}

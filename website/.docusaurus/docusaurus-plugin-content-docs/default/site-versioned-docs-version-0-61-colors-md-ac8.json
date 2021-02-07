@@ -1,0 +1,22 @@
+{
+  "unversionedId": "colors",
+  "id": "version-0.61/colors",
+  "isDocsHomePage": false,
+  "title": "Color Reference",
+  "description": "Components in React Native are styled using JavaScript. Color properties usually match how CSS works on the web.",
+  "source": "@site/versioned_docs/version-0.61/colors.md",
+  "slug": "/colors",
+  "permalink": "/docs/0.61/colors",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/colors.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/docs",
+  "previous": {
+    "title": "Direct Manipulation",
+    "permalink": "/docs/0.61/direct-manipulation"
+  },
+  "next": {
+    "title": "Integration with Existing Apps",
+    "permalink": "/docs/0.61/integration-with-existing-apps"
+  }
+}

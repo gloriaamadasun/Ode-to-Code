@@ -1,0 +1,22 @@
+{
+  "unversionedId": "signed-apk-android",
+  "id": "version-0.62/signed-apk-android",
+  "isDocsHomePage": false,
+  "title": "Publishing to Google Play Store",
+  "description": "Android requires that all apps be digitally signed with a certificate before they can be installed. In order to distribute your Android application via Google Play store it needs to be signed with a release key that then needs to be used for all future updates. Since 2017 it is possible for Google Play to manage signing releases automatically thanks to App Signing by Google Play functionality. However, before your application binary is uploaded to Google Play it needs to be signed with an upload key. The Signing Your Applications page on Android Developers documentation describes the topic in detail. This guide covers the process in brief, as well as lists the steps required to package the JavaScript bundle.",
+  "source": "@site/versioned_docs/version-0.62/signed-apk-android.md",
+  "slug": "/signed-apk-android",
+  "permalink": "/docs/0.62/signed-apk-android",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/signed-apk-android.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Headless JS",
+    "permalink": "/docs/0.62/headless-js-android"
+  },
+  "next": {
+    "title": "Removing Default Permissions",
+    "permalink": "/docs/0.62/removing-default-permissions"
+  }
+}

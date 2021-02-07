@@ -1,0 +1,22 @@
+{
+  "unversionedId": "debugging",
+  "id": "version-0.62/debugging",
+  "isDocsHomePage": false,
+  "title": "Debugging",
+  "description": "Accessing the In-App Developer Menu",
+  "source": "@site/versioned_docs/version-0.62/debugging.md",
+  "slug": "/debugging",
+  "permalink": "/docs/0.62/debugging",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/debugging.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Fast Refresh",
+    "permalink": "/docs/0.62/fast-refresh"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/docs/0.62/testing-overview"
+  }
+}

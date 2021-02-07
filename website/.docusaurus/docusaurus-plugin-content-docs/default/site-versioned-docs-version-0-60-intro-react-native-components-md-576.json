@@ -1,0 +1,13 @@
+{
+  "unversionedId": "intro-react-native-components",
+  "id": "version-0.60/intro-react-native-components",
+  "isDocsHomePage": false,
+  "title": "Core Components and Native Components",
+  "description": "React Native lets you compose app interfaces using Native Components. Conveniently, it comes with a set of these components for you to get started with right now—the Core Components!",
+  "source": "@site/versioned_docs/version-0.60/intro-react-native-components.md",
+  "slug": "/intro-react-native-components",
+  "permalink": "/docs/0.60/intro-react-native-components",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/intro-react-native-components.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055
+}

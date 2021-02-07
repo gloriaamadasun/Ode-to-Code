@@ -1,0 +1,22 @@
+{
+  "unversionedId": "vibration",
+  "id": "vibration",
+  "isDocsHomePage": false,
+  "title": "Vibration",
+  "description": "Vibrates the device.",
+  "source": "@site/../docs/vibration.md",
+  "slug": "/vibration",
+  "permalink": "/docs/next/vibration",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/vibration.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "api",
+  "previous": {
+    "title": "Transforms",
+    "permalink": "/docs/next/transforms"
+  },
+  "next": {
+    "title": "useColorScheme",
+    "permalink": "/docs/next/usecolorscheme"
+  }
+}

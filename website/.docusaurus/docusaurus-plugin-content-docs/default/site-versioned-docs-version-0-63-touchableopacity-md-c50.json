@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchableopacity",
+  "id": "version-0.63/touchableopacity",
+  "isDocsHomePage": false,
+  "title": "TouchableOpacity",
+  "description": "If you're looking for a more extensive and future-proof way to handle touch-based input, check out the Pressable API.",
+  "source": "@site/versioned_docs/version-0.63/touchableopacity.md",
+  "slug": "/touchableopacity",
+  "permalink": "/docs/touchableopacity",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/touchableopacity.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "TouchableHighlight",
+    "permalink": "/docs/touchablehighlight"
+  },
+  "next": {
+    "title": "TouchableWithoutFeedback",
+    "permalink": "/docs/touchablewithoutfeedback"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "removing-default-permissions",
+  "id": "version-0.62/removing-default-permissions",
+  "isDocsHomePage": false,
+  "title": "Removing Default Permissions",
+  "description": "By default, some permissions are added to your Android APK.",
+  "source": "@site/versioned_docs/version-0.62/removing-default-permissions.md",
+  "slug": "/removing-default-permissions",
+  "permalink": "/docs/0.62/removing-default-permissions",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/removing-default-permissions.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Publishing to Google Play Store",
+    "permalink": "/docs/0.62/signed-apk-android"
+  },
+  "next": {
+    "title": "Native Modules",
+    "permalink": "/docs/0.62/native-modules-ios"
+  }
+}

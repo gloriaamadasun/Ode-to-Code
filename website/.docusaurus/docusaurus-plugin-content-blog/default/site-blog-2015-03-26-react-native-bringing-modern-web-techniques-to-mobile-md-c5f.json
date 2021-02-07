@@ -1,0 +1,19 @@
+{
+  "permalink": "/blog/2015/03/26/react-native-bringing-modern-web-techniques-to-mobile",
+  "source": "@site/blog/2015-03-26-react-native-bringing-modern-web-techniques-to-mobile.md",
+  "description": "We introduced React to the world two years ago, and since then it's seen impressive growth, both inside and outside of Facebook. Today, even though no one is forced to use it, new web projects at Facebook are commonly built using React in one form or another, and it's being broadly adopted across the industry. Engineers are choosing to use React every day because it enables them to spend more time focusing on their products and less time fighting with their framework. It wasn't until we'd been building with React for a while, though, that we started to understand what makes it so powerful.",
+  "date": "2015-03-26T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    }
+  ],
+  "title": "React Native: Bringing modern web techniques to mobile",
+  "readingTime": 1.86,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native for Android: How we built the first cross-platform React Native app",
+    "permalink": "/blog/2015/09/14/react-native-for-android"
+  }
+}

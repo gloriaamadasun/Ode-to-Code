@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/07/06/version-0.63",
+  "source": "@site/blog/2020-07-06-version-0.63.md",
+  "description": "Today we’re releasing React Native 0.63 that ships with LogBox turned on by default.",
+  "date": "2020-07-06T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "title": "Announcing React Native 0.63 with LogBox",
+  "readingTime": 7.12,
+  "truncated": false,
+  "prevItem": {
+    "title": "React Native Team Principles",
+    "permalink": "/blog/2020/07/17/react-native-principles"
+  },
+  "nextItem": {
+    "title": "Announcing React Native 0.62 with Flipper",
+    "permalink": "/blog/2020/03/26/version-0.62"
+  }
+}

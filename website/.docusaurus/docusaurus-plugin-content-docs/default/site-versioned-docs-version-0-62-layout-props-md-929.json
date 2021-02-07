@@ -1,0 +1,22 @@
+{
+  "unversionedId": "layout-props",
+  "id": "version-0.62/layout-props",
+  "isDocsHomePage": false,
+  "title": "Layout Props",
+  "description": "Example",
+  "source": "@site/versioned_docs/version-0.62/layout-props.md",
+  "slug": "/layout-props",
+  "permalink": "/docs/0.62/layout-props",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/layout-props.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/components",
+  "previous": {
+    "title": "Image Style Props",
+    "permalink": "/docs/0.62/image-style-props"
+  },
+  "next": {
+    "title": "Shadow Props",
+    "permalink": "/docs/0.62/shadow-props"
+  }
+}

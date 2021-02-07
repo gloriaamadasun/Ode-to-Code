@@ -1,0 +1,13 @@
+{
+  "unversionedId": "pickerios",
+  "id": "version-0.63/pickerios",
+  "isDocsHomePage": false,
+  "title": "🚧 PickerIOS",
+  "description": "Deprecated. Use @react-native-community/picker instead.",
+  "source": "@site/versioned_docs/version-0.63/pickerios.md",
+  "slug": "/pickerios",
+  "permalink": "/docs/pickerios",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/pickerios.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2018/08/27/wkwebview",
+  "source": "@site/blog/2018-08-27-wkwebview.md",
+  "description": "For a long time now, Apple has discouraged using UIWebViews in favor of WKWebView. In iOS 12, which will be released in the upcoming months, UIWebViews will be formally deprecated. React Native's iOS WebView implementation relies heavily on the UIWebView class. Therefore, in light of these developments, we've built a new native iOS backend to the WebView React Native component that uses WKWebView.",
+  "date": "2018-08-27T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "engineering",
+      "permalink": "/blog/tags/engineering"
+    }
+  ],
+  "title": "Introducing new iOS WebViews",
+  "readingTime": 1.795,
+  "truncated": false,
+  "prevItem": {
+    "title": "Open Source Roadmap",
+    "permalink": "/blog/2018/11/01/oss-roadmap"
+  },
+  "nextItem": {
+    "title": "Accessibility API Updates",
+    "permalink": "/blog/2018/08/13/react-native-accessibility-updates"
+  }
+}

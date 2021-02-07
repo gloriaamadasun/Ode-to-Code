@@ -1,0 +1,22 @@
+{
+  "unversionedId": "keyboard",
+  "id": "version-0.62/keyboard",
+  "isDocsHomePage": false,
+  "title": "Keyboard",
+  "description": "Keyboard module to control keyboard events.",
+  "source": "@site/versioned_docs/version-0.62/keyboard.md",
+  "slug": "/keyboard",
+  "permalink": "/docs/0.62/keyboard",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/keyboard.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/api",
+  "previous": {
+    "title": "InteractionManager",
+    "permalink": "/docs/0.62/interactionmanager"
+  },
+  "next": {
+    "title": "LayoutAnimation",
+    "permalink": "/docs/0.62/layoutanimation"
+  }
+}

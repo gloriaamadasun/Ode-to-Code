@@ -1,0 +1,22 @@
+{
+  "unversionedId": "statusbar",
+  "id": "statusbar",
+  "isDocsHomePage": false,
+  "title": "StatusBar",
+  "description": "Component to control the app status bar.",
+  "source": "@site/../docs/statusbar.md",
+  "slug": "/statusbar",
+  "permalink": "/docs/next/statusbar",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/statusbar.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "SectionList",
+    "permalink": "/docs/next/sectionlist"
+  },
+  "next": {
+    "title": "Switch",
+    "permalink": "/docs/next/switch"
+  }
+}

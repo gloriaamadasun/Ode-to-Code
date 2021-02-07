@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchablehighlight",
+  "id": "version-0.60/touchablehighlight",
+  "isDocsHomePage": false,
+  "title": "TouchableHighlight",
+  "description": "A wrapper for making views respond properly to touches. On press down, the opacity of the wrapped view is decreased, which allows the underlay color to show through, darkening or tinting the view.",
+  "source": "@site/versioned_docs/version-0.60/touchablehighlight.md",
+  "slug": "/touchablehighlight",
+  "permalink": "/docs/0.60/touchablehighlight",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/touchablehighlight.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "ToolbarAndroid",
+    "permalink": "/docs/0.60/toolbarandroid"
+  },
+  "next": {
+    "title": "TouchableNativeFeedback",
+    "permalink": "/docs/0.60/touchablenativefeedback"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/07/03/version-60",
+  "source": "@site/blog/2019-07-03-version-60.md",
+  "description": "After months of hard work from hundreds of contributors, the React Native Core team is proud to announce the release of version 0.60. This release handles significant migrations for both Android and iOS platforms, and many issues are resolved too. This blog post covers the highlights of the release. As always though, refer to the changelog for more detailed information. Finally, thank you contributors for helping us to make this milestone!",
+  "date": "2019-07-03T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "announcement",
+      "permalink": "/blog/tags/announcement"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "title": "Announcing React Native 0.60",
+  "readingTime": 4.03,
+  "truncated": false,
+  "prevItem": {
+    "title": "Meet Hermes, a new JavaScript Engine optimized for React Native",
+    "permalink": "/blog/2019/07/17/hermes"
+  },
+  "nextItem": {
+    "title": "React Native Open Source Update June 2019",
+    "permalink": "/blog/2019/06/12/react-native-open-source-update"
+  }
+}

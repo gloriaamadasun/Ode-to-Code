@@ -1,0 +1,22 @@
+{
+  "unversionedId": "pressable",
+  "id": "version-0.63/pressable",
+  "isDocsHomePage": false,
+  "title": "Pressable",
+  "description": "Pressable is a Core Component wrapper that can detect various stages of press interactions on any of its defined children.",
+  "source": "@site/versioned_docs/version-0.63/pressable.md",
+  "slug": "/pressable",
+  "permalink": "/docs/pressable",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/pressable.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.63/components",
+  "previous": {
+    "title": "Modal",
+    "permalink": "/docs/modal"
+  },
+  "next": {
+    "title": "RefreshControl",
+    "permalink": "/docs/refreshcontrol"
+  }
+}

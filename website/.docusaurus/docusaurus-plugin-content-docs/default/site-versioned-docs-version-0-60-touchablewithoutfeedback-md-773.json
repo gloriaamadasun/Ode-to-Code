@@ -1,0 +1,22 @@
+{
+  "unversionedId": "touchablewithoutfeedback",
+  "id": "version-0.60/touchablewithoutfeedback",
+  "isDocsHomePage": false,
+  "title": "TouchableWithoutFeedback",
+  "description": "Do not use unless you have a very good reason. All elements that respond to press should have a visual feedback when touched.",
+  "source": "@site/versioned_docs/version-0.60/touchablewithoutfeedback.md",
+  "slug": "/touchablewithoutfeedback",
+  "permalink": "/docs/0.60/touchablewithoutfeedback",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/touchablewithoutfeedback.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/components",
+  "previous": {
+    "title": "TouchableOpacity",
+    "permalink": "/docs/0.60/touchableopacity"
+  },
+  "next": {
+    "title": "View",
+    "permalink": "/docs/0.60/view"
+  }
+}

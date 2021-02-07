@@ -1,0 +1,22 @@
+{
+  "unversionedId": "debugging",
+  "id": "debugging",
+  "isDocsHomePage": false,
+  "title": "Debugging",
+  "description": "Accessing the In-App Developer Menu",
+  "source": "@site/../docs/debugging.md",
+  "slug": "/debugging",
+  "permalink": "/docs/next/debugging",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/debugging.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "docs",
+  "previous": {
+    "title": "Fast Refresh",
+    "permalink": "/docs/next/fast-refresh"
+  },
+  "next": {
+    "title": "Symbolicating a stack trace",
+    "permalink": "/docs/next/symbolication"
+  }
+}

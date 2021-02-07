@@ -1,0 +1,22 @@
+{
+  "unversionedId": "pressevent",
+  "id": "pressevent",
+  "isDocsHomePage": false,
+  "title": "PressEvent Object Type",
+  "description": "PressEvent object is returned in the callback as a result of user press interaction, for example onPress in Button component.",
+  "source": "@site/../docs/pressevent.md",
+  "slug": "/pressevent",
+  "permalink": "/docs/next/pressevent",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/pressevent.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "LayoutEvent Object Type",
+    "permalink": "/docs/next/layoutevent"
+  },
+  "next": {
+    "title": "React Node Object Type",
+    "permalink": "/docs/next/react-node"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "settings",
+  "id": "version-0.60/settings",
+  "isDocsHomePage": false,
+  "title": "Settings",
+  "description": "Settings serves as a wrapper for NSUserDefaults, a persistent key-value store available only on iOS.",
+  "source": "@site/versioned_docs/version-0.60/settings.md",
+  "slug": "/settings",
+  "permalink": "/docs/0.60/settings",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.60/settings.md",
+  "version": "0.60",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.60/api",
+  "previous": {
+    "title": "PushNotificationIOS",
+    "permalink": "/docs/0.60/pushnotificationios"
+  },
+  "next": {
+    "title": "Shadow Props",
+    "permalink": "/docs/0.60/shadow-props"
+  }
+}

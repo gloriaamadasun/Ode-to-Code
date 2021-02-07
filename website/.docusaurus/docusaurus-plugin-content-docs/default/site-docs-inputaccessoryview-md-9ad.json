@@ -1,0 +1,22 @@
+{
+  "unversionedId": "inputaccessoryview",
+  "id": "inputaccessoryview",
+  "isDocsHomePage": false,
+  "title": "InputAccessoryView",
+  "description": "A component which enables customization of the keyboard input accessory view on iOS. The input accessory view is displayed above the keyboard whenever a TextInput has focus. This component can be used to create custom toolbars.",
+  "source": "@site/../docs/inputaccessoryview.md",
+  "slug": "/inputaccessoryview",
+  "permalink": "/docs/next/inputaccessoryview",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/../docs/inputaccessoryview.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "components",
+  "previous": {
+    "title": "TouchableNativeFeedback",
+    "permalink": "/docs/next/touchablenativefeedback"
+  },
+  "next": {
+    "title": "SafeAreaView",
+    "permalink": "/docs/next/safeareaview"
+  }
+}

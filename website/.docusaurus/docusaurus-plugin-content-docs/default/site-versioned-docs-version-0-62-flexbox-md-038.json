@@ -1,0 +1,22 @@
+{
+  "unversionedId": "flexbox",
+  "id": "version-0.62/flexbox",
+  "isDocsHomePage": false,
+  "title": "Layout with Flexbox",
+  "description": "A component can specify the layout of its children using the Flexbox algorithm. Flexbox is designed to provide a consistent layout on different screen sizes.",
+  "source": "@site/versioned_docs/version-0.62/flexbox.md",
+  "slug": "/flexbox",
+  "permalink": "/docs/0.62/flexbox",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.62/flexbox.md",
+  "version": "0.62",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.62/docs",
+  "previous": {
+    "title": "Height and Width",
+    "permalink": "/docs/0.62/height-and-width"
+  },
+  "next": {
+    "title": "Images",
+    "permalink": "/docs/0.62/images"
+  }
+}

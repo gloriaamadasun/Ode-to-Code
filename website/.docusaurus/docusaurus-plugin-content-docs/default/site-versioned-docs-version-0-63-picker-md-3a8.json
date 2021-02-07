@@ -1,0 +1,13 @@
+{
+  "unversionedId": "picker",
+  "id": "version-0.63/picker",
+  "isDocsHomePage": false,
+  "title": "🚧 Picker",
+  "description": "Deprecated. Use @react-native-picker/picker instead.",
+  "source": "@site/versioned_docs/version-0.63/picker.md",
+  "slug": "/picker",
+  "permalink": "/docs/picker",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.63/picker.md",
+  "version": "0.63",
+  "lastUpdatedAt": 1539502055
+}

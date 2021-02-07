@@ -1,0 +1,22 @@
+{
+  "unversionedId": "timepickerandroid",
+  "id": "version-0.61/timepickerandroid",
+  "isDocsHomePage": false,
+  "title": "🚧 TimePickerAndroid",
+  "description": "Deprecated. Use @react-native-community/datetimepicker instead.",
+  "source": "@site/versioned_docs/version-0.61/timepickerandroid.md",
+  "slug": "/timepickerandroid",
+  "permalink": "/docs/0.61/timepickerandroid",
+  "editUrl": "https://github.com/facebook/react-native-website/blob/master/website/versioned_docs/version-0.61/timepickerandroid.md",
+  "version": "0.61",
+  "lastUpdatedAt": 1539502055,
+  "sidebar": "version-0.61/api",
+  "previous": {
+    "title": "Text Style Props",
+    "permalink": "/docs/0.61/text-style-props"
+  },
+  "next": {
+    "title": "ToastAndroid",
+    "permalink": "/docs/0.61/toastandroid"
+  }
+}
