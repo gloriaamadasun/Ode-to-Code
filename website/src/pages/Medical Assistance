@@ -1,0 +1,88 @@
+import React from "react";
+import {
+ StyleSheet,
+ Button,
+ View,
+ SafeAreaView,
+ Text,
+ Alert
+} from "react-native";
+ 
+const Separator = () => <View style={styles.separator} />;
+ 
+const App = () => (
+ <SafeAreaView style={styles.container}>
+   <View>
+     <Text style={styles.title}></Text>
+     <Button
+       title="Welcolme to Medical Assistance"
+       color="#d8bfd8"
+    
+     />
+   </View>
+   <Separator />
+   <View>
+     <Text style={styles.title}></Text>
+    
+     <Button
+       title="Medical Contact"
+       color="#f194ff"
+       onPress={() => Alert.alert("Button with adjusted color pressed")}
+     />
+   </View>
+   <Separator />
+   <View>
+     <Text style={styles.title}></Text>
+    
+     <Button
+       title="Articles"
+       color="#f194ff"
+       onPress={() => Alert.alert("Cannot press this one")}
+     />
+   </View>
+   <Separator />
+   <View>
+     <Text style={styles.title}></Text>
+    
+     <Button
+       title="Prescriptions"
+      
+       color="#f194ff"
+       onPress={() => Alert.alert("Cannot press this one")}
+     />
+   </View>
+   <Separator />
+   <View>
+     <Text style={styles.title}></Text>
+    
+     <Button
+       title="Insurance Count"
+       color="#f194ff"
+       onPress={() => Alert.alert("Button with adjusted color pressed")}
+     />
+   </View>
+ </SafeAreaView>
+);
+ 
+const styles = StyleSheet.create({
+ container: {
+   flex: 1,
+   justifyContent: "center",
+   marginHorizontal: 16
+ },
+ title: {
+   textAlign: "center",
+   marginVertical: 8
+ },
+ fixToText: {
+   flexDirection: "row",
+   justifyContent: "space-between"
+ },
+ separator: {
+   marginVertical: 20,
+   borderBottomColor: "#737373",
+   borderBottomWidth: StyleSheet.hairlineWidth
+ }
+});
+ 
+export default App;
